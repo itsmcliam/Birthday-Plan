@@ -6,6 +6,28 @@
 
 [Download the printable PDF](Birthday-Trip-Plan.pdf)
 
+## Attendance - updated October 14, 2026
+
+**5 confirmed | 6 pending/conditional | Up to 11 participants if everyone joins**
+
+| Person | Status | Notes |
+| --- | --- | --- |
+| MC | Confirmed | |
+| Richelle | Confirmed | |
+| Karl | Confirmed | |
+| Ian Barte | Confirmed | |
+| Ian Carl | Confirmed | |
+| Paul | Pending | Expects to confirm around October 25. |
+| Jannelle | Pending | Awaiting confirmation. |
+| Ian Carreon | Pending | Awaiting confirmation. |
+| Walter | Pending | Awaiting confirmation. |
+| Gerard | Pending | Awaiting confirmation. |
+| Blessy | Conditional - day trip only | Parental permission and an approved driver with that driver's van still need confirmation. |
+
+Plan around the **5 confirmed participants** for now. If all pending participants join, the maximum is **11 total**, including Blessy for the day only, and **10 overnight participants**. Confirm vehicle seating and sleeping arrangements against the final headcount; the driver/van mentioned for Blessy is a condition, not a booked transport arrangement.
+
+The **₱1,500 budget per friend**, proposed two-car itinerary, optional boat and driver rest periods remain the current plan. Total shared costs and MC's spending still need confirmation against the final attendance and bookings.
+
 ## Budget per friend
 
 | Expense | Budget |
@@ -113,4 +135,4 @@ flowchart TD
 - Sleeping arrangements still need confirmation.
 - Getting home by **10 PM** is the target, depending on traffic.
 
-Prepared from the supplied Birthday Plan 2 image. Repeated Sunday rows in the image are included once. No bookings or prices were independently verified.
+Prepared from the supplied Birthday Plan 2 image. Repeated Sunday rows in the image are included once. Attendance was updated from MC's confirmations on October 14, 2026. No bookings or prices were independently verified.
