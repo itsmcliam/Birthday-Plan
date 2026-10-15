@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
-<title id="title">Birthday weekend overview</title><desc id="desc">November 7-8, 2026. Budget per friend 1500 pesos, split into 850 shared contribution and 650 personal meals. Saturday resort and Sunday adventure park and beach. Attendance updated October 15, 2026: 4 confirmed and 7 pending or conditional; up to 11 total, with Blessy day-trip only.</desc>
+<title id="title">Birthday weekend overview</title><desc id="desc">November 7-8, 2026. Budget per friend 1500 pesos, split into 850 shared contribution and 650 personal meals. Saturday resort and Sunday adventure park and beach. Attendance updated October 15, 2026: 4 confirmed and 7 pending or conditional; up to 11 total, with Blessy day-trip only. Punto Miguel Beach House day tour reserved for 5 people on November 8, 2026.</desc>
 <rect width="1600" height="900" fill="#0d1117"/>
 <text x="60" y="60" fill="#8b949e" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="400">birthday-trip / overview</text>
 <text x="60" y="135" fill="#e6edf3" font-family="DejaVu Sans, Arial, sans-serif" font-size="54" font-weight="700">Birthday weekend</text>
@@ -23,10 +23,10 @@
 <text x="850" y="493" fill="#e6edf3" font-family="DejaVu Sans, Arial, sans-serif" font-size="30" font-weight="700">Adventure + beach</text>
 <text x="850" y="542" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">7:00 AM  Travel to Laiya Adventure Park</text>
 <text x="850" y="581" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">8:30-11:30 AM  Package B activities</text>
-<text x="850" y="620" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">Packed lunch → Punto Miguel beach</text>
+<text x="850" y="620" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">Packed lunch → Punto Miguel (reserved for 5)</text>
 <text x="850" y="659" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">Driver rest → QC dinner → home</text>
 <rect x="60" y="731" width="1480" height="105" rx="12" fill="#161b22" stroke="#30363d"/>
 <text x="90" y="772" fill="#3fb950" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="700">MC COVERS THE MAIN ACTIVITIES · FREE OVERNIGHT ACCOMMODATION</text>
 <text x="90" y="812" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="400">Boat/snorkeling: optional ₱3,000/group. Boat &amp; ATV are outside the ₱1,500 budget.</text>
-<text x="60" y="875" fill="#8b949e" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400">Proposed schedule · Bookings and resort hours pending · Home by 10 PM is the target, traffic permitting</text>
+<text x="60" y="875" fill="#8b949e" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400">Punto Miguel reserved for 5 · Other bookings pending · Home by 10 PM target, traffic permitting</text>
 </svg>

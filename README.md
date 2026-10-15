@@ -6,6 +6,16 @@
 
 [Download the printable PDF](Birthday-Trip-Plan.pdf)
 
+## Booking status - updated October 15, 2026
+
+| Venue | Status | Details |
+| --- | --- | --- |
+| Punto Miguel Beach House | **Reserved for 5 people** | Sunday, November 8, 2026 - day tour. Booking confirmation received. |
+| Laiya Adventure Park | Pending confirmation | Reservation not yet confirmed. |
+| Saturday resort | Pending confirmation | Resort choice and booking still need confirmation. |
+
+The **5 reserved slots at Punto Miguel** are separate from the attendance count below. Additional guests are subject to confirmation with the resort.
+
 ## Attendance - updated October 15, 2026
 
 **4 confirmed | 7 pending/conditional | Up to 11 participants if everyone joins**
@@ -60,7 +70,7 @@ flowchart TD
     A["Saturday: Petron Philcoa → Rosario"] --> B["Lunch, groceries and resort swimming"]
     B --> C["Dinner, birthday cake and overnight stay"]
     C --> D["Sunday: Laiya Adventure Park"]
-    D --> E["Punto Miguel: packed lunch and beach"]
+    D --> E["Punto Miguel: packed lunch and beach (5 reserved)"]
     E --> F{"Join optional boat/snorkeling?"}
     F -->|Yes| G["Extra group cost: ₱3,000; operator TBD"]
     F -->|Skip| H["Beach swimming and rest"]
@@ -91,7 +101,7 @@ flowchart TD
 | 5:30-7:00 AM | Assigned cooks prepare breakfast and packed lunch. Everyone eats and gets ready. |
 | 7:00-8:30 AM | Travel to Laiya Adventure Park. |
 | 8:30-11:30 AM | Package B: zipline, giant swing, freefall, aerial walk, climbing and rappelling. |
-| 11:30 AM-12:30 PM | Transfer to Punto Miguel, settle at our table and eat our packed lunch. |
+| 11:30 AM-12:30 PM | Transfer to Punto Miguel (day tour reserved for 5), settle at our table and eat our packed lunch. |
 | 12:30-2:30 PM | Beach swimming, photos, hangout time and rest. Optional boating/snorkeling. |
 | 2:30-4:30 PM | Wash up, change and travel back to the Rosario house. |
 | 4:30-5:30 PM | Drivers rest or nap. Everyone else cleans and packs. |
@@ -131,8 +141,8 @@ flowchart TD
 
 - Boat/snorkeling: **additional ₱3,000 per group**, approximately **₱429 each if everyone joins**, as estimated in the original plan. The operator still needs to confirm the arrangement; the per-person amount changes with participant count.
 - Boat and ATV costs are **outside the ₱1,500 budget**.
-- This is the proposed schedule. **Bookings and exact resort hours still need confirmation.**
+- This is the proposed schedule. **Punto Miguel is reserved for 5 people on November 8. Other bookings and exact resort hours still need confirmation.**
 - Sleeping arrangements still need confirmation.
 - Getting home by **10 PM** is the target, depending on traffic.
 
-Prepared from the supplied Birthday Plan 2 image. Repeated Sunday rows in the image are included once. Attendance was updated from MC's confirmations on October 15, 2026. No bookings or prices were independently verified.
+Prepared from the supplied Birthday Plan 2 image. Repeated Sunday rows in the image are included once. Attendance was updated from MC's confirmations on October 15, 2026. Punto Miguel's November 8 day-tour reservation for 5 was confirmed by MC on October 15, 2026. Other bookings and prices were not independently verified.
