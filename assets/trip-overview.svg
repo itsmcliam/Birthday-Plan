@@ -11,12 +11,12 @@
 <text x="90" y="350" fill="#3fb950" font-family="DejaVu Sans, Arial, sans-serif" font-size="58" font-weight="700">₱1,500</text>
 <text x="520" y="285" fill="#e6edf3" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700">₱550 shared contribution + ₱950 restaurant meals</text>
 <text x="520" y="330" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="400">Saturday lunch ₱300 · Sunday lunch ₱400 · Sunday dinner ₱250</text>
-<text x="90" y="403" fill="#58a6ff" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="700">PLEASE BRING EXTRA CASH: breakfast, bar orders, meal overruns and personal extras.</text>
+<text x="90" y="403" fill="#58a6ff" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="700">PLEASE BRING EXTRA CASH: bar orders, snacks, meal overruns and personal extras.</text>
 <rect x="60" y="465" width="720" height="320" rx="14" fill="#161b22" stroke="#30363d"/>
 <rect x="820" y="465" width="720" height="320" rx="14" fill="#161b22" stroke="#30363d"/>
 <text x="90" y="510" fill="#58a6ff" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="700">SATURDAY · NOVEMBER 7</text>
 <text x="90" y="555" fill="#e6edf3" font-family="DejaVu Sans, Arial, sans-serif" font-size="31" font-weight="700">Beach + birthday night</text>
-<text x="90" y="600" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">Pickups → depart 7 AM → San Antonio</text>
+<text x="90" y="600" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">Anne: light breakfast → depart 7 AM</text>
 <text x="90" y="640" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">KKB lunch → San Marcelino shopping</text>
 <text x="90" y="680" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">2:30-5:30 PM: Limliwa Beach</text>
 <text x="90" y="720" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">Dinner + cake at house → night bar</text>
@@ -32,7 +32,7 @@
 <text x="90" y="860" fill="#3fb950" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="700">OPEN FOR GROUP SUGGESTIONS AND VOLUNTEERS</text>
 <text x="90" y="902" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">ATV provider · Park access · Lunch venues · Night bar · Extra dish · BBQ grillers · Rice cook</text>
 <text x="90" y="941" fill="#8b949e" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="400">SandBox replaces ATV if selected. Final route and activity times remain provisional.</text>
-<text x="60" y="1015" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400">KKB: Saturday breakfast, both lunches, Sunday dinner, bar orders and personal purchases.</text>
+<text x="60" y="1015" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400">KKB: both lunches, Sunday dinner, bar orders and personal purchases.</text>
 <text x="60" y="1060" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">Leave the house with all bags Sunday · No return to San Antonio · Target home around 11 PM</text>
 <text x="60" y="1105" fill="#8b949e" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="400">Full itinerary, attendance, packing list and pending decisions: github.com/itsmcliam/Birthday-Plan</text>
 </svg>

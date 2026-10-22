@@ -21,6 +21,15 @@ A joint birthday celebration for **MC, Richelle and Paul**, with an overnight st
 
 **The itinerary is still proposed. Pending destinations and arrangements are open to group suggestions and approval.**
 
+## Route maps
+
+| Day | Google Maps route |
+| --- | --- |
+| Day 1 - Saturday, November 7 | [Open route](https://maps.app.goo.gl/bow4Z7npJpLcuBze9) |
+| Day 2 - Sunday, November 8 | [Open route](https://maps.app.goo.gl/9TENoR7mgRZXrqK6A) |
+
+Group route links supplied by MC. Sunday’s final route and timings remain subject to the confirmed ATV operator or SandBox alternative.
+
 ## Personal budget and KKB expenses
 
 | Expense per friend | Suggested amount |
@@ -37,7 +46,6 @@ Keep **₱950 for the three restaurant meals** and set aside **₱550 for the sh
 
 | Additional personal expense | Arrangement |
 | --- | --- |
-| Saturday breakfast | Buy or eat your own breakfast before departure |
 | Night bar | **KKB** drinks, food and any applicable cover charge |
 | Meals exceeding the allowance | Pay the difference individually |
 | Extra snacks, drinks and personal purchases | Own expense |
@@ -50,7 +58,7 @@ flowchart TD
     C --> D["Saturday lunch: ₱300"]
     C --> E["Sunday lunch: ₱400"]
     C --> F["Sunday dinner: ₱250"]
-    G["Bring extra cash beyond ₱1,500"] --> H["Own breakfast and bar orders"]
+    G["Bring extra cash beyond ₱1,500"] --> H["Bar orders, snacks and extras"]
     G --> I["Meal overruns and personal purchases"]
 ```
 
@@ -83,7 +91,7 @@ These are the **last recorded attendance statuses**. Please reconfirm availabili
 | Time | Plan |
 | --- | --- |
 | 5:30&#8209;6&nbsp;AM | MC arrives at Barte’s house, parks his motorcycle and helps load the car. |
-| 6&#8209;7&nbsp;AM | Pick up Karl and Ian Carl along the route, then meet the remaining passengers at the **Luzon meetup point**. Exact pickup pins to follow. Have your own breakfast beforehand or bring something ready to eat. |
+| 6&#8209;7&nbsp;AM | Pick up Karl and Ian Carl along the route, then meet the remaining passengers at the **Luzon meetup point**. Exact pickup pins to follow. **Anne prepares a light breakfast**, such as bread with spread or filling, for the meetup / departure. Final ingredients and quantity to confirm. |
 | 7&#8209;11&nbsp;AM | Travel to San Antonio, Zambales. Allow approximately **four hours**, including a short stop if needed. |
 | 11&nbsp;AM&#8209;12&nbsp;NN | **Lunch outside - KKB.** Choose a restaurant along the route or near San Antonio. |
 | 12&#8209;1:30&nbsp;PM | Shop at **San Marcelino Public Market**, then a grocery for missing items. Buy dinner and breakfast ingredients, fruit, cake, snacks, drinks, water and ice. Allow 60-90 minutes; Karl identifies the breakfast ingredients. |
@@ -139,7 +147,7 @@ Suggestions for a replacement adventure or relaxation stop are welcome. Choose p
 
 ```mermaid
 flowchart TD
-    A["Saturday: pickups and travel"] --> B["Lunch, San Marcelino shopping and house"]
+    A["Saturday: Anne prepares breakfast, pickups and travel"] --> B["Lunch, San Marcelino shopping and house"]
     B --> C["Limliwa Beach"]
     C --> D["Birthday dinner and night bar"]
     D --> E["Sunday: breakfast, clean and pack"]
@@ -154,7 +162,7 @@ flowchart TD
 
 ## Shopping plan
 
-Plan for **San Marcelino Public Market plus a short grocery stop**, rather than expecting one stall to have everything. Quantities are suggestions for seven people, not confirmed purchases. **Karl finalizes breakfast; the additional dinner dish is still pending.**
+Plan for **San Marcelino Public Market plus a short grocery stop**, rather than expecting one stall to have everything. Quantities are suggestions for seven people, not confirmed purchases. **Karl finalizes Sunday breakfast; the additional dinner dish is still pending.**
 
 ### Buy in San Marcelino / nearby
 
@@ -176,6 +184,7 @@ Plan for **San Marcelino Public Market plus a short grocery stop**, rather than 
 
 | Buy in QC and bring | Plan |
 | --- | --- |
+| Saturday breakfast ingredients | Anne arranges bread and spread / filling before departure; final quantities to confirm |
 | Marinated pork BBQ | 30 sticks; transport in a cooler with ice and refrigerate at the house |
 | Sauces and seasonings | Soy sauce, vinegar, oil, salt, pepper and ingredients requested by the cooks |
 | Garlic, onions and calamansi | Buy ahead if convenient; quantity depends on the final dishes |
@@ -192,7 +201,7 @@ Shopping references: [Mc Mar Frozen Foods listing](https://www.bizippines.com/mc
 
 | Meal / task | Plan | Assigned person |
 | --- | --- | --- |
-| Saturday breakfast | Own breakfast | Each person |
+| Saturday breakfast | Simple bread with spread or filling; final ingredients and quantity pending | **Anne prepares** |
 | Saturday lunch | Restaurant | **KKB** |
 | Saturday dinner: BBQ | **30 marinated pork BBQ sticks** | **At least two grilling volunteers needed** |
 | Saturday dinner: adobo | Pork adobo | Barte’s father, if joining and confirmed |
@@ -208,7 +217,7 @@ Shopping references: [Mc Mar Frozen Foods listing](https://www.bizippines.com/mc
 
 | Person | Items | Notes |
 | --- | --- | --- |
-| **Anne** | Camera gimbal, phone gimbal and picnic mat | Assigned to bring |
+| **Anne** | Camera gimbal, phone gimbal and picnic mat; simple Saturday breakfast | Assigned to bring and prepare; breakfast ingredients and quantity to confirm |
 | **Karl** | Speaker; tent if permitted | Tent cannot be pitched at Limliwa; keep speaker use considerate |
 | **Paul** | Cooler | If joining; otherwise arrange a backup |
 | **MC** | Picnic mat, first-aid kit, paper plates, spoons and forks, cups, trash bags, tissue/paper towels, aluminum foil and food-safe containers with lids | Assigned to bring |
@@ -234,6 +243,7 @@ Chargers, cables and charged power banks are each person’s responsibility.
 | **Water, ice and cooking basics** | Buy water and ice in Zambales; arrange charcoal, sauces, seasonings and other ingredients |
 | **Games and extension cord** | Ask who can bring small games; check whether an extension cord is available at the house |
 | **Shopping and cake** | Confirm the third dish and Karl’s breakfast list; check house supplies, local hotdog / longganisa stock, water and ice sources, and cake preorder / pickup. |
+| **Saturday breakfast** | Anne prepares a light breakfast for departure; confirm the bread, filling, quantity and ingredient / cost arrangements. |
 
 ## Personal packing checklist
 
@@ -248,6 +258,6 @@ Chargers, cables and charged power banks are each person’s responsibility.
 | **Rain protection** | Compact umbrella or raincoat |
 | **Optional comfort items** | Cap, light jacket, personal snacks and small pillow |
 
-**Bring extra cash beyond the ₱1,500 base allowance**, particularly for your breakfast, night-bar orders and meals that exceed the estimates.
+**Bring extra cash beyond the ₱1,500 base allowance**, particularly for night-bar orders, extra snacks and meals that exceed the estimates.
 
 The designated driver should remain sober and get sufficient rest. The schedule may change with weather, traffic, availability and the group’s condition.
