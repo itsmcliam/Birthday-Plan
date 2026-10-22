@@ -220,7 +220,7 @@ Shopping references: [Mc Mar Frozen Foods listing](https://www.bizippines.com/mc
 | **Anne** | Camera gimbal, phone gimbal and picnic mat; simple Saturday breakfast | Assigned to bring and prepare; breakfast ingredients and quantity to confirm |
 | **Karl** | Speaker; tent if permitted | Tent cannot be pitched at Limliwa; keep speaker use considerate |
 | **Paul** | Cooler | If joining; otherwise arrange a backup |
-| **MC** | Picnic mat, first-aid kit, paper plates, spoons and forks, cups, trash bags, tissue/paper towels, aluminum foil and food-safe containers with lids | Assigned to bring |
+| **MC** | Picnic mat, first-aid kit, paper plates, spoons and forks, cups, trash bags, tissue/paper towels, aluminum foil and food-safe containers with lids; 1 lighter (long-neck preferred), dishwashing liquid (200-250 mL), 1-2 dishwashing sponges and 1-2 clean kitchen/microfiber cloths | Assigned to bring; microfiber cloths for wiping counters. Keep a separate clean cloth if drying dishes. |
 | **Volunteers** | UNO, playing cards or other small games | Let the group know what you can bring |
 
 Chargers, cables and charged power banks are each person’s responsibility.
@@ -237,7 +237,7 @@ Chargers, cables and charged power banks are each person’s responsibility.
 | **New Clark City River Park** | Confirm access and route suitability; alternative places to relax after the adventure are welcome |
 | **Night bar** | Choose a venue and check opening hours and any cover charge |
 | **Dinner volunteers** | Assign at least two BBQ grillers, a rice cook, and someone to suggest and prepare the additional dish |
-| **Kitchen and grilling equipment** | Ask Barte about the stove, pans, knives, chopping board, serving trays, grill, tongs and lighter |
+| **Kitchen and grilling equipment** | Ask Barte about the stove and LPG, pots, frying pan, rice cooker, knives, chopping board, serving trays, grill and BBQ tongs. MC brings the lighter and dishwashing supplies. |
 | **Refrigerator and cooler** | Confirm refrigerator space and a backup cooler if Paul cannot join |
 | **Sleeping arrangements** | Confirm mattresses, pillows and blankets |
 | **Water, ice and cooking basics** | Buy water and ice in Zambales; arrange charcoal, sauces, seasonings and other ingredients |
