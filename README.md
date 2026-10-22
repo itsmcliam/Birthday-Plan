@@ -170,7 +170,7 @@ Plan for **San Marcelino Public Market plus a short grocery stop**, rather than 
 | --- | --- | --- |
 | Pork for adobo | Around 1-1.5 kg | Market meat stall; Barte’s father chooses the cut and amount |
 | Additional dinner dish | Pending | Finalize the dish and volunteer before shopping |
-| Rice | Around 2 kg uncooked | For dinner and breakfast; check house supplies first |
+| Rice | Around 2 kg uncooked | Group buys its own rice for dinner and breakfast |
 | Eggs | 10-14 pieces | Karl finalizes the breakfast list |
 | Hotdogs OR longganisa | Around 750 g-1 kg | Frozen-food stall or grocery; Karl selects one based on the menu |
 | Watermelon and bananas | 1 small watermelon + 10-14 bananas | Shared fruit; replace watermelon with pineapple or papaya if needed |
@@ -178,7 +178,7 @@ Plan for **San Marcelino Public Market plus a short grocery stop**, rather than 
 | Soft drinks / juice | 2 large bottles initially | Grocery; adjust to preferences |
 | Ice | Depends on cooler size | Confirm a supplier; replenish near the house |
 | Birthday cake | 1 sharing cake | Arrange a bakery preorder and pickup ahead of time |
-| Charcoal | Depends on grill and menu | Confirm grill availability first |
+| Charcoal | Depends on grill and menu | Group buys locally; quantity depends on the final grilling menu |
 
 ### Buy in QC and bring
 
@@ -186,14 +186,15 @@ Plan for **San Marcelino Public Market plus a short grocery stop**, rather than 
 | --- | --- |
 | Saturday breakfast ingredients | Anne arranges bread and spread / filling before departure; final quantities to confirm |
 | Marinated pork BBQ | 30 sticks; transport in a cooler with ice and refrigerate at the house |
-| Sauces and seasonings | Soy sauce, vinegar, oil, salt, pepper and ingredients requested by the cooks |
+| Sauces and seasonings | Buy our own soy sauce, vinegar, salt, pepper and other seasonings requested by the cooks |
+| Cooking oil | Buy in QC and bring for Saturday dinner and Sunday breakfast; quantity based on the final menu |
 | Garlic, onions and calamansi | Buy ahead if convenient; quantity depends on the final dishes |
 | Chips / snacks | Buy ahead to shorten the local shopping stop |
 | Shared supplies | MC brings the supplies in the gear table below |
 
-Listings show **Mc Mar Frozen Foods inside the public market** and **Rodriguez Supermart on Agpalo Street** as a grocery backup. Exact stock, brands, prices and ice availability are unconfirmed. Ask Barte where the family buys water and ice, and arrange the cake before the trip.
+Listings show **Mc Mar Frozen Foods inside the public market** and **Rodriguez Supermart on Agpalo Street** as a grocery backup. Exact stock, brands, prices and ice availability are unconfirmed. Confirm local water and ice sources, and arrange the cake before the trip.
 
-**Shopping flow:** Lunch outside → San Marcelino market → grocery for missing items → water / ice pickup → house and refrigerator → beach. Allow **60-90 minutes** for shopping. Check rice, oil, seasonings, refrigerator space and grill availability at the house first.
+**Shopping flow:** Lunch outside → San Marcelino market → grocery for missing items → water / ice pickup → house and refrigerator → beach. Allow **60-90 minutes** for shopping. The group will buy its own rice, cooking oil, sauces and seasonings.
 
 Shopping references: [Mc Mar Frozen Foods listing](https://www.bizippines.com/mc-mar-frozen-foods-0929-565-7091) · [Rodriguez Supermart listing](https://www.cybo.com/PH-biz/rodriguez-supermart). These are store listings, not live inventory.
 
@@ -237,12 +238,10 @@ Chargers, cables and charged power banks are each person’s responsibility.
 | **New Clark City River Park** | Confirm access and route suitability; alternative places to relax after the adventure are welcome |
 | **Night bar** | Choose a venue and check opening hours and any cover charge |
 | **Dinner volunteers** | Assign at least two BBQ grillers, a rice cook, and someone to suggest and prepare the additional dish |
-| **Kitchen and grilling equipment** | Ask Barte about the stove and LPG, pots, frying pan, rice cooker, knives, chopping board, serving trays, grill and BBQ tongs. MC brings the lighter and dishwashing supplies. |
-| **Refrigerator and cooler** | Confirm refrigerator space and a backup cooler if Paul cannot join |
-| **Sleeping arrangements** | Confirm mattresses, pillows and blankets |
+| **Cooler** | Paul brings the cooler if joining; arrange a backup otherwise |
 | **Water, ice and cooking basics** | Buy water and ice in Zambales; arrange charcoal, sauces, seasonings and other ingredients |
-| **Games and extension cord** | Ask who can bring small games; check whether an extension cord is available at the house |
-| **Shopping and cake** | Confirm the third dish and Karl’s breakfast list; check house supplies, local hotdog / longganisa stock, water and ice sources, and cake preorder / pickup. |
+| **Games** | Ask who can bring UNO, cards or other small games |
+| **Shopping and cake** | Confirm the third dish and Karl’s breakfast list; check local hotdog / longganisa stock, water and ice sources, and cake preorder / pickup. |
 | **Saturday breakfast** | Anne prepares a light breakfast for departure; confirm the bread, filling, quantity and ingredient / cost arrangements. |
 
 ## Personal packing checklist
