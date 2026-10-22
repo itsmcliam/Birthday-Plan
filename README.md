@@ -14,7 +14,7 @@ A joint birthday celebration for **MC, Richelle and Paul**, with an overnight st
 | Transport | Barte’s car; final seating and driver to be confirmed |
 | Meetup | Pickups along the route, then Luzon meetup point |
 | Accommodation | Family home in San Antonio |
-| Saturday | Lunch, groceries, Limliwa Beach, birthday dinner and night bar |
+| Saturday | Lunch, groceries, Limliwa Beach, birthday dinner and games at the house |
 | Sunday | ATV adventure and a relaxing park stop |
 | Personal budget | **₱1,500 base allowance - please bring extra cash** |
 | Target home arrival | Around **11 PM Sunday**, depending on traffic |
@@ -46,7 +46,6 @@ Keep **₱950 for the three restaurant meals** and set aside **₱550 for the sh
 
 | Additional personal expense | Arrangement |
 | --- | --- |
-| Night bar | **KKB** drinks, food and any applicable cover charge |
 | Meals exceeding the allowance | Pay the difference individually |
 | Extra snacks, drinks and personal purchases | Own expense |
 | Optional activities outside the agreed itinerary | Confirm the cost and payment arrangement before joining |
@@ -58,7 +57,7 @@ flowchart TD
     C --> D["Saturday lunch: ₱300"]
     C --> E["Sunday lunch: ₱400"]
     C --> F["Sunday dinner: ₱250"]
-    G["Bring extra cash beyond ₱1,500"] --> H["Bar orders, snacks and extras"]
+    G["Bring extra cash beyond ₱1,500"] --> H["Extra snacks and personal purchases"]
     G --> I["Meal overruns and personal purchases"]
 ```
 
@@ -86,7 +85,7 @@ flowchart TD
 
 ## Saturday · November 7
 
-**Beach, birthday dinner and night bar**
+**Beach, birthday dinner and games at the house**
 
 | Time | Plan |
 | --- | --- |
@@ -100,10 +99,9 @@ flowchart TD
 | 2:30&#8209;5:30&nbsp;PM | Beach swimming, photos, games and group hangout. Cottage availability depends on walk-in occupancy. |
 | 5:30&#8209;6&nbsp;PM | Leave the resort and return to the house. |
 | 6&#8209;8&nbsp;PM | Shower, prepare dinner, eat together and celebrate with birthday cake. |
-| 8&#8209;8:30&nbsp;PM | Travel to the selected night bar. **Venue pending.** |
-| 8:30&#8209;11&nbsp;PM | Night bar and hangout. **KKB orders and any applicable cover charge.** |
-| 11&#8209;11:30&nbsp;PM | Return to the house. |
-| 11:30&nbsp;PM&nbsp;onward | Games, bonding or rest. No fixed group bedtime, but the driver needs sufficient sleep before Sunday’s trip. |
+| 8&#8209;10&nbsp;PM | Birthday games, music, group photos and bonding **at the house**. |
+| 10&#8209;11:30&nbsp;PM | UNO, cards, snacks and a relaxed hangout. Volunteers can bring small games. |
+| 11:30&nbsp;PM&nbsp;onward | Rest or quiet bonding. No fixed group bedtime, but the driver needs sufficient sleep before Sunday’s trip. |
 
 ### Limliwa Beach reminders
 
@@ -162,7 +160,7 @@ Suggestions for a replacement adventure or relaxation stop are welcome. Choose p
 flowchart TD
     A["Saturday: Anne prepares breakfast, pickups and travel"] --> B["Lunch, San Marcelino shopping and house"]
     B --> C["Limliwa Beach"]
-    C --> D["Birthday dinner and night bar"]
+    C --> D["Birthday dinner and games at the house"]
     D --> E["Sunday: breakfast, clean and pack"]
     E --> F["Travel to adventure venue and KKB lunch"]
     F --> G{"Adventure choice"}
@@ -250,7 +248,6 @@ Chargers, cables and charged power banks are each person’s responsibility.
 | **Saturday lunch - KKB** | Main plan: restaurant lunch before shopping. Takeout at Limliwa is an optional idea only; confirm day-tour outside-food rules, corkage and group approval before changing the schedule. |
 | **Sunday lunch - KKB** | Choose a restaurant near the final adventure venue; location depends on the ATV operator or SandBox selection. |
 | **New Clark City River Park** | Confirm access and route suitability; alternative places to relax after the adventure are welcome |
-| **Night bar** | Choose a venue and check opening hours and any cover charge |
 | **Dinner volunteers** | Assign at least two BBQ grillers, a rice cook, and someone to suggest and prepare the additional dish |
 | **Cooler** | MC brings 1 cooler; Paul brings an additional cooler if joining. Confirm whether the second cooler is needed and who can bring it if Paul cannot join. |
 | **Water, ice and cooking basics** | Buy water and ice in Zambales; arrange charcoal, sauces, seasonings and other ingredients |
@@ -270,6 +267,6 @@ Chargers, cables and charged power banks are each person’s responsibility.
 | **Rain protection** | Compact umbrella or raincoat |
 | **Optional comfort items** | Cap, light jacket, personal snacks and small pillow |
 
-**Bring extra cash beyond the ₱1,500 base allowance**, particularly for night-bar orders, extra snacks and meals that exceed the estimates.
+**Bring extra cash beyond the ₱1,500 base allowance**, particularly for extra snacks, personal purchases and meals that exceed the estimates.
 
-The designated driver should remain sober and get sufficient rest. The schedule may change with weather, traffic, availability and the group’s condition.
+The designated driver should get sufficient sleep and take rest breaks. The schedule may change with weather, traffic, availability and the group’s condition.
