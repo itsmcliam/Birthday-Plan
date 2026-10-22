@@ -4,7 +4,7 @@
 
 A joint birthday celebration for **MC, Richelle and Paul**, with an overnight stay at Barte’s grandfather’s house in **San Antonio, Zambales**.
 
-![Birthday weekend overview](assets/trip-overview.svg)
+![Birthday weekend overview](assets/trip-overview.png?v=0765765048e5)
 
 [Download the printable PDF](Birthday-Trip-Plan.pdf) · [PNG overview](assets/trip-overview.png)
 
@@ -75,8 +75,6 @@ flowchart TD
 | Paul | Pending | Expects to know around October 25 |
 | Jannelle | Pending | Awaiting confirmation |
 | Ian Carreon | Pending | Awaiting confirmation |
-| Walter | Pending | Awaiting confirmation |
-| Gerard | Pending | Awaiting confirmation |
 | Blessy | Conditional | Previously day trip only; permission and transport need reconfirmation |
 | Barte’s father | Tentative | May drive and prepare pork adobo if joining |
 | Barte’s mother | Tentative | Awaiting confirmation |
@@ -202,7 +200,6 @@ flowchart TD
 | ☐ Pack camera gimbal | ☐ Coordinate breakfast ingredient purchases |
 | ☐ Pack phone gimbal | ☐ Pack speaker |
 | ☐ Pack picnic mat | ☐ Tent, only if useful at a permitted location |
-|  | ☐ Cook Sunday breakfast with MC |
 
 **Limliwa prohibits tent pitching and discourages loud speakers.**
 
