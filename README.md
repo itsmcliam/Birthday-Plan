@@ -183,7 +183,7 @@ flowchart TD
 | ☑ Paper plates | ☐ One lighter - volunteer |
 | ☑ Spoons and forks | ☐ Dishwashing liquid, 200-250 mL - volunteer |
 | ☑ Cups | ☐ Dishwashing sponges, 1-2 - volunteer |
-| ☑ Trash bags | ☐ UNO/cards/small games - volunteers |
+| ☑ Trash bags | ☐ UNO, playing cards or mini Jenga - volunteers |
 | ☑ Tissue/paper towels |  |
 | ☑ Aluminum foil |  |
 | ☑ Food-safe containers with lids |  |
@@ -205,7 +205,7 @@ flowchart TD
 
 ### Shared shopping
 
-Quantities are provisional for **7-8 people**, adjusted after the **November 2 attendance deadline**. We buy our own rice, oil, sauces and seasonings. **Anne handles Saturday breakfast separately; Karl finalizes Sunday breakfast.**
+Quantities are provisional for **7-8 people**, adjusted after the **November 2 attendance deadline**. We buy our own rice, oil, sauces and seasonings. **Anne handles Saturday breakfast separately; Karl finalizes Sunday breakfast.** **Buyers needed for the QC seasonings and iced tea; volunteer in the group chat before buying to avoid duplicates.**
 
 | Buy in QC | Buy in Zambales |
 | --- | --- |
@@ -214,14 +214,13 @@ Quantities are provisional for **7-8 people**, adjusted after the **November 2 a
 | ☐ **1 biscuit/cracker multipack**, with 8-10 individual packs | ☐ Rice, approximately **2 kg uncooked** |
 | ☐ **1 pack of Mentos** | ☐ Eggs, **10-14**, subject to Karl’s menu |
 | ☐ Cooking oil | ☐ Hotdogs **or** longganisa, **750 g-1 kg**, subject to Karl’s menu |
-| ☐ Soy sauce | ☐ Bananas, **10-14 pieces** |
-| ☐ Vinegar | ☐ **1 small watermelon** |
-| ☐ Salt and pepper | ☐ **1 sharing birthday cake** - arrange preorder/pickup |
-| ☐ Garlic and onions | ☐ Drinking water, initially **20 litres** |
-| ☐ Calamansi | ☐ Ice for the cooler/s |
-|  | ☐ Charcoal |
+| ☐ Soy sauce - buyer needed | ☐ Bananas, **10-14 pieces** |
+| ☐ Vinegar - buyer needed | ☐ **1 small watermelon** |
+| ☐ Salt and pepper - buyer needed | ☐ **1 sharing birthday cake** - arrange preorder/pickup |
+| ☐ Garlic and onions - buyer needed | ☐ Drinking water, initially **20 litres** |
+| ☐ Calamansi - buyer needed | ☐ Ice for the cooler/s |
+| ☐ Iced tea sachets - buyer needed | ☐ Charcoal |
 |  | ☐ **1 additional soft drink**, only if needed |
-|  | ☐ Iced tea sachets - optional |
 
 Listings show **Mc Mar Frozen Foods inside the public market** and **Rodriguez Supermart on Agpalo Street** as a grocery backup. Exact stock, brands, prices and ice availability are unconfirmed. Confirm local water and ice sources, and arrange the cake before the trip.
 
