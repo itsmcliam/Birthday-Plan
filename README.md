@@ -64,7 +64,7 @@ flowchart TD
 
 ## Attendance
 
-These are the **last recorded attendance statuses**. Please reconfirm availability for the updated Zambales plan.
+**Final attendance deadline: November 2, 2026.** Please confirm by then so Barte can finalize the headcount and house arrangements. The table below shows the last recorded attendance statuses.
 
 | Person | Status | Notes |
 | --- | --- | --- |
@@ -110,6 +110,19 @@ These are the **last recorded attendance statuses**. Please reconfirm availabili
 **Day tour: 6 AM-6 PM only.** Walk-ins are first come, first served. **Tent pitching is prohibited**, loud speakers are discouraged, and cooking/grilling is allowed only in the common cooking area.
 
 Dinner is planned **at the house**. Bring only what is needed for the beach.
+
+### Optional idea: takeout lunch and cooler flow
+
+**Main plan: eat lunch at a restaurant before shopping and going to the beach.** An alternative is takeout lunch at Limliwa after the house stop. This is **only an idea**, pending Limliwa’s current day-tour outside-food rules, any corkage fee, and group approval. Do not change the schedule yet; takeout would mean a later lunch.
+
+| Stage | Plan |
+| --- | --- |
+| QC and grocery stop | Keep marinated BBQ and other chilled ingredients in sealed, leakproof containers in an iced cooler. |
+| At the house | Transfer raw meat and chilled breakfast ingredients into the refrigerator/freezer promptly. |
+| Beach preparation | Prefer a separate clean cooler for drinks and chilled snacks. If reusing the meat cooler, discard old ice, wash and sanitize it, then add fresh ice. Keep chips in a dry bag. |
+| If takeout is approved | Buy takeout shortly before eating at the resort, after the grocery and house stops. Confirm food and drink permission and corkage first. |
+
+Outside-food policy reference: [Limliwa official FAQ](https://limliwabeachresort.com/about-us/). Current day-tour corkage requires direct confirmation.
 
 ## Sunday · November 8
 
@@ -231,10 +244,10 @@ Chargers, cables and charged power banks are each person’s responsibility.
 
 | Item | What still needs arranging |
 | --- | --- |
-| **Attendance and transport** | Confirm pending attendees, Barte’s parents, driver, vehicle seating and pickup pins |
+| **Attendance and transport** | Finalize attendance by **November 2, 2026**; confirm Barte’s parents, driver, vehicle seating and pickup pins |
 | **ATV - Sunday’s main activity** | Find a reliable operator and confirm the package, duration, meeting point, regular-car access and booking |
 | **SandBox - ATV alternative** | Group approval for **Package A + 30-minute unlimited-arrow archery**; confirm availability and adjust the route if selected |
-| **Saturday lunch - KKB** | Choose a restaurant along the route or near San Marcelino / San Antonio before shopping; confirm menu and prices. |
+| **Saturday lunch - KKB** | Main plan: restaurant lunch before shopping. Takeout at Limliwa is an optional idea only; confirm day-tour outside-food rules, corkage and group approval before changing the schedule. |
 | **Sunday lunch - KKB** | Choose a restaurant near the final adventure venue; location depends on the ATV operator or SandBox selection. |
 | **New Clark City River Park** | Confirm access and route suitability; alternative places to relax after the adventure are welcome |
 | **Night bar** | Choose a venue and check opening hours and any cover charge |
