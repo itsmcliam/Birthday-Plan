@@ -1,32 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
-<title id="title">Birthday weekend overview</title><desc id="desc">November 7-8, 2026. Budget per friend 1500 pesos, split into 850 shared contribution and 650 personal meals. Saturday resort and Sunday adventure park and beach. Attendance updated October 21, 2026: 5 confirmed and 6 pending or conditional; up to 11 total, with Blessy day-trip only. Punto Miguel Beach House day tour reserved for 5 people on November 8, 2026.</desc>
-<rect width="1600" height="900" fill="#0d1117"/>
-<text x="60" y="60" fill="#8b949e" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="400">birthday-trip / overview</text>
-<text x="60" y="135" fill="#e6edf3" font-family="DejaVu Sans, Arial, sans-serif" font-size="54" font-weight="700">Birthday weekend</text>
-<text x="60" y="179" fill="#8b949e" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="400">November 7-8, 2026  ·  2 cars  ·  Rosario overnight stay</text>
-<text x="60" y="207" fill="#3fb950" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700">5 confirmed · 6 pending/conditional · Up to 11 total · Attendance updated Oct 21</text>
-<rect x="60" y="220" width="1480" height="155" rx="12" fill="#161b22" stroke="#30363d"/>
-<text x="90" y="265" fill="#8b949e" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700">BUDGET PER FRIEND</text>
-<text x="90" y="334" fill="#3fb950" font-family="DejaVu Sans, Arial, sans-serif" font-size="56" font-weight="700">₱1,500</text>
-<text x="515" y="268" fill="#e6edf3" font-family="DejaVu Sans, Arial, sans-serif" font-size="31" font-weight="700">₱850 shared contribution</text>
-<text x="515" y="310" fill="#8b949e" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="400">Groceries, cake, drinks, supplies, fuel and tolls</text>
-<text x="515" y="349" fill="#8b949e" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="400">₱650 own meals: ₱100 breakfast + ₱300 lunch + ₱250 dinner</text>
-<rect x="60" y="405" width="720" height="295" rx="12" fill="#161b22" stroke="#30363d"/>
-<text x="90" y="450" fill="#58a6ff" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="700">SAT · NOV 7</text>
-<text x="90" y="493" fill="#e6edf3" font-family="DejaVu Sans, Arial, sans-serif" font-size="30" font-weight="700">Resort + birthday night</text>
-<text x="90" y="542" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">6:00 AM  Meet at Petron Philcoa</text>
-<text x="90" y="581" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">Travel → Rosario → lunch &amp; groceries</text>
-<text x="90" y="620" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">1:30-5:00 PM  Resort swimming</text>
-<text x="90" y="659" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">Dinner, cake, games → sleep</text>
-<rect x="820" y="405" width="720" height="295" rx="12" fill="#161b22" stroke="#30363d"/>
-<text x="850" y="450" fill="#58a6ff" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="700">SUN · NOV 8</text>
-<text x="850" y="493" fill="#e6edf3" font-family="DejaVu Sans, Arial, sans-serif" font-size="30" font-weight="700">Adventure + beach</text>
-<text x="850" y="542" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">7:00 AM  Travel to Laiya Adventure Park</text>
-<text x="850" y="581" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">8:30-11:30 AM  Package B activities</text>
-<text x="850" y="620" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">Punto Miguel: beach lunch (5 reserved)</text>
-<text x="850" y="659" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">Driver rest → QC dinner → home</text>
-<rect x="60" y="731" width="1480" height="105" rx="12" fill="#161b22" stroke="#30363d"/>
-<text x="90" y="772" fill="#3fb950" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="700">MC COVERS THE MAIN ACTIVITIES · FREE OVERNIGHT ACCOMMODATION</text>
-<text x="90" y="812" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="400">Boat/snorkeling: optional ₱3,000/group. Boat &amp; ATV are outside the ₱1,500 budget.</text>
-<text x="60" y="875" fill="#8b949e" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400">Punto Miguel reserved for 5 · Other bookings pending · Home by 10 PM target, traffic permitting</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1140" viewBox="0 0 1600 1140" role="img" aria-labelledby="title desc">
+<title id="title">Birthday weekend: Zambales, November 7-8, 2026</title>
+<desc id="desc">San Antonio overnight stay. Personal base allowance 1500 pesos plus extra cash; 550 shared contribution and 950 restaurant meals. Saturday Limliwa Beach, birthday dinner and night bar. Sunday proposed museum, main ATV activity or SandBox alternative, and proposed River Park. Target home around 11 PM.</desc>
+<rect width="1600" height="1140" fill="#0d1117"/>
+<text x="60" y="55" fill="#8b949e" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="400">birthday-trip / proposed itinerary</text>
+<text x="60" y="125" fill="#e6edf3" font-family="DejaVu Sans, Arial, sans-serif" font-size="54" font-weight="700">Birthday weekend</text>
+<text x="60" y="170" fill="#8b949e" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="400">November 7-8, 2026  ·  San Antonio, Zambales  ·  Family-home overnight stay</text>
+<text x="60" y="205" fill="#3fb950" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="400">5 confirmed + tentative parents  ·  Final attendance, seating and driver to confirm</text>
+<rect x="60" y="235" width="1480" height="200" rx="14" fill="#161b22" stroke="#30363d"/>
+<text x="90" y="280" fill="#8b949e" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="700">PERSONAL BASE ALLOWANCE</text>
+<text x="90" y="350" fill="#3fb950" font-family="DejaVu Sans, Arial, sans-serif" font-size="58" font-weight="700">₱1,500</text>
+<text x="520" y="285" fill="#e6edf3" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700">₱550 shared contribution + ₱950 restaurant meals</text>
+<text x="520" y="330" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="400">Saturday lunch ₱300 · Sunday lunch ₱400 · Sunday dinner ₱250</text>
+<text x="90" y="403" fill="#58a6ff" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="700">PLEASE BRING EXTRA CASH: breakfast, bar orders, meal overruns and personal extras.</text>
+<rect x="60" y="465" width="720" height="320" rx="14" fill="#161b22" stroke="#30363d"/>
+<rect x="820" y="465" width="720" height="320" rx="14" fill="#161b22" stroke="#30363d"/>
+<text x="90" y="510" fill="#58a6ff" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="700">SATURDAY · NOVEMBER 7</text>
+<text x="90" y="555" fill="#e6edf3" font-family="DejaVu Sans, Arial, sans-serif" font-size="31" font-weight="700">Beach + birthday night</text>
+<text x="90" y="600" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">Pickups → depart 7 AM → San Antonio</text>
+<text x="90" y="640" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">KKB lunch → groceries → settle at house</text>
+<text x="90" y="680" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">2:30-5:30 PM: Limliwa Beach</text>
+<text x="90" y="720" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">Dinner + cake at house → night bar</text>
+<text x="90" y="760" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">Bar orders KKB · Driver stays sober</text>
+<text x="850" y="510" fill="#58a6ff" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="700">SUNDAY · NOVEMBER 8</text>
+<text x="850" y="555" fill="#e6edf3" font-family="DejaVu Sans, Arial, sans-serif" font-size="31" font-weight="700">Adventure + sightseeing</text>
+<text x="850" y="600" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">Breakfast: Karl plans; Karl + MC cook</text>
+<text x="850" y="640" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">Church → proposed museum visit</text>
+<text x="850" y="680" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">Main: ATV · Operator / booking pending</text>
+<text x="850" y="720" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">Backup: SandBox A + 30-minute archery</text>
+<text x="850" y="760" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">Proposed River Park → driver rest → QC</text>
+<rect x="60" y="815" width="1480" height="150" rx="14" fill="#161b22" stroke="#30363d"/>
+<text x="90" y="860" fill="#3fb950" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="700">OPEN FOR GROUP SUGGESTIONS AND VOLUNTEERS</text>
+<text x="90" y="902" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">ATV provider · Museum / park access · Night bar · Extra dinner dish · BBQ grillers · Rice cook</text>
+<text x="90" y="941" fill="#8b949e" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="400">SandBox replaces ATV if selected. Final route and activity times remain provisional.</text>
+<text x="60" y="1015" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400">KKB: Saturday breakfast, both lunches, Sunday dinner, bar orders and personal purchases.</text>
+<text x="60" y="1060" fill="#c9d1d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400">Leave the house with all bags Sunday · No return to San Antonio · Target home around 11 PM</text>
+<text x="60" y="1105" fill="#8b949e" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="400">Full itinerary, attendance, packing list and pending decisions: github.com/itsmcliam/Birthday-Plan</text>
 </svg>
