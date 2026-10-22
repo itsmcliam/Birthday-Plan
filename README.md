@@ -91,7 +91,7 @@ These are the **last recorded attendance statuses**. Please reconfirm availabili
 | Time | Plan |
 | --- | --- |
 | 5:30&#8209;6&nbsp;AM | MC arrives at Barte’s house, parks his motorcycle and helps load the car. |
-| 6&#8209;7&nbsp;AM | Pick up Karl and Ian Carl along the route, then meet the remaining passengers at the **Luzon meetup point**. Exact pickup pins to follow. **Anne prepares a light breakfast**, such as bread with spread or filling, for the meetup / departure. Final ingredients and quantity to confirm. |
+| 6&#8209;7&nbsp;AM | Pick up Karl and Ian Carl along the route, then meet the remaining passengers at the **Luzon meetup point**. Exact pickup pins to follow. **Anne prepares a light breakfast**, such as bread with spread or filling, for the meetup / departure. **Confirmed - Anne handles breakfast preparation and arrangements.** |
 | 7&#8209;11&nbsp;AM | Travel to San Antonio, Zambales. Allow approximately **four hours**, including a short stop if needed. |
 | 11&nbsp;AM&#8209;12&nbsp;NN | **Lunch outside - KKB.** Choose a restaurant along the route or near San Antonio. |
 | 12&#8209;1:30&nbsp;PM | Shop at **San Marcelino Public Market**, then a grocery for missing items. Buy dinner and breakfast ingredients, fruit, cake, snacks, drinks, water and ice. Allow 60-90 minutes; Karl identifies the breakfast ingredients. |
@@ -175,7 +175,8 @@ Plan for **San Marcelino Public Market plus a short grocery stop**, rather than 
 | Hotdogs OR longganisa | Around 750 g-1 kg | Frozen-food stall or grocery; Karl selects one based on the menu |
 | Watermelon and bananas | 1 small watermelon + 10-14 bananas | Shared fruit; replace watermelon with pineapple or papaya if needed |
 | Drinking water | Start with 20 litres | Refilling station or grocery; refill if needed |
-| Soft drinks / juice | 2 large bottles initially | Grocery; adjust to preferences |
+| Soft drinks | 1 additional bottle only if needed | MC brings 1 bottle already; buy another only if needed |
+| Iced tea sachets (optional) | Only if the group wants | Optional drink choice; prepare with drinking water |
 | Ice | Depends on cooler size | Confirm a supplier; replenish near the house |
 | Birthday cake | 1 sharing cake | Arrange a bakery preorder and pickup ahead of time |
 | Charcoal | Depends on grill and menu | Group buys locally; quantity depends on the final grilling menu |
@@ -184,7 +185,7 @@ Plan for **San Marcelino Public Market plus a short grocery stop**, rather than 
 
 | Buy in QC and bring | Plan |
 | --- | --- |
-| Saturday breakfast ingredients | Anne arranges bread and spread / filling before departure; final quantities to confirm |
+| Saturday breakfast ingredients | Confirmed - Anne handles the simple Saturday breakfast and its ingredients before departure |
 | Marinated pork BBQ | 30 sticks; transport in a cooler with ice and refrigerate at the house |
 | Sauces and seasonings | Buy our own soy sauce, vinegar, salt, pepper and other seasonings requested by the cooks |
 | Cooking oil | Buy in QC and bring for Saturday dinner and Sunday breakfast; quantity based on the final menu |
@@ -194,7 +195,7 @@ Plan for **San Marcelino Public Market plus a short grocery stop**, rather than 
 
 Listings show **Mc Mar Frozen Foods inside the public market** and **Rodriguez Supermart on Agpalo Street** as a grocery backup. Exact stock, brands, prices and ice availability are unconfirmed. Confirm local water and ice sources, and arrange the cake before the trip.
 
-**Shopping flow:** Lunch outside → San Marcelino market → grocery for missing items → water / ice pickup → house and refrigerator → beach. Allow **60-90 minutes** for shopping. The group will buy its own rice, cooking oil, sauces and seasonings.
+**Shopping flow:** Lunch → San Marcelino market / grocery → water / ice pickup → house and refrigerator → beach. Allow **60-90 minutes**. We buy our own rice, cooking oil, sauces and seasonings.
 
 Shopping references: [Mc Mar Frozen Foods listing](https://www.bizippines.com/mc-mar-frozen-foods-0929-565-7091) · [Rodriguez Supermart listing](https://www.cybo.com/PH-biz/rodriguez-supermart). These are store listings, not live inventory.
 
@@ -202,7 +203,7 @@ Shopping references: [Mc Mar Frozen Foods listing](https://www.bizippines.com/mc
 
 | Meal / task | Plan | Assigned person |
 | --- | --- | --- |
-| Saturday breakfast | Simple bread with spread or filling; final ingredients and quantity pending | **Anne prepares** |
+| Saturday breakfast | Simple light breakfast, such as bread with spread or filling | **Confirmed - Anne handles breakfast** |
 | Saturday lunch | Restaurant | **KKB** |
 | Saturday dinner: BBQ | **30 marinated pork BBQ sticks** | **At least two grilling volunteers needed** |
 | Saturday dinner: adobo | Pork adobo | Barte’s father, if joining and confirmed |
@@ -218,11 +219,11 @@ Shopping references: [Mc Mar Frozen Foods listing](https://www.bizippines.com/mc
 
 | Person | Items | Notes |
 | --- | --- | --- |
-| **Anne** | Camera gimbal, phone gimbal and picnic mat; simple Saturday breakfast | Assigned to bring and prepare; breakfast ingredients and quantity to confirm |
+| **Anne** | Camera gimbal, phone gimbal and picnic mat; simple Saturday breakfast | Saturday breakfast confirmed; Anne handles preparation and arrangements |
 | **Karl** | Speaker; tent if permitted | Tent cannot be pitched at Limliwa; keep speaker use considerate |
-| **Paul** | Cooler | If joining; otherwise arrange a backup |
-| **MC** | Picnic mat, first-aid kit, paper plates, spoons and forks, cups, trash bags, tissue/paper towels, aluminum foil and food-safe containers with lids; 1 lighter (long-neck preferred), dishwashing liquid (200-250 mL), 1-2 dishwashing sponges and 1-2 clean kitchen/microfiber cloths | Assigned to bring; microfiber cloths for wiping counters. Keep a separate clean cloth if drying dishes. |
-| **Volunteers** | UNO, playing cards or other small games | Let the group know what you can bring |
+| **Paul** | Additional cooler | If joining; MC already brings one cooler |
+| **MC** | Picnic mat, first-aid kit, paper plates, spoons and forks, cups, trash bags, tissue/paper towels, aluminum foil, food-safe containers with lids, 1 bottle of soft drink, 1 cooler and 1-2 clean kitchen/microfiber cloths | Soft drink and cooler already available. Microfiber cloths for counters; use a separate clean cloth for drying dishes. |
+| **Volunteers** | Shared sunscreen, 1 lighter (long-neck preferred), dishwashing liquid (200-250 mL), 1-2 dishwashing sponges; UNO, playing cards or other small games | Volunteers needed; let the group know which item you can bring |
 
 Chargers, cables and charged power banks are each person’s responsibility.
 
@@ -238,11 +239,10 @@ Chargers, cables and charged power banks are each person’s responsibility.
 | **New Clark City River Park** | Confirm access and route suitability; alternative places to relax after the adventure are welcome |
 | **Night bar** | Choose a venue and check opening hours and any cover charge |
 | **Dinner volunteers** | Assign at least two BBQ grillers, a rice cook, and someone to suggest and prepare the additional dish |
-| **Cooler** | Paul brings the cooler if joining; arrange a backup otherwise |
+| **Cooler** | MC brings 1 cooler; Paul brings an additional cooler if joining. Confirm whether the second cooler is needed and who can bring it if Paul cannot join. |
 | **Water, ice and cooking basics** | Buy water and ice in Zambales; arrange charcoal, sauces, seasonings and other ingredients |
-| **Games** | Ask who can bring UNO, cards or other small games |
+| **Shared supplies and games volunteers** | Assign volunteers for shared sunscreen, lighter, dishwashing liquid, sponges, UNO, cards or other small games |
 | **Shopping and cake** | Confirm the third dish and Karl’s breakfast list; check local hotdog / longganisa stock, water and ice sources, and cake preorder / pickup. |
-| **Saturday breakfast** | Anne prepares a light breakfast for departure; confirm the bread, filling, quantity and ingredient / cost arrangements. |
 
 ## Personal packing checklist
 
