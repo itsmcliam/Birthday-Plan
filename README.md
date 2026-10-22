@@ -171,38 +171,60 @@ flowchart TD
     J --> K["Return to QC, KKB dinner and drop-offs"]
 ```
 
-## Shopping plan
+## Shared checklists
 
-Plan for **San Marcelino Public Market plus a short grocery stop**, rather than expecting one stall to have everything. Quantities are suggestions for seven people, not confirmed purchases. **Karl finalizes Sunday breakfast; the additional dinner dish is still pending.**
+**☑ Already available · ☐ Still to buy, borrow, assign or prepare.** Available items still need to be packed. Update and save the checkbox symbols as progress changes.
 
-### Buy in San Marcelino / nearby
+### Shared supplies
 
-| Buy locally | Suggested quantity for 7 | Where / note |
-| --- | --- | --- |
-| Pork for adobo | Around 1-1.5 kg | Market meat stall; Barte’s father chooses the cut and amount |
-| Additional dinner dish | Pending | Finalize the dish and volunteer before shopping |
-| Rice | Around 2 kg uncooked | Group buys its own rice for dinner and breakfast |
-| Eggs | 10-14 pieces | Karl finalizes the breakfast list |
-| Hotdogs OR longganisa | Around 750 g-1 kg | Frozen-food stall or grocery; Karl selects one based on the menu |
-| Watermelon and bananas | 1 small watermelon + 10-14 bananas | Shared fruit; replace watermelon with pineapple or papaya if needed |
-| Drinking water | Start with 20 litres | Refilling station or grocery; refill if needed |
-| Soft drinks | 1 additional bottle only if needed | MC brings 1 bottle already; buy another only if needed |
-| Iced tea sachets (optional) | Only if the group wants | Optional drink choice; prepare with drinking water |
-| Ice | Depends on cooler size | Confirm a supplier; replenish near the house |
-| Birthday cake | 1 sharing cake | Arrange a bakery preorder and pickup ahead of time |
-| Charcoal | Depends on grill and menu | Group buys locally; quantity depends on the final grilling menu |
-
-### Buy in QC and bring
-
-| Buy in QC and bring | Plan |
+| Available - MC | Still to arrange |
 | --- | --- |
-| Saturday breakfast ingredients | Confirmed - Anne handles the simple Saturday breakfast and its ingredients before departure |
-| Marinated pork BBQ | 30 sticks; transport in a cooler with ice and refrigerate at the house |
-| Sauces and seasonings | Buy our own soy sauce, vinegar, salt, pepper and other seasonings requested by the cooks |
-| Cooking oil | Buy in QC and bring for Saturday dinner and Sunday breakfast; quantity based on the final menu |
-| Garlic, onions and calamansi | Buy ahead if convenient; quantity depends on the final dishes |
-| Chips / snacks | Buy ahead to shorten the local shopping stop |
-| Shared supplies | MC brings the supplies in the gear table below |
+| ☑ One bottle of soft drink | ☐ Main cooler - MC to borrow |
+| ☑ Picnic mat | ☐ Additional cooler - Paul, if joining |
+| ☑ First-aid kit | ☐ Shared sunscreen - volunteer |
+| ☑ Paper plates | ☐ One lighter - volunteer |
+| ☑ Spoons and forks | ☐ Dishwashing liquid, 200-250 mL - volunteer |
+| ☑ Cups | ☐ Dishwashing sponges, 1-2 - volunteer |
+| ☑ Trash bags | ☐ UNO/cards/small games - volunteers |
+| ☑ Tissue/paper towels |  |
+| ☑ Aluminum foil |  |
+| ☑ Food-safe containers with lids |  |
+| ☑ Clean kitchen/microfiber cloths |  |
+
+### Anne and Karl
+
+**Anne’s Saturday breakfast responsibility is confirmed.** The boxes below track preparation and packing. Karl plans Sunday breakfast, and **Karl and MC cook**.
+
+| Anne | Karl |
+| --- | --- |
+| ☐ Buy Saturday breakfast ingredients | ☐ Finalize Sunday breakfast menu |
+| ☐ Prepare and pack the light breakfast | ☐ List ingredients and quantities needed |
+| ☐ Pack camera gimbal | ☐ Coordinate breakfast ingredient purchases |
+| ☐ Pack phone gimbal | ☐ Pack speaker |
+| ☐ Pack picnic mat | ☐ Tent, only if useful at a permitted location |
+|  | ☐ Cook Sunday breakfast with MC |
+
+**Limliwa prohibits tent pitching and discourages loud speakers.**
+
+### Shared shopping
+
+Quantities are provisional for **7-8 people**, adjusted after the **November 2 attendance deadline**. We buy our own rice, oil, sauces and seasonings. **Anne handles Saturday breakfast separately; Karl finalizes Sunday breakfast.**
+
+| Buy in QC | Buy in Zambales |
+| --- | --- |
+| ☐ **30 marinated pork BBQ sticks** | ☐ Pork for adobo, approximately **1-1.5 kg** |
+| ☐ **4 sharing bags of chips**, around 100-150 g each | ☐ Ingredients for the third dish - pending |
+| ☐ **1 biscuit/cracker multipack**, with 8-10 individual packs | ☐ Rice, approximately **2 kg uncooked** |
+| ☐ **1 pack of Mentos** | ☐ Eggs, **10-14**, subject to Karl’s menu |
+| ☐ Cooking oil | ☐ Hotdogs **or** longganisa, **750 g-1 kg**, subject to Karl’s menu |
+| ☐ Soy sauce | ☐ Bananas, **10-14 pieces** |
+| ☐ Vinegar | ☐ **1 small watermelon** |
+| ☐ Salt and pepper | ☐ **1 sharing birthday cake** - arrange preorder/pickup |
+| ☐ Garlic and onions | ☐ Drinking water, initially **20 litres** |
+| ☐ Calamansi | ☐ Ice for the cooler/s |
+|  | ☐ Charcoal |
+|  | ☐ **1 additional soft drink**, only if needed |
+|  | ☐ Iced tea sachets - optional |
 
 Listings show **Mc Mar Frozen Foods inside the public market** and **Rodriguez Supermart on Agpalo Street** as a grocery backup. Exact stock, brands, prices and ice availability are unconfirmed. Confirm local water and ice sources, and arrange the cake before the trip.
 
@@ -210,31 +232,16 @@ Listings show **Mc Mar Frozen Foods inside the public market** and **Rodriguez S
 
 Shopping references: [Mc Mar Frozen Foods listing](https://www.bizippines.com/mc-mar-frozen-foods-0929-565-7091) · [Rodriguez Supermart listing](https://www.cybo.com/PH-biz/rodriguez-supermart). These are store listings, not live inventory.
 
-## Meals and cooking assignments
+### Dinner and cooking volunteers
 
-| Meal / task | Plan | Assigned person |
-| --- | --- | --- |
-| Saturday breakfast | Simple light breakfast, such as bread with spread or filling | **Confirmed - Anne handles breakfast** |
-| Saturday lunch | Restaurant | **KKB** |
-| Saturday dinner: BBQ | **30 marinated pork BBQ sticks** | **At least two grilling volunteers needed** |
-| Saturday dinner: adobo | Pork adobo | Barte’s father, if joining and confirmed |
-| Saturday dinner: additional dish | **Still undecided** | Volunteer to suggest and prepare it |
-| Saturday dinner: rice | Cook rice at the house | **Volunteer needed** |
-| Birthday cake | Shared birthday celebration | Choice and pickup arrangements pending |
-| Sunday breakfast | **Karl decides the menu and ingredients to buy** | **Karl and MC cook** |
-| Sunday lunch | Restaurant | **KKB** |
-| Sunday dinner | Restaurant in QC or along the return route | **KKB** |
-| Preparation and cleanup | Help before and after meals | Everyone |
+| Dish / task | Assignment |
+| --- | --- |
+| Pork BBQ | ☐ **At least two grilling volunteers needed** |
+| Pork adobo | ☐ Confirm Barte’s father as cook, if joining |
+| Third dish | ☐ Choose the dish and assign a cook |
+| Dinner rice | ☐ Assign a cook |
 
-## Who will bring what
-
-| Person | Items | Notes |
-| --- | --- | --- |
-| **Anne** | Camera gimbal, phone gimbal and picnic mat; simple Saturday breakfast | Saturday breakfast confirmed; Anne handles preparation and arrangements |
-| **Karl** | Speaker; tent if permitted | Tent cannot be pitched at Limliwa; keep speaker use considerate |
-| **Paul** | Additional cooler | If joining; MC already brings one cooler |
-| **MC** | Picnic mat, first-aid kit, paper plates, spoons and forks, cups, trash bags, tissue/paper towels, aluminum foil, food-safe containers with lids, 1 bottle of soft drink, 1 cooler and 1-2 clean kitchen/microfiber cloths | Soft drink and cooler already available. Microfiber cloths for counters; use a separate clean cloth for drying dishes. |
-| **Volunteers** | Shared sunscreen, 1 lighter (long-neck preferred), dishwashing liquid (200-250 mL), 1-2 dishwashing sponges; UNO, playing cards or other small games | Volunteers needed; let the group know which item you can bring |
+Everyone helps with preparation and cleanup. The third dish remains undecided; a dish with broth is being considered.
 
 Chargers, cables and charged power banks are each person’s responsibility.
 
@@ -248,11 +255,6 @@ Chargers, cables and charged power banks are each person’s responsibility.
 | **Saturday lunch - KKB** | Main plan: restaurant lunch before shopping. Takeout at Limliwa is an optional idea only; confirm day-tour outside-food rules, corkage and group approval before changing the schedule. |
 | **Sunday lunch - KKB** | Choose a restaurant near the final adventure venue; location depends on the ATV operator or SandBox selection. |
 | **New Clark City River Park** | Confirm access and route suitability; alternative places to relax after the adventure are welcome |
-| **Dinner volunteers** | Assign at least two BBQ grillers, a rice cook, and someone to suggest and prepare the additional dish |
-| **Cooler** | MC brings 1 cooler; Paul brings an additional cooler if joining. Confirm whether the second cooler is needed and who can bring it if Paul cannot join. |
-| **Water, ice and cooking basics** | Buy water and ice in Zambales; arrange charcoal, sauces, seasonings and other ingredients |
-| **Shared supplies and games volunteers** | Assign volunteers for shared sunscreen, lighter, dishwashing liquid, sponges, UNO, cards or other small games |
-| **Shopping and cake** | Confirm the third dish and Karl’s breakfast list; check local hotdog / longganisa stock, water and ice sources, and cake preorder / pickup. |
 
 ## Personal packing checklist
 
