@@ -209,10 +209,10 @@ Quantities are provisional for **7-8 people**, adjusted after the **November 2 a
 
 | Buy in QC | Buy in Zambales |
 | --- | --- |
-| ☐ **30 marinated pork BBQ sticks** | ☐ Pork for adobo, approximately **1-1.5 kg** |
-| ☐ **4 sharing bags of chips**, around 100-150 g each | ☐ Ingredients for the third dish - pending |
-| ☐ **1 biscuit/cracker multipack**, with 8-10 individual packs | ☐ Rice, approximately **2 kg uncooked** |
-| ☐ **1 pack of Mentos** | ☐ Eggs, **10-14**, subject to Karl’s menu |
+| ☐ **30 marinated pork BBQ sticks** - MC to buy | ☐ Pork for adobo, approximately **1-1.5 kg** |
+| ☐ **4 sharing bags of chips**, around 100-150 g each - MC to buy | ☐ Ingredients for the third dish - pending |
+| ☐ **1 biscuit/cracker multipack**, with 8-10 individual packs - MC to buy | ☐ Rice, approximately **2 kg uncooked** |
+| ☐ **1 pack of Mentos** - MC to buy | ☐ Eggs, **10-14**, subject to Karl’s menu |
 | ☐ Cooking oil - buyer needed | ☐ Hotdogs **or** longganisa, **750 g-1 kg**, subject to Karl’s menu |
 | ☐ Soy sauce - buyer needed | ☐ Bananas, **10-14 pieces** |
 | ☐ Vinegar - buyer needed | ☐ **1 small watermelon** |
