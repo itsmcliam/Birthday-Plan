@@ -185,11 +185,11 @@ flowchart TD
 | ☑ Cups | ☐ Dishwashing sponges, 1-2 - volunteer |
 | ☑ Trash bags | ☐ UNO, playing cards or mini Jenga - volunteers |
 | ☑ Tissue/paper towels |  |
-| ☑ Aluminum foil |  |
+| ☑ Aluminum foil | ☐ Badminton rackets + shuttlecocks - volunteer needed |
 | ☑ Food-safe containers with lids |  |
 | ☑ Clean kitchen/microfiber cloths |  |
 
-### Anne and Karl
+### Anne, Karl and Richelle
 
 **Anne’s Saturday breakfast responsibility is confirmed.** The boxes below track preparation and packing. Karl plans Sunday breakfast, and **Karl and MC cook**.
 
@@ -200,6 +200,8 @@ flowchart TD
 | ☐ Pack camera gimbal | ☐ Coordinate breakfast ingredient purchases |
 | ☐ Pack phone gimbal | ☐ Pack speaker |
 | ☐ Pack picnic mat | ☐ Tent, only if useful at a permitted location |
+
+☐ **Richelle:** Pack and bring the volleyball.
 
 **Limliwa prohibits tent pitching and discourages loud speakers.**
 
