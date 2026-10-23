@@ -109,16 +109,16 @@ Dinner is planned **at the house**. Bring only what is needed for the beach.
 
 ### Optional idea: takeout lunch and cooler flow
 
-**Main plan: eat lunch at a restaurant before shopping and going to the beach.** An alternative is takeout lunch at Limliwa after the house stop. This is **only an idea**, pending Limliwa’s current day-tour outside-food rules, any corkage fee, and group approval. Do not change the schedule yet; takeout would mean a later lunch.
+**Limliwa confirmed by direct message: outside food and drinks are allowed, with no corkage fee.** The main plan remains restaurant lunch before shopping and going to the beach. Takeout lunch at Limliwa after the house stop is an optional alternative, subject to group approval and revised timing because lunch would be later.
 
 | Stage | Plan |
 | --- | --- |
 | QC and grocery stop | Keep marinated BBQ and other chilled ingredients in sealed, leakproof containers in an iced cooler. |
 | At the house | Transfer raw meat and chilled breakfast ingredients into the refrigerator/freezer promptly. |
 | Beach preparation | Prefer a separate clean cooler for drinks and chilled snacks. If reusing the meat cooler, discard old ice, wash and sanitize it, then add fresh ice. Keep chips in a dry bag. |
-| If takeout is approved | Buy takeout shortly before eating at the resort, after the grocery and house stops. Confirm food and drink permission and corkage first. |
+| If takeout is approved | If the group chooses this option, buy takeout shortly before eating at the resort, after the grocery and house stops. Outside food and drinks are allowed with no corkage fee. |
 
-Outside-food policy reference: [Limliwa official FAQ](https://limliwabeachresort.com/about-us/). Current day-tour corkage requires direct confirmation.
+Outside-food policy confirmed directly by Limliwa in a message shared by MC on October 23, 2026: food and drinks are allowed, with no corkage fee.
 
 ## Sunday · November 8
 
@@ -250,7 +250,7 @@ Chargers, cables and charged power banks are each person’s responsibility.
 | **Attendance and transport** | Finalize attendance by **November 2, 2026**; confirm Barte’s parents, driver, vehicle seating and pickup pins |
 | **ATV - Sunday’s main activity** | Find a reliable operator and confirm the package, duration, meeting point, regular-car access and booking |
 | **SandBox - ATV alternative** | Group approval for **Package A + 30-minute unlimited-arrow archery**; confirm availability and adjust the route if selected |
-| **Saturday lunch - KKB** | Main plan: restaurant lunch before shopping. Takeout at Limliwa is an optional idea only; confirm day-tour outside-food rules, corkage and group approval before changing the schedule. |
+| **Saturday lunch - KKB** | Main plan: restaurant lunch before shopping. Limliwa confirmed outside food and drinks are allowed with no corkage fee. Takeout at the beach remains optional, subject to group approval and revised lunch timing. |
 | **Sunday lunch - KKB** | Choose a restaurant near the final adventure venue; location depends on the ATV operator or SandBox selection. |
 | **New Clark City River Park** | Confirm access and route suitability; alternative places to relax after the adventure are welcome |
 
