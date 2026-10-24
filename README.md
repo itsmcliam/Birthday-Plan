@@ -96,7 +96,7 @@ flowchart TD
 | 2&#8209;2:30&nbsp;PM | Travel to **Limliwa Beach Resort**. |
 | 2:30&#8209;5:30&nbsp;PM | Beach swimming, photos, games and group hangout. Cottage availability depends on walk-in occupancy. |
 | 5:30&#8209;6&nbsp;PM | Leave the resort and return to the house. |
-| 6&#8209;8&nbsp;PM | Shower, prepare dinner, eat together and celebrate with birthday cake. |
+| 6&#8209;8&nbsp;PM | Shower, prepare **pork BBQ, pork adobo and rice**, eat together and celebrate with birthday cake. |
 | 8&#8209;10&nbsp;PM | Birthday games, music, group photos and bonding **at the house**. |
 | 10&#8209;11:30&nbsp;PM | UNO, cards, snacks and a relaxed hangout. Volunteers can bring small games. |
 | 11:30&nbsp;PM&nbsp;onward | Rest or quiet bonding. No fixed group bedtime, but the driver needs sufficient sleep before Sunday’s trip. |
@@ -185,11 +185,11 @@ flowchart TD
 | ☑ Cups | ☐ Dishwashing sponges, 1-2 - volunteer |
 | ☑ Trash bags | ☐ UNO, playing cards or mini Jenga - volunteers |
 | ☑ Tissue/paper towels |  |
-| ☑ Aluminum foil | ☐ Badminton rackets + shuttlecocks - volunteer needed |
+| ☑ Aluminum foil | ☐ Shuttlecocks - volunteer needed |
 | ☑ Food-safe containers with lids |  |
 | ☑ Clean kitchen/microfiber cloths |  |
 
-### Anne and Karl
+### Anne, Karl and Ian Carl
 
 **Anne’s Saturday breakfast responsibility is confirmed.** The boxes below track preparation and packing. Karl plans Sunday breakfast, and **Karl and MC cook**.
 
@@ -200,7 +200,9 @@ flowchart TD
 | ☐ Pack camera gimbal | ☐ Coordinate breakfast ingredient purchases |
 | ☐ Pack phone gimbal | ☐ Pack speaker |
 | ☐ Pack picnic mat | ☐ Tent, only if useful at a permitted location |
-| ☐ Pack and bring the volleyball |  |
+| ☐ Confirm volleyball to bring - tentative |  |
+
+☐ **Ian Carl:** Pack and bring the badminton rackets.
 
 **Limliwa prohibits tent pitching and discourages loud speakers.**
 
@@ -211,17 +213,17 @@ Quantities are provisional for **7-8 people**, adjusted after the **November 2 a
 | Buy in QC | Buy in Zambales |
 | --- | --- |
 | ☐ **30 marinated pork BBQ sticks** - MC to buy | ☐ Pork for adobo, approximately **1-1.5 kg** |
-| ☐ **4 sharing bags of chips**, around 100-150 g each - MC to buy | ☐ Ingredients for the third dish - pending |
-| ☐ **1 biscuit/cracker multipack**, with 8-10 individual packs - MC to buy | ☐ Rice, approximately **2 kg uncooked** |
-| ☐ **1 pack of Mentos** - MC to buy | ☐ Eggs, **10-14**, subject to Karl’s menu |
-| ☐ Cooking oil - buyer needed | ☐ Hotdogs **or** longganisa, **750 g-1 kg**, subject to Karl’s menu |
-| ☐ Soy sauce - buyer needed | ☐ Bananas, **10-14 pieces** |
-| ☐ Vinegar - buyer needed | ☐ **1 small watermelon** |
-| ☐ Salt and pepper (whole peppercorns for adobo) - buyer needed | ☐ **1 sharing birthday cake** - arrange preorder/pickup |
-| ☐ Garlic and onions - buyer needed | ☐ Drinking water, initially **20 litres** |
-| ☐ Calamansi - buyer needed | ☐ Ice for the cooler/s |
-| ☐ Iced tea sachets - buyer needed | ☐ Charcoal |
-| ☐ Dried bay leaves / laurel, 1 small pack - buyer needed | ☐ **1 additional soft drink**, only if needed |
+| ☐ **4 sharing bags of chips**, around 100-150 g each - MC to buy | ☐ Rice, approximately **2 kg uncooked** |
+| ☐ **1 biscuit/cracker multipack**, with 8-10 individual packs - MC to buy | ☐ Eggs, **10-14**, subject to Karl’s menu |
+| ☐ **1 pack of Mentos** - MC to buy | ☐ Hotdogs **or** longganisa, **750 g-1 kg**, subject to Karl’s menu |
+| ☐ Cooking oil - buyer needed | ☐ Bananas, **10-14 pieces** |
+| ☐ Soy sauce - buyer needed | ☐ **1 small watermelon** |
+| ☐ Vinegar - buyer needed | ☐ **1 sharing birthday cake** - finalize flavor, design and pickup |
+| ☐ Salt and pepper (whole peppercorns for adobo) - buyer needed | ☐ Drinking water, initially **20 litres** |
+| ☐ Garlic and onions - buyer needed | ☐ Ice for the cooler/s |
+| ☐ Calamansi - buyer needed | ☐ Charcoal |
+| ☐ Iced tea sachets - buyer needed | ☐ **1 additional soft drink**, only if needed |
+| ☐ Dried bay leaves / laurel, 1 small pack - buyer needed |  |
 | ☐ Banana ketchup, 1 small pouch - only if BBQ basting sauce is not included; buyer needed |  |
 | ☐ Brown sugar, small pack - optional, confirm with cook; buyer needed |  |
 
@@ -237,10 +239,10 @@ Shopping references: [Mc Mar Frozen Foods listing](https://www.bizippines.com/mc
 | --- | --- |
 | Pork BBQ | ☐ **At least two grilling volunteers needed** |
 | Pork adobo | ☐ Confirm Barte’s father as cook, if joining |
-| Third dish | ☐ Choose the dish and assign a cook |
 | Dinner rice | ☐ Assign a cook |
+| Dishwashing | **Ian Carl** |
 
-Everyone helps with preparation and cleanup. The third dish remains undecided; a dish with broth is being considered.
+**Dinner menu confirmed: pork BBQ and pork adobo, with rice.** Everyone helps with food preparation and general cleanup; **Ian Carl handles dishwashing**.
 
 Chargers, cables and charged power banks are each person’s responsibility.
 
