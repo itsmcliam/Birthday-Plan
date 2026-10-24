@@ -4,7 +4,7 @@
 
 A joint birthday celebration for **MC, Richelle and Paul**, with an overnight stay at Barte’s grandfather’s house in **San Antonio, Zambales**.
 
-![Birthday weekend overview](assets/trip-overview.png?v=20261024-three-columns)
+![Birthday weekend overview](assets/trip-overview.png?v=20261024-flexible-clark)
 
 [Download the printable PDF](Birthday-Trip-Plan.pdf) · [PNG overview](assets/trip-overview.png)
 
@@ -17,7 +17,7 @@ A joint birthday celebration for **MC, Richelle and Paul**, with an overnight st
 | Saturday | Groceries, cake pickup, house stop, takeout lunch at Limliwa Beach, birthday dinner and games |
 | Sunday | ATV first, then lunch and a relaxed afternoon around Clark Parade Grounds |
 | Personal budget | **₱1,500 base allowance - please bring extra cash** |
-| Sunday return | Leave Clark at **7 PM**; target home **10 PM**, subject to traffic, dinner and drop-offs |
+| Sunday return | Leave Clark at **7 PM or earlier**; target home **10 PM**, subject to traffic, dinner and drop-offs |
 
 **The itinerary is still proposed. Pending destinations and arrangements are open to group suggestions and approval.**
 
@@ -133,7 +133,7 @@ Outside-food policy confirmed directly by Limliwa in a message shared by MC on O
 
 **ATV first, then lunch and a relaxed afternoon around Clark Parade Grounds**
 
-**Sunday’s plan is ATV first, then lunch and the afternoon around Clark Parade Grounds.** Times assume a Capas/Santa Juliana operator and remain provisional until the meeting point and booking are confirmed. **Leave Clark at 7 PM; target home around 10 PM. This is an optimistic target, subject to traffic, dinner and drop-offs.** The driver must have enough rest.
+**Sunday’s plan is ATV first, then lunch and the afternoon around Clark Parade Grounds.** Times assume a Capas/Santa Juliana operator and remain provisional until the meeting point and booking are confirmed. **Leave Clark at 7 PM or earlier; target home around 10 PM. This is an optimistic target, subject to traffic, dinner and drop-offs.** The driver must have enough rest.
 
 | Time | Plan |
 | --- | --- |
@@ -145,11 +145,8 @@ Outside-food policy confirmed directly by Limliwa in a message shared by MC on O
 | 12&#8209;12:30&nbsp;PM | Freshen up, change clothes and prepare for the Clark transfer. |
 | 12:30&#8209;1:30&nbsp;PM | Travel to **Clark Parade Grounds**. This one-hour allowance must be checked against the final ATV meeting point. |
 | 1:30&#8209;2:30&nbsp;PM | **Lunch around Clark Parade Grounds - KKB, ₱400 each.** **Anne and the group choose the restaurant.** Options: Barn by Conti’s, Couscousi Mediterranean Grill and Porch Coffee. |
-| 2:30&#8209;3:45&nbsp;PM | **Optional Clark Museum.** Visit before the published 4 PM closing. Admission and student exemption need confirmation; the 4D theater is separate and not scheduled. |
-| 3:45&#8209;4:30&nbsp;PM | Walk along the **historic Barn Houses** and visit the nearby **Fort Stotsenburg gateposts and memorials** for photos. |
-| 4:30&#8209;6:30&nbsp;PM | Relax at **Parade Grounds**: walking, photos, picnic-mat hangout and cards/UNO. **Optional bicycle rental costs extra**; current rates and availability need checking. **Driver rests** while others explore. |
-| 6:30&#8209;7&nbsp;PM | Restroom stop, organize belongings and prepare to leave. |
-| 7&nbsp;PM | **Depart Clark for QC.** Make a rest stop if the driver needs one. |
+| 2:30&#8209;7&nbsp;PM | **Flexible afternoon at Clark Parade Grounds.** Relax, walk, take photos, visit the nearby Barn Houses and memorials, play cards/UNO, or try **optional bicycle rental**. Anyone interested can visit **Clark Museum before its published 4 PM closing**. **Driver rests.** Choose what the group feels like doing; **leave earlier if everyone is ready**. Museum/student admission and bike-rental rates still need confirmation. |
+| 7&nbsp;PM&nbsp;or&nbsp;earlier | **Depart Clark for QC.** No need to stay until 7 PM if the group has finished. Make a rest stop if the driver needs one. |
 | On&nbsp;arrival&nbsp;in&nbsp;QC | **Fast-food dinner - KKB, ₱250 allowance**, then passenger drop-offs and MC’s motorcycle pickup. Choose a convenient McDonald’s, Jollibee or similar restaurant. |
 | Around&nbsp;10&nbsp;PM&nbsp;&#8209;&nbsp;target | **Target arrival home, not a fixed ETA.** Traffic, dinner queues, rest stops and drop-off locations may push arrival later. |
 
@@ -193,7 +190,7 @@ References checked October 24, 2026: [Clark Museum Facebook](https://www.faceboo
 
 **SandBox replaces ATV if selected.** It is not an additional scheduled activity, and choosing it will require changes to the route and times.
 
-Suggestions are welcome for the pending ATV operator or restaurant choice. Keep the afternoon around Parade Grounds so the group can walk, take photos and rest before the 7 PM departure.
+Suggestions are welcome for the pending ATV operator or restaurant choice. Keep the afternoon flexible around Parade Grounds. Walk, take photos or simply relax; leave earlier if everyone is ready, with departure planned by 7 PM.
 
 ```mermaid
 flowchart TD
@@ -206,9 +203,9 @@ flowchart TD
     F -->|"Alternative if selected"| H["SandBox A and 30-minute archery"]
     G --> I["Clark lunch; Anne and group choose restaurant"]
     H --> I
-    I --> J["Optional museum; heritage walk and photos"]
-    J --> K["Parade Grounds; optional bike rental and driver rest"]
-    K --> L["7 PM departure from Clark"]
+    I --> J["2:30-7 PM: flexible Parade Grounds; optional museum or bikes"]
+    J --> K["Relax and give driver rest; leave earlier if ready"]
+    K --> L["Depart by 7 PM"]
     L --> M["KKB dinner and drop-offs; target home 10 PM"]
 ```
 
