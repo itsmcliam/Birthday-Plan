@@ -26,9 +26,9 @@ A joint birthday celebration for **MC, Richelle and Paul**, with an overnight st
 | Day | Google Maps route |
 | --- | --- |
 | Day 1 - Saturday, November 7 | [Open route](https://maps.app.goo.gl/bow4Z7npJpLcuBze9) |
-| Day 2 - Sunday, November 8 | [Open route](https://maps.app.goo.gl/9TENoR7mgRZXrqK6A) |
+| Day 2 - Sunday, November 8 | [Open route](https://maps.app.goo.gl/2GWySEsYP8639SNZ8) |
 
-Route links supplied by MC. **The linked maps may still show the previous stop order.** Saturday now uses Jollibee Soliven (tentative), groceries, cake pickup, the house to cook rice, Wideplate takeout pickup and Limliwa. Sunday now runs **San Antonio → ATV meeting point (pending) → Clark Parade Grounds and nearby lunch → QC**. Update the driving route once the ATV operator is confirmed.
+Route links supplied by MC. **The Day 2 map link has been replaced with MC’s latest route.** Saturday uses Jollibee Soliven (tentative), groceries, cake pickup, the house to cook rice, Wideplate takeout pickup and Limliwa. Sunday runs **San Antonio → ATV meeting point (pending) → Clark Parade Grounds and nearby lunch → QC**. Confirm the final route after Ian Carl speaks with the ATV operator.
 
 ## Personal budget and KKB expenses
 
@@ -156,7 +156,7 @@ Outside-food policy confirmed directly by Limliwa in a message shared by MC on O
 
 | Priority | Activity | Status |
 | --- | --- | --- |
-| **Main adventure** | **Mt. Pinatubo lahar-trail ATV** | Operator, current package, meeting point and booking pending |
+| **Main adventure** | **Mt. Pinatubo lahar-trail ATV** | **Ian Carl will call the operator.** Current package, meeting point and booking remain pending. |
 | **Alternative to ATV** | **SandBox Package A + 30-minute unlimited-arrow archery** | Replaces ATV only if selected; approval and availability pending |
 | **After ATV** | **Clark Parade Grounds and nearby stops** | Selected afternoon area; lunch restaurant chosen by Anne and the group |
 | Optional indoor stop | **Clark Museum** | Current admission, student exemption and Sunday access need confirmation |
@@ -231,7 +231,7 @@ flowchart TD
 
 ### Anne, Karl and Ian Carl
 
-**Ian Carl prepares Saturday’s light breakfast.** Anne brings her assigned gear. Karl plans Sunday breakfast, and **Karl and MC cook**. The boxes track preparation and packing.
+**Ian Carl prepares Saturday’s light breakfast, handles dishwashing and will call the ATV operator.** Anne brings her assigned gear. Karl plans Sunday breakfast, and **Karl and MC cook**. The boxes track preparation, packing and follow-up tasks.
 
 | Anne | Karl | Ian Carl |
 | --- | --- | --- |
@@ -239,7 +239,7 @@ flowchart TD
 | ☐ Pack phone gimbal | ☐ List ingredients and quantities needed | ☐ Prepare and pack Saturday breakfast |
 | ☐ Pack picnic mat | ☐ Coordinate breakfast ingredient purchases | ☐ Pack badminton rackets |
 | ☐ Confirm volleyball to bring - tentative | ☐ Pack speaker | ☐ Handle dishwashing |
-|  | ☐ Tent, only if useful at a permitted location |  |
+|  | ☐ Tent, only if useful at a permitted location | ☐ Call ATV operator and relay the details |
 
 **Limliwa prohibits tent pitching and discourages loud speakers.**
 
@@ -288,7 +288,7 @@ Chargers, cables and charged power banks are each person’s responsibility.
 | Item | What still needs arranging |
 | --- | --- |
 | **Attendance and transport** | Finalize attendance by **November 2, 2026**; confirm Barte’s parents, driver, vehicle seating and pickup pins |
-| **ATV - Sunday’s main activity** | Find a reliable operator and confirm the package, duration, meeting point, regular-car access and booking |
+| **ATV - Sunday’s main activity** | **Ian Carl will call the ATV operator.** Confirm current rates, ride duration, route, meeting point, regular-car access, availability and booking requirements, then relay the details to the group. **Not yet booked.** |
 | **SandBox - ATV alternative** | Group approval for **Package A + 30-minute unlimited-arrow archery**; confirm availability and adjust the route if selected |
 | **Saturday shared lunch - Wideplate** | Pool **₱300 per person for ulam**, bring rice cooked at the house, choose orders together on arrival and check pickup timing. |
 | **Sunday lunch - KKB** | **Anne and the group choose a restaurant near Clark Parade Grounds.** Allow ₱400 each; shortlist: Barn by Conti’s, Couscousi Mediterranean Grill and Porch Coffee. Check dine-in menus and charges. |
