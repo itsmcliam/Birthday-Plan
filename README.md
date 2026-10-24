@@ -4,7 +4,7 @@
 
 A joint birthday celebration for **MC, Richelle and Paul**, with an overnight stay at Barte’s grandfather’s house in **San Antonio, Zambales**.
 
-![Birthday weekend overview](assets/trip-overview.png?v=20261024-clark-afternoon)
+![Birthday weekend overview](assets/trip-overview.png?v=20261024-three-columns)
 
 [Download the printable PDF](Birthday-Trip-Plan.pdf) · [PNG overview](assets/trip-overview.png)
 
@@ -17,7 +17,7 @@ A joint birthday celebration for **MC, Richelle and Paul**, with an overnight st
 | Saturday | Groceries, cake pickup, house stop, takeout lunch at Limliwa Beach, birthday dinner and games |
 | Sunday | ATV first, then lunch and a relaxed afternoon around Clark Parade Grounds |
 | Personal budget | **₱1,500 base allowance - please bring extra cash** |
-| Sunday return | Leave Clark at **7 PM**; QC around **11 PM**, then dinner and drop-offs |
+| Sunday return | Leave Clark at **7 PM**; target home **10 PM**, subject to traffic, dinner and drop-offs |
 
 **The itinerary is still proposed. Pending destinations and arrangements are open to group suggestions and approval.**
 
@@ -133,7 +133,7 @@ Outside-food policy confirmed directly by Limliwa in a message shared by MC on O
 
 **ATV first, then lunch and a relaxed afternoon around Clark Parade Grounds**
 
-**Sunday’s plan is ATV first, then lunch and the afternoon around Clark Parade Grounds.** Times assume a Capas/Santa Juliana operator and remain provisional until the meeting point and booking are confirmed. The driver must have enough rest. **A 7 PM Clark departure means QC around 11 PM before dinner and final drop-offs.**
+**Sunday’s plan is ATV first, then lunch and the afternoon around Clark Parade Grounds.** Times assume a Capas/Santa Juliana operator and remain provisional until the meeting point and booking are confirmed. **Leave Clark at 7 PM; target home around 10 PM. This is an optimistic target, subject to traffic, dinner and drop-offs.** The driver must have enough rest.
 
 | Time | Plan |
 | --- | --- |
@@ -147,10 +147,11 @@ Outside-food policy confirmed directly by Limliwa in a message shared by MC on O
 | 1:30&#8209;2:30&nbsp;PM | **Lunch around Clark Parade Grounds - KKB, ₱400 each.** **Anne and the group choose the restaurant.** Options: Barn by Conti’s, Couscousi Mediterranean Grill and Porch Coffee. |
 | 2:30&#8209;3:45&nbsp;PM | **Optional Clark Museum.** Visit before the published 4 PM closing. Admission and student exemption need confirmation; the 4D theater is separate and not scheduled. |
 | 3:45&#8209;4:30&nbsp;PM | Walk along the **historic Barn Houses** and visit the nearby **Fort Stotsenburg gateposts and memorials** for photos. |
-| 4:30&#8209;6:30&nbsp;PM | Relax at **Parade Grounds**: walking, photos, picnic-mat hangout and cards/UNO. **Optional bicycle rental costs extra**; current rates and availability need checking. Driver rests. |
+| 4:30&#8209;6:30&nbsp;PM | Relax at **Parade Grounds**: walking, photos, picnic-mat hangout and cards/UNO. **Optional bicycle rental costs extra**; current rates and availability need checking. **Driver rests** while others explore. |
 | 6:30&#8209;7&nbsp;PM | Restroom stop, organize belongings and prepare to leave. |
-| 7&#8209;11&nbsp;PM | Travel back to QC. Allow approximately **four hours**, including a rest stop if needed. |
-| Around&nbsp;11&nbsp;PM&nbsp;onward | **Fast-food dinner in QC - KKB, ₱250 allowance.** Choose McDonald’s, Jollibee or another convenient option on arrival, then complete drop-offs and MC’s motorcycle pickup. Home arrival may be after 11 PM. |
+| 7&nbsp;PM | **Depart Clark for QC.** Make a rest stop if the driver needs one. |
+| On&nbsp;arrival&nbsp;in&nbsp;QC | **Fast-food dinner - KKB, ₱250 allowance**, then passenger drop-offs and MC’s motorcycle pickup. Choose a convenient McDonald’s, Jollibee or similar restaurant. |
+| Around&nbsp;10&nbsp;PM&nbsp;&#8209;&nbsp;target | **Target arrival home, not a fixed ETA.** Traffic, dinner queues, rest stops and drop-off locations may push arrival later. |
 
 **There is no planned return to the San Antonio house on Sunday.** Pack everything and clean the house before leaving in the morning.
 
@@ -207,8 +208,8 @@ flowchart TD
     H --> I
     I --> J["Optional museum; heritage walk and photos"]
     J --> K["Parade Grounds; optional bike rental and driver rest"]
-    K --> L["7 PM departure; QC around 11 PM"]
-    L --> M["KKB fast-food dinner and final drop-offs"]
+    K --> L["7 PM departure from Clark"]
+    L --> M["KKB dinner and drop-offs; target home 10 PM"]
 ```
 
 ## Shared checklists
@@ -235,15 +236,13 @@ flowchart TD
 
 **Ian Carl prepares Saturday’s light breakfast.** Anne brings her assigned gear. Karl plans Sunday breakfast, and **Karl and MC cook**. The boxes track preparation and packing.
 
-| Anne | Karl |
-| --- | --- |
-| ☐ Pack camera gimbal | ☐ Finalize Sunday breakfast menu |
-| ☐ Pack phone gimbal | ☐ List ingredients and quantities needed |
-| ☐ Pack picnic mat | ☐ Coordinate breakfast ingredient purchases |
-| ☐ Confirm volleyball to bring - tentative | ☐ Pack speaker |
-|  | ☐ Tent, only if useful at a permitted location |
-
-**Ian Carl:** ☐ Arrange Saturday light breakfast ingredients; ☐ prepare and pack breakfast; ☐ pack badminton rackets. **Ian Carl also handles dishwashing.**
+| Anne | Karl | Ian Carl |
+| --- | --- | --- |
+| ☐ Pack camera gimbal | ☐ Finalize Sunday breakfast menu | ☐ Arrange Saturday breakfast ingredients |
+| ☐ Pack phone gimbal | ☐ List ingredients and quantities needed | ☐ Prepare and pack Saturday breakfast |
+| ☐ Pack picnic mat | ☐ Coordinate breakfast ingredient purchases | ☐ Pack badminton rackets |
+| ☐ Confirm volleyball to bring - tentative | ☐ Pack speaker | ☐ Handle dishwashing |
+|  | ☐ Tent, only if useful at a permitted location |  |
 
 **Limliwa prohibits tent pitching and discourages loud speakers.**
 
