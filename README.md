@@ -4,7 +4,7 @@
 
 A joint birthday celebration for **MC, Richelle and Paul**, with an overnight stay at Barte’s grandfather’s house in **San Antonio, Zambales**.
 
-![Birthday weekend overview](assets/trip-overview.png?v=0765765048e5)
+![Birthday weekend overview](assets/trip-overview.png?v=20261024-breakfast-cake)
 
 [Download the printable PDF](Birthday-Trip-Plan.pdf) · [PNG overview](assets/trip-overview.png)
 
@@ -88,10 +88,11 @@ flowchart TD
 | Time | Plan |
 | --- | --- |
 | 5:30&#8209;6&nbsp;AM | MC arrives at Barte’s house, parks his motorcycle and helps load the car. |
-| 6&#8209;7&nbsp;AM | Pick up Karl and Ian Carl along the route, then meet the remaining passengers at the **Luzon meetup point**. Exact pickup pins to follow. **Anne prepares a light breakfast**, such as bread with spread or filling, for the meetup / departure. **Confirmed - Anne handles breakfast preparation and arrangements.** |
+| 6&#8209;7&nbsp;AM | Pick up Karl and Ian Carl along the route, then meet the remaining passengers at the **Luzon meetup point**. Exact pickup pins to follow. **Ian Carl prepares and packs Saturday’s light breakfast**, such as bread with spread or filling, for departure. |
 | 7&#8209;11&nbsp;AM | Travel to San Antonio, Zambales. Allow approximately **four hours**, including a short stop if needed. |
-| 11&nbsp;AM&#8209;12&nbsp;NN | **Lunch outside - KKB.** Choose a restaurant along the route or near San Antonio. |
-| 12&#8209;1:30&nbsp;PM | Shop at **San Marcelino Public Market**, then a grocery for missing items. Buy dinner and breakfast ingredients, fruit, cake, snacks, drinks, water and ice. Allow 60-90 minutes; Karl identifies the breakfast ingredients. |
+| 11&nbsp;AM&#8209;12&nbsp;NN | **Lunch outside - KKB.** Recommended stop: **Wideplate Restaurant, San Antonio**, subject to group approval and current menu/seating confirmation. Keep the **₱300 personal allowance**. |
+| 12&#8209;1&nbsp;PM | Shop at **San Marcelino Public Market**, then a grocery for missing items: dinner and breakfast ingredients, fruit, drinks, water and ice. Karl identifies Sunday breakfast ingredients. Keep chilled items in the cooler. |
+| 1&#8209;1:30&nbsp;PM | **Cake pickup after groceries: KDB Sweet Shop**, Money Tree Building, Brgy. Rizal, San Antonio, behind 7-Eleven. **Preorder, flavor/design and pickup time still need confirmation.** |
 | 1:30&#8209;2&nbsp;PM | Arrive at the house, unload and refrigerate food. Everyone prepares beach bags while the driver rests. |
 | 2&#8209;2:30&nbsp;PM | Travel to **Limliwa Beach Resort**. |
 | 2:30&#8209;5:30&nbsp;PM | Beach swimming, photos, games and group hangout. Cottage availability depends on walk-in occupancy. |
@@ -100,6 +101,15 @@ flowchart TD
 | 8&#8209;10&nbsp;PM | Birthday games, music, group photos and bonding **at the house**. |
 | 10&#8209;11:30&nbsp;PM | UNO, cards, snacks and a relaxed hangout. Volunteers can bring small games. |
 | 11:30&nbsp;PM&nbsp;onward | Rest or quiet bonding. No fixed group bedtime, but the driver needs sufficient sleep before Sunday’s trip. |
+
+### Saturday lunch - KKB
+
+| Option | Published meal prices | Plan |
+| --- | --- | --- |
+| **Wideplate Restaurant** | Owner-uploaded menu reproduced by Restaurant Guru: lumpia silog ₱165, sisig with rice / liempo silog ₱185, chicken silog ₱190, tapsilog ₱225 | **Recommended KKB lunch**, subject to group approval; confirm latest prices, opening and seats |
+| **LML Sports Restaurant** | Own online catalog: regular silog meals ₱90-95; selected upsized meals ₱150 | Lower-cost option in Fabros Building, San Antonio; confirm current dine-in hours and menu |
+
+Lunch references checked October 24, 2026: [Wideplate Facebook](https://www.facebook.com/wideplaterestaurant/) · [Owner-uploaded Wideplate menu reproduced by Restaurant Guru](https://restaurantguru.com/Wildeplate-Restaurant-San-Antonio-Central-Luzon/menu) · [LML own online catalog](https://lmlsportsrestaurant.catalog.kyte.site/silogs-and-sizzlings). Published prices may have changed. The ₱300 allowance includes room for a drink or extras depending on the order.
 
 ### Limliwa Beach reminders
 
@@ -133,7 +143,7 @@ This schedule assumes an ATV provider around **Capas/Santa Juliana**. Travel tim
 | 12&#8209;1&nbsp;PM | **Lunch outside - KKB.** Choose a restaurant near the confirmed ATV meeting point; venue pending. |
 | 1&#8209;2:30&nbsp;PM | **Mt. Pinatubo lahar-trail ATV adventure.** Allow for registration, briefing and the preferred **30-minute to one-hour ride**. Operator and booking pending. |
 | 2:30&#8209;3&nbsp;PM | Change clothes if needed, freshen up and travel toward **New Clark City River Park**. Timing depends on the ATV location. |
-| 3&#8209;5&nbsp;PM | Relaxed walking, photos, greenery and bonding. **Driver rests before the drive home.** Park access and route suitability remain pending. |
+| 3&#8209;5&nbsp;PM | **New Clark City River Park:** relaxed riverside walking, photos, greenery and bonding. **Driver rests before the drive home.** Published public access is free; reconfirm November 8 access and the final ATV-to-park route. |
 | 5&#8209;5:30&nbsp;PM | Restroom stop, organize belongings and prepare for departure. |
 | 5:30&#8209;9:30&nbsp;PM | Travel back to QC, allowing approximately **four hours** with a rest stop if needed. |
 | 9:30&#8209;10:15&nbsp;PM | **Dinner outside - KKB.** Restaurant to be decided in QC or along the return route. |
@@ -148,7 +158,11 @@ This schedule assumes an ATV provider around **Capas/Santa Juliana**. Travel tim
 | --- | --- | --- |
 | **Main adventure** | **Mt. Pinatubo lahar-trail ATV** | Operator, current package, meeting point and booking pending |
 | **Alternative to ATV** | **SandBox Package A + 30-minute unlimited-arrow archery** | Subject to group approval and availability |
-| Relaxation | New Clark City River Park | Access and route suitability pending |
+| Relaxation | New Clark City River Park | Published free public access; reconfirm November 8 access and route suitability |
+
+**River Park:** about 1.4 km of riverside paths, bikeways, public greenery, art installations and an open amphitheater. Suitable for walking, photos and a relaxed stop after ATV. BCDA published free public access when New Clark City reopened in May 2022; reconfirm November 8 access. This does not imply free admission to other sports facilities or events.
+
+Park references: [Official New Clark City facilities](https://newclarkcity.ph/explore/) · [BCDA public reopening announcement, May 26, 2022](https://bcda.gov.ph/news/bcda-reopens-new-clark-city-grand-opening-event-set-may-28-29).
 
 **SandBox replaces ATV if selected.** It is not an additional scheduled activity, and choosing it will require changes to the route and times.
 
@@ -156,7 +170,7 @@ Suggestions for a replacement adventure or relaxation stop are welcome. Choose p
 
 ```mermaid
 flowchart TD
-    A["Saturday: Anne prepares breakfast, pickups and travel"] --> B["Lunch, San Marcelino shopping and house"]
+    A["Saturday: Ian Carl prepares breakfast, pickups and travel"] --> B["KKB lunch, groceries, cake pickup and house"]
     B --> C["Limliwa Beach"]
     C --> D["Birthday dinner and games at the house"]
     D --> E["Sunday: breakfast, clean and pack"]
@@ -191,24 +205,23 @@ flowchart TD
 
 ### Anne, Karl and Ian Carl
 
-**Anne’s Saturday breakfast responsibility is confirmed.** The boxes below track preparation and packing. Karl plans Sunday breakfast, and **Karl and MC cook**.
+**Ian Carl prepares Saturday’s light breakfast.** Anne brings her assigned gear. Karl plans Sunday breakfast, and **Karl and MC cook**. The boxes track preparation and packing.
 
 | Anne | Karl |
 | --- | --- |
-| ☐ Buy Saturday breakfast ingredients | ☐ Finalize Sunday breakfast menu |
-| ☐ Prepare and pack the light breakfast | ☐ List ingredients and quantities needed |
-| ☐ Pack camera gimbal | ☐ Coordinate breakfast ingredient purchases |
-| ☐ Pack phone gimbal | ☐ Pack speaker |
-| ☐ Pack picnic mat | ☐ Tent, only if useful at a permitted location |
-| ☐ Confirm volleyball to bring - tentative |  |
+| ☐ Pack camera gimbal | ☐ Finalize Sunday breakfast menu |
+| ☐ Pack phone gimbal | ☐ List ingredients and quantities needed |
+| ☐ Pack picnic mat | ☐ Coordinate breakfast ingredient purchases |
+| ☐ Confirm volleyball to bring - tentative | ☐ Pack speaker |
+|  | ☐ Tent, only if useful at a permitted location |
 
-☐ **Ian Carl:** Pack and bring the badminton rackets.
+**Ian Carl:** ☐ Arrange Saturday light breakfast ingredients; ☐ prepare and pack breakfast; ☐ pack badminton rackets. **Ian Carl also handles dishwashing.**
 
 **Limliwa prohibits tent pitching and discourages loud speakers.**
 
 ### Shared shopping
 
-Quantities are provisional for **7-8 people**, adjusted after the **November 2 attendance deadline**. We buy our own rice, oil, sauces and seasonings. **Anne handles Saturday breakfast separately; Karl finalizes Sunday breakfast.** **Buyers needed for the QC seasonings and iced tea; volunteer in the group chat before buying to avoid duplicates.**
+Quantities are provisional for **7-8 people**, adjusted after the **November 2 attendance deadline**. We buy our own rice, oil, sauces and seasonings. **Ian Carl handles Saturday breakfast separately; Karl finalizes Sunday breakfast.** **Buyers needed for the QC seasonings and iced tea; volunteer in the group chat before buying to avoid duplicates.**
 
 | Buy in QC | Buy in Zambales |
 | --- | --- |
@@ -218,7 +231,7 @@ Quantities are provisional for **7-8 people**, adjusted after the **November 2 a
 | ☐ **1 pack of Mentos** - MC to buy | ☐ Hotdogs **or** longganisa, **750 g-1 kg**, subject to Karl’s menu |
 | ☐ Cooking oil - buyer needed | ☐ Bananas, **10-14 pieces** |
 | ☐ Soy sauce - buyer needed | ☐ **1 small watermelon** |
-| ☐ Vinegar - buyer needed | ☐ **1 sharing birthday cake** - finalize flavor, design and pickup |
+| ☐ Vinegar - buyer needed | ☐ **1 birthday cake from KDB Sweet Shop** - preorder and pickup after groceries; flavor/design pending |
 | ☐ Salt and pepper (whole peppercorns for adobo) - buyer needed | ☐ Drinking water, initially **20 litres** |
 | ☐ Garlic and onions - buyer needed | ☐ Ice for the cooler/s |
 | ☐ Calamansi - buyer needed | ☐ Charcoal |
@@ -227,9 +240,9 @@ Quantities are provisional for **7-8 people**, adjusted after the **November 2 a
 | ☐ Banana ketchup, 1 small pouch - only if BBQ basting sauce is not included; buyer needed |  |
 | ☐ Brown sugar, small pack - optional, confirm with cook; buyer needed |  |
 
-Listings show **Mc Mar Frozen Foods inside the public market** and **Rodriguez Supermart on Agpalo Street** as a grocery backup. Exact stock, brands, prices and ice availability are unconfirmed. Confirm local water and ice sources, and arrange the cake before the trip.
+Market backup: **Mc Mar Frozen Foods** and **Rodriguez Supermart, Agpalo Street**. Stock, prices, water and ice availability need confirmation. **KDB Sweet Shop cake preorder and pickup time are still pending.**
 
-**Shopping flow:** Lunch → San Marcelino market / grocery → water / ice pickup → house and refrigerator → beach. Allow **60-90 minutes**. We buy our own rice, cooking oil, sauces and seasonings.
+**Shopping flow:** KKB lunch → San Marcelino market / grocery → water / ice → **KDB Sweet Shop cake pickup in San Antonio** → house and refrigerator → beach. Allow about **90 minutes for shopping and pickup**; timing is provisional. Confirm the cake preorder and collection time before travel.
 
 Shopping references: [Mc Mar Frozen Foods listing](https://www.bizippines.com/mc-mar-frozen-foods-0929-565-7091) · [Rodriguez Supermart listing](https://www.cybo.com/PH-biz/rodriguez-supermart). These are store listings, not live inventory.
 
@@ -253,9 +266,10 @@ Chargers, cables and charged power banks are each person’s responsibility.
 | **Attendance and transport** | Finalize attendance by **November 2, 2026**; confirm Barte’s parents, driver, vehicle seating and pickup pins |
 | **ATV - Sunday’s main activity** | Find a reliable operator and confirm the package, duration, meeting point, regular-car access and booking |
 | **SandBox - ATV alternative** | Group approval for **Package A + 30-minute unlimited-arrow archery**; confirm availability and adjust the route if selected |
-| **Saturday lunch - KKB** | Main plan: restaurant lunch before shopping. Limliwa confirmed outside food and drinks are allowed with no corkage fee. Takeout at the beach remains optional, subject to group approval and revised lunch timing. |
+| **Saturday lunch - KKB** | Recommended: **Wideplate Restaurant, San Antonio**. Group approval, latest menu, November 7 opening and seating still to confirm. **LML Sports Restaurant** is a lower-cost option. Lunch remains KKB, with a ₱300 allowance. |
 | **Sunday lunch - KKB** | Choose a restaurant near the final adventure venue; location depends on the ATV operator or SandBox selection. |
-| **New Clark City River Park** | Confirm access and route suitability; alternative places to relax after the adventure are welcome |
+| **New Clark City River Park** | Published free public access. Reconfirm November 8 opening/access and the route after selecting the ATV operator; relaxation-stop alternatives remain welcome. |
+| **Birthday cake pickup** | **KDB Sweet Shop**, Money Tree Building, Brgy. Rizal, San Antonio, behind 7-Eleven. Finalize flavor/design, place the preorder and confirm pickup after groceries on November 7. |
 
 ## Personal packing checklist
 
