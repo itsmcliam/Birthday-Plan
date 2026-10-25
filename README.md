@@ -4,7 +4,7 @@
 
 A joint birthday celebration for **MC, Richelle and Paul**, with an overnight stay at Barte’s grandfather’s house in **San Antonio, Zambales**.
 
-![Birthday weekend overview](assets/trip-overview.png?v=20261024-flexible-clark)
+![Birthday weekend overview](assets/trip-overview.png?v=20261025-sunday-meals)
 
 [Download the printable PDF](Birthday-Trip-Plan.pdf) · [PNG overview](assets/trip-overview.png)
 
@@ -15,7 +15,7 @@ A joint birthday celebration for **MC, Richelle and Paul**, with an overnight st
 | Meetup | **Jollibee Soliven - tentative**; final pickup pins to follow |
 | Accommodation | Family home in San Antonio |
 | Saturday | Groceries, cake pickup, house stop, takeout lunch at Limliwa Beach, birthday dinner and games |
-| Sunday | ATV first, then lunch and a relaxed afternoon around Clark Parade Grounds |
+| Sunday | ATV first, Barn by Conti’s lunch and a relaxed afternoon around Clark Parade Grounds |
 | Personal budget | **₱1,500 base allowance - please bring extra cash** |
 | Sunday return | Leave Clark at **7 PM or earlier**; target home **10 PM**, subject to traffic, dinner and drop-offs |
 
@@ -36,7 +36,7 @@ Route links supplied by MC. **The Day 2 map link has been replaced with MC’s l
 | --- | --- |
 | Shared contribution toward groceries, fuel and tolls | ₱550 |
 | Saturday shared ulam fund - Wideplate takeout | ₱300 |
-| Sunday lunch near Clark Parade Grounds - KKB | ₱400 |
+| Sunday lunch at Barn by Conti’s - KKB | ₱400 |
 | Sunday fast-food dinner in QC - KKB | ₱250 |
 | **Base allowance** | **₱1,500** |
 
@@ -56,7 +56,7 @@ flowchart TD
     A --> C["₱300 Saturday pooled ulam fund"]
     A --> D["₱650 own Sunday meals"]
     C --> E["Wideplate ulam; rice cooked at house"]
-    D --> F["Clark lunch: ₱400"]
+    D --> F["Barn by Conti’s lunch: ₱400"]
     D --> G["QC dinner: ₱250"]
     H["Bring extra cash beyond ₱1,500"] --> I["Meal overruns and personal purchases"]
 ```
@@ -131,20 +131,20 @@ Outside-food policy confirmed directly by Limliwa in a message shared by MC on O
 
 ## Sunday · November 8
 
-**ATV first, then lunch and a relaxed afternoon around Clark Parade Grounds**
+**ATV first, Barn by Conti’s lunch and a relaxed afternoon around Clark Parade Grounds**
 
 **Sunday’s plan is ATV first, then lunch and the afternoon around Clark Parade Grounds.** Times assume a Capas/Santa Juliana operator and remain provisional until the meeting point and booking are confirmed. **Leave Clark at 7 PM or earlier; target home around 10 PM. This is an optimistic target, subject to traffic, dinner and drop-offs.** The driver must have enough rest.
 
 | Time | Plan |
 | --- | --- |
-| 6&#8209;7&nbsp;AM | Breakfast. **Karl plans the menu and ingredients; Karl and MC cook.** Everyone eats and gets ready. |
+| 6&#8209;7&nbsp;AM | **Sunday breakfast: sinangag, eggs and longganisa.** Karl finalizes quantities and ingredients; **Karl and MC cook**. Anne will try asking her mom to buy longganisa; purchase still needs confirmation. |
 | 7&#8209;7:30&nbsp;AM | Clean the house, pack and load **all belongings**. Bring the day bag, water and a change of clothes for ATV. |
 | 7:30&#8209;10:30&nbsp;AM | Travel to the **Capas/Santa Juliana ATV meeting point**. Allow approximately three hours provisionally; exact operator, route and arrival time remain pending. |
 | 10:30&#8209;11&nbsp;AM | Registration, safety briefing and preparation. Bring a small snack if needed before the later lunch. |
 | 11&nbsp;AM&#8209;12&nbsp;NN | **Mt. Pinatubo lahar-trail ATV adventure.** Target a **30-minute to one-hour ride**. Operator, price, meeting point and booking are **pending**. |
 | 12&#8209;12:30&nbsp;PM | Freshen up, change clothes and prepare for the Clark transfer. |
 | 12:30&#8209;1:30&nbsp;PM | Travel to **Clark Parade Grounds**. This one-hour allowance must be checked against the final ATV meeting point. |
-| 1:30&#8209;2:30&nbsp;PM | **Lunch around Clark Parade Grounds - KKB, ₱400 each.** **Anne and the group choose the restaurant.** Options: Barn by Conti’s, Couscousi Mediterranean Grill and Porch Coffee. |
+| 1:30&#8209;2:30&nbsp;PM | **Lunch at Barn by Conti’s near Clark Parade Grounds - KKB, ₱400 allowance each.** Everyone chooses and pays for their own order. **Bring extra** for price differences, drinks, dessert or any additional charges. Restaurant selected; no reservation confirmed. |
 | 2:30&#8209;7&nbsp;PM | **Flexible afternoon at Clark Parade Grounds.** Relax, walk, take photos, visit the nearby Barn Houses and memorials, play cards/UNO, or try **optional bicycle rental**. Anyone interested can visit **Clark Museum before its published 4 PM closing**. **Driver rests.** Choose what the group feels like doing; **leave earlier if everyone is ready**. Museum/student admission and bike-rental rates still need confirmation. |
 | 7&nbsp;PM&nbsp;or&nbsp;earlier | **Depart Clark for QC.** No need to stay until 7 PM if the group has finished. Make a rest stop if the driver needs one. |
 | On&nbsp;arrival&nbsp;in&nbsp;QC | **Fast-food dinner - KKB, ₱250 allowance**, then passenger drop-offs and MC’s motorcycle pickup. Choose a convenient McDonald’s, Jollibee or similar restaurant. |
@@ -158,21 +158,23 @@ Outside-food policy confirmed directly by Limliwa in a message shared by MC on O
 | --- | --- | --- |
 | **Main adventure** | **Mt. Pinatubo lahar-trail ATV** | **Ian Carl will call the operator.** Current package, meeting point and booking remain pending. |
 | **Alternative to ATV** | **SandBox Package A + 30-minute unlimited-arrow archery** | Replaces ATV only if selected; approval and availability pending |
-| **After ATV** | **Clark Parade Grounds and nearby stops** | Selected afternoon area; lunch restaurant chosen by Anne and the group |
+| **After ATV** | **Clark Parade Grounds and nearby stops** | Selected afternoon area; lunch at Barn by Conti’s |
 | Optional indoor stop | **Clark Museum** | Current admission, student exemption and Sunday access need confirmation |
 | Optional rental | **Bicycle rental near Parade Grounds** | Personal extra; operator, rates and availability need checking |
 
-### Sunday lunch choices - Anne and group decide
+### Sunday lunch - Barn by Conti’s
 
-| Restaurant | Published examples | Budget note |
+| Menu-photo example | Listed price | Note |
 | --- | --- | --- |
-| Barn by Conti’s | Soy-egg arroz caldo ₱330; crispy-pork arroz caldo ₱400; pesto linguine ₱400 | Selected dishes fit ₱400; most meat-and-rice mains cost more. |
-| Couscousi Mediterranean Grill | Falafel wrap ₱360 | Vegetarian wrap fits; most meat dishes exceed ₱400. |
-| Porch Coffee | Breakfast rice meals start at ₱400 | Uses the full allowance before drinks or possible charges. |
+| Classic pesto linguine | ₱345 | Classic pasta option |
+| Pork tocino | ₱375 | With garlic rice and egg |
+| Cajun chicken | ₱395 | With rice and vegetables |
+| Bacon mac & cheese | ₱395 | Pasta option |
+| Chorizo aglio olio | ₱395 | Pasta option |
 
-**Anne and the group will choose the restaurant.** Keep ₱400 each for Sunday lunch and bring extra. Barn and Couscousi figures are listed delivery-menu prices; dine-in prices and service charges may differ. Porch’s starting price is from a May 2026 feature. The whole menu is not necessarily within budget.
+**Barn by Conti’s is selected for Sunday lunch, around 1:30-2:30 PM after ATV.** Keep **₱400 each** within the ₱1,500 base allowance and **bring extra cash**. The examples above come from menu photos supplied by MC on October 25, 2026. The photos show different menu versions; these are reference prices, not a confirmed November quote or final bill. Drinks, dessert, price changes or any additional charges may exceed the allowance. Everyone chooses and pays for their own order. **No reservation confirmed.**
 
-Menu links: [Barn by Conti’s - Clark](https://www.foodpanda.ph/restaurant/zwbg/barn-by-contis-clark-freeport-zone) · [Couscousi - Clark Parade Grounds](https://www.foodpanda.ph/restaurant/kmbo/couscousi-mediterranean-grill-clark-parade-grounds) · [Porch Coffee](https://www.instagram.com/porchcoffeeph/) · [Porch May 2026 food-price reference](https://www.topgear.com.ph/features/feature-articles/coffee-run-porch-coffee-clark-a4682-20260522).
+Menu reference: photos supplied by MC on October 25, 2026. [Barn by Conti’s official Facebook](https://www.facebook.com/barnbycontis/). Check the current dine-in menu on arrival.
 
 ### Around Parade Grounds
 
@@ -190,18 +192,18 @@ References checked October 24, 2026: [Clark Museum Facebook](https://www.faceboo
 
 **SandBox replaces ATV if selected.** It is not an additional scheduled activity, and choosing it will require changes to the route and times.
 
-Suggestions are welcome for the pending ATV operator or restaurant choice. Keep the afternoon flexible around Parade Grounds. Walk, take photos or simply relax; leave earlier if everyone is ready, with departure planned by 7 PM.
+Suggestions are welcome for the pending ATV operator and flexible afternoon stops. Keep the afternoon flexible around Parade Grounds. Walk, take photos or simply relax; leave earlier if everyone is ready, with departure planned by 7 PM.
 
 ```mermaid
 flowchart TD
     A["Saturday: Ian Carl breakfast; tentative Soliven meetup"] --> B["Groceries, cake pickup and house-cooked rice"]
     B --> C["Wideplate ulam and Limliwa beach lunch"]
     C --> D["Birthday dinner and games at the house"]
-    D --> E["Sunday: breakfast, clean and pack all bags"]
+    D --> E["Sunday: sinangag, eggs and longganisa; pack all bags"]
     E --> F{"Adventure choice"}
     F -->|"Main plan; operator pending"| G["Mt. Pinatubo ATV"]
     F -->|"Alternative if selected"| H["SandBox A and 30-minute archery"]
-    G --> I["Clark lunch; Anne and group choose restaurant"]
+    G --> I["Barn by Conti’s lunch; KKB ₱400 plus extra"]
     H --> I
     I --> J["2:30-7 PM: flexible Parade Grounds; optional museum or bikes"]
     J --> K["Relax and give driver rest; leave earlier if ready"]
@@ -231,28 +233,29 @@ flowchart TD
 
 ### Anne, Karl and Ian Carl
 
-**Ian Carl prepares Saturday’s light breakfast, handles dishwashing and will call the ATV operator.** Anne brings her assigned gear. Karl plans Sunday breakfast, and **Karl and MC cook**. The boxes track preparation, packing and follow-up tasks.
+**Ian Carl prepares Saturday’s light breakfast, handles dishwashing and will call the ATV operator.** Anne brings her assigned gear and will try asking her mom to buy longganisa. Karl plans quantities for **sinangag, eggs and longganisa**, and **Karl and MC cook**. The boxes track preparation, packing and follow-up tasks.
 
 | Anne | Karl | Ian Carl |
 | --- | --- | --- |
-| ☐ Pack camera gimbal | ☐ Finalize Sunday breakfast menu | ☐ Arrange Saturday breakfast ingredients |
+| ☐ Pack camera gimbal | ☐ Finalize Sunday breakfast quantities | ☐ Arrange Saturday breakfast ingredients |
 | ☐ Pack phone gimbal | ☐ List ingredients and quantities needed | ☐ Prepare and pack Saturday breakfast |
 | ☐ Pack picnic mat | ☐ Coordinate breakfast ingredient purchases | ☐ Pack badminton rackets |
 | ☐ Confirm volleyball to bring - tentative | ☐ Pack speaker | ☐ Handle dishwashing |
 |  | ☐ Tent, only if useful at a permitted location | ☐ Call ATV operator and relay the details |
+| ☐ Ask mom about buying longganisa; confirm quantity and purchase |  |  |
 
 **Limliwa prohibits tent pitching and discourages loud speakers.**
 
 ### Shared shopping
 
-Quantities are provisional for **7-8 people**, adjusted after the **November 2 attendance deadline**. We buy our own rice, oil, sauces and seasonings. **Ian Carl handles Saturday breakfast separately; Karl finalizes Sunday breakfast.** **Buyers needed for the QC seasonings and iced tea; volunteer in the group chat before buying to avoid duplicates.**
+Quantities are provisional for **7-8 people**, adjusted after the **November 2 attendance deadline**. We buy our own rice, oil, sauces and seasonings. **Ian Carl handles Saturday breakfast separately. Sunday breakfast is sinangag, eggs and longganisa; Karl finalizes quantities. Anne will try asking her mom to buy longganisa; confirm before buying more.** **Buyers needed for the QC seasonings and iced tea; volunteer in the group chat before buying to avoid duplicates.**
 
 | Buy in QC | Buy in Zambales |
 | --- | --- |
 | ☐ **30 marinated pork BBQ sticks** - MC to buy | ☐ Pork for adobo, approximately **1-1.5 kg** |
 | ☐ **4 sharing bags of chips**, around 100-150 g each - MC to buy | ☐ Rice, initially **2 kg uncooked** - recheck after headcount; covers Saturday lunch, dinner and Sunday breakfast |
 | ☐ **1 biscuit/cracker multipack**, with 8-10 individual packs - MC to buy | ☐ Eggs, **10-14**, subject to Karl’s menu |
-| ☐ **1 pack of Mentos** - MC to buy | ☐ Hotdogs **or** longganisa, **750 g-1 kg**, subject to Karl’s menu |
+| ☐ **1 pack of Mentos** - MC to buy | ☐ Longganisa, initially **750 g-1 kg**; confirm Anne’s purchase first, then buy locally only if needed |
 | ☐ Cooking oil - buyer needed | ☐ Bananas, **10-14 pieces** |
 | ☐ Soy sauce - buyer needed | ☐ **1 small watermelon** |
 | ☐ Vinegar - buyer needed | ☐ **1 birthday cake from KDB Sweet Shop** - preorder and pickup after groceries; flavor/design pending |
@@ -291,7 +294,7 @@ Chargers, cables and charged power banks are each person’s responsibility.
 | **ATV - Sunday’s main activity** | **Ian Carl will call the ATV operator.** Confirm current rates, ride duration, route, meeting point, regular-car access, availability and booking requirements, then relay the details to the group. **Not yet booked.** |
 | **SandBox - ATV alternative** | Group approval for **Package A + 30-minute unlimited-arrow archery**; confirm availability and adjust the route if selected |
 | **Saturday shared lunch - Wideplate** | Pool **₱300 per person for ulam**, bring rice cooked at the house, choose orders together on arrival and check pickup timing. |
-| **Sunday lunch - KKB** | **Anne and the group choose a restaurant near Clark Parade Grounds.** Allow ₱400 each; shortlist: Barn by Conti’s, Couscousi Mediterranean Grill and Porch Coffee. Check dine-in menus and charges. |
+| **Sunday lunch - KKB** | **Barn by Conti’s selected**, near Clark Parade Grounds. Keep ₱400 each and bring extra. Choose individual orders on arrival; check the current menu, seating and any additional charges. No reservation confirmed. |
 | **Clark afternoon details** | Parade Grounds is the selected area. Confirm museum Sunday hours, current admission and student exemption; check optional bicycle rental prices and availability. |
 | **Birthday cake pickup** | **KDB Sweet Shop**, Money Tree Building, Brgy. Rizal, San Antonio, behind 7-Eleven. Finalize flavor/design, place the preorder and confirm pickup after groceries on November 7. |
 
