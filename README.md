@@ -4,7 +4,7 @@
 
 A joint birthday celebration for **MC, Richelle and Paul**, with an overnight stay at Barte’s grandfather’s house in **San Antonio, Zambales**.
 
-![Birthday weekend overview](assets/trip-overview.png?v=20261025-sunday-meals)
+![Birthday weekend overview](assets/trip-overview.png?v=20261026-beach-kkb)
 
 [Download the printable PDF](Birthday-Trip-Plan.pdf) · [PNG overview](assets/trip-overview.png)
 
@@ -49,8 +49,8 @@ Set aside **₱550 for the shared contribution** and **₱300 for Saturday’s p
 | Additional personal expense | Arrangement |
 | --- | --- |
 | Meals exceeding the allowance | Pay the difference individually |
-| Extra snacks, drinks and personal purchases | Own expense |
-| Optional activities outside the agreed itinerary | Confirm the cost and payment arrangement before joining |
+| Extra snacks, drinks and personal purchases | KKB - pay for your own extras |
+| Optional beach activities and rentals | KKB: surfing lessons, board/equipment rentals and other optional beach activities. Check the price before joining. These are extra to the ₱1,500 base allowance. |
 
 ```mermaid
 flowchart TD
@@ -60,7 +60,7 @@ flowchart TD
     C --> E["Wideplate ulam; rice cooked at house"]
     D --> F["Barn by Conti’s lunch: ₱400"]
     D --> G["QC dinner: ₱250"]
-    H["Bring extra cash beyond ₱1,500"] --> I["Meal overruns and personal purchases"]
+    H["Bring extra cash beyond ₱1,500"] --> I["Meal overruns, beach extras and personal purchases"]
 ```
 
 ## Attendance
@@ -116,7 +116,7 @@ Selected Saturday lunch source: [Wideplate Restaurant Facebook](https://www.face
 
 **Day tour: 6 AM-6 PM only.** Walk-ins are first come, first served. **Tent pitching is prohibited**, loud speakers are discouraged, and cooking/grilling is allowed only in the common cooking area.
 
-Dinner is planned **at the house**. Bring only what is needed for the beach.
+Dinner is planned **at the house**. Bring only what is needed for the beach. **Optional beach activities and rentals are KKB**, including surfing lessons and equipment rentals. Extra snacks and drinks are also your own expense. Check prices before joining and bring extra cash beyond the ₱1,500 base allowance.
 
 ### Beach lunch and cooler flow
 
