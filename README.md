@@ -76,8 +76,8 @@ Return to the San Antonio house for bags and driver rest before the QC journey.
 | Person | Status | Notes |
 | --- | --- | --- |
 | MC / Anne / Karl / Ian Barte / IanCarl | Confirmed | Five named confirmations so far |
-| Paul / Jannelle / Ian Carreon / Walter / Gerard | Pending | Reconfirm by November 2 |
-| Blessy | Conditional | Permission, duration and transport need reconfirmation |
+| Paul / Jannelle / Ian Carreon | Pending | Reconfirm by November 2 |
+| Blessy | Pending | Mother approved; father’s permission still pending |
 | Barte’s parents | Planned, not final | Confirm both parents and driver arrangements |
 | Working total | Eight | Six main-group participants plus two parents; final names may change |
 
@@ -109,7 +109,7 @@ Suggestions are welcome for unresolved arrangements; coordinate changes with the
 | ☑ Trash bags; tissue / paper towels | ☐ Lighter — volunteer |
 | ☑ Aluminum foil; food-safe lidded containers | ☐ Dishwashing liquid, 200–250 mL; 1–2 sponges — volunteer |
 | ☑ Clean kitchen / microfiber cloths | ☐ UNO, playing cards or mini Jenga — volunteers |
-| Separate wiping and dish-drying cloths | ☐ Shuttlecocks — volunteer |
+| ☑ Separate wiping and dish-drying cloths | ☐ Shuttlecocks — volunteer |
 
 ☑ Already available; still pack and check quantities. ☐ To buy, borrow, assign or prepare.
 
