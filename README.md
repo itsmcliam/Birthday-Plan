@@ -21,6 +21,18 @@ Updated October 27, 2026. Working plan: eight main-group participants plus Barte
 | Sunday | Jessilyn private island hopping: Camara, Capones and Anawangin; return to the house, then QC |
 | Return | Leave San Antonio around 5:00 PM; target home 10:00–10:30 PM, depending on traffic, dinner and drop-offs. |
 
+## Operator verification
+
+| Business | Verification status |
+| --- | --- |
+| **Jessilyn’s Travel & Tours** | **Listed by the San Antonio Municipal Tourism Office (SAMTO) as a tour coordinator with a valid 2026 Business Permit, as of April 22, 2026.** Entry No. 52; registered owner: Jessilyn Racel Gruezo; Purok 7, Pundaquit, San Antonio. |
+| **Liwliwa ATV Getaways** | **Verification pending.** To be checked with San Felipe’s tourism office; not yet represented as permit-verified. |
+| **I Love BayBay** | **Verification pending.** To be checked with San Felipe’s tourism office; not yet represented as permit-verified. |
+
+Source: SAMTO’s published list and caption supplied by MC from the [San Antonio Municipal Tourism Office page](https://www.facebook.com/p/San-Antonio-Municipal-Tourism-Office-61576364490190/). The list establishes permit status as of its stated date; it does not certify the specific boat, weather conditions or booking. Confirm that booking and payment details match the listed business.
+
+San Felipe verification contact: [Turismo ng San Felipe](https://www.facebook.com/turismongsanfelipe/). San Antonio’s coordinator list does not cover businesses in San Felipe.
+
 ## Your personal budget
 
 | Allocation per friend | Amount |
