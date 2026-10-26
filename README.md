@@ -25,13 +25,11 @@ Updated October 26, 2026. Working plan: six main-group participants plus Barte�
 
 | Allocation per friend | Amount |
 | --- | --- |
-| Shared groceries, fuel and toll contribution | ₱1,200 |
-| I Love BayBay entrance | ₱200 |
-| Anawangin entrance | ₱100 |
-| Own Sunday dinner in QC | ₱250 |
-| Total suggested personal budget | ₱1,750 + extra cash |
+| Shared trip fund — give to MC; includes groceries, fuel, tolls and entrances | ₱1,500 |
+| Personal extras — keep individually | ₱500 |
+| Total to prepare | ₱2,000 |
 
-Bring ₱1,750 and EXTRA CASH. Keep ₱250 for your own Sunday dinner. The other ₱1,500 is allocated to the shared contribution and two entrances. This is a planning allocation, not a guaranteed all-in price: I Love BayBay’s remaining inclusions and possible separate fees still need confirmation.
+Prepare ₱2,000 per friend: give ₱1,500 to MC for the shared trip fund and keep ₱500 for personal extras, including your own meals, snacks, optional activities or purchases. Entrances are already included in the shared fund; there is no separate entrance collection. Personal spending beyond ₱500 is your own responsibility. I Love BayBay’s remaining inclusions and any separate charges still need confirmation.
 
 The plan includes shared Saturday lunch, dinner, Sunday breakfast and island lunch, plus the arranged main ATV and boat activities. No additional collection is currently planned for those scheduled activities. Optional activities, rentals, extra food/drinks and personal purchases are KKB; check the price before joining.
 
@@ -59,7 +57,7 @@ All times are targets, not bookings or guaranteed travel times. Preorder food an
 | --- | --- |
 | 5:30–7:00 AM | Karl and MC cook breakfast: sinangag, eggs and longganisa. Karl finalizes quantities. Prepare the island lunch if cooking at home; otherwise collect a prearranged early takeout order. |
 | 7:00–7:30 AM | Eat, clean up and pack island day bags, food and water. Organize remaining belongings for an easy return to the house. |
-| 7:30–8:00 AM | Travel to the boat meeting point. Allow about 15 minutes from Jollibee San Antonio, plus time from the house and boarding buffer. Exact pin to follow. |
+| 7:30–8:00 AM | Travel to the boat meeting point. Allow about 15 minutes from Jollibee San Antonio, plus time from the house and boarding buffer. Use Jessilyn’s supplied Pundaquit map pin; confirm the boarding meeting spot and parking charge. |
 | 8:00–8:30 AM | Meet Jessilyn’s operator, load food and bags, and prepare life jackets. Confirm the stop order and return pickup. |
 | 8:30–10:30 AM | Boat travel and Camara / Capones sightseeing and photo stops. This order and timing are proposed, subject to the operator and sea conditions. |
 | 10:30 AM–12:00 NN | Reach Anawangin, settle at an open table/cottage, swim and relax. Table reservation and CR/shower inclusions still need confirmation. |
@@ -92,7 +90,7 @@ The working headcount is not eight confirmed people. Please confirm by **Novembe
 | Attendance / transport | Complete the named list by November 2; confirm parents, driver, seating and pickup arrangement. |
 | I Love BayBay | Quoted entrance includes a free open cottage. Confirm outside food/drinks, cooler, corkage, environmental fee, CR/showers, parking, day-use hours and availability. A reaction alone is not a clear confirmation. |
 | ATV Getaways | Selected package and 2:00 PM target. Confirm booking, pickup at I Love BayBay, parking, rider arrangements and weather policy. |
-| Jessilyn island hopping | Selected route: Anawangin, Capones and Camara. Confirm headcount, meeting pin, table, stop duration/order, return pickup, CR/showers, corkage and any parking/environmental fees. |
+| Jessilyn island hopping | Selected route: Anawangin, Capones and Camara. Confirm headcount, boarding spot at the supplied map pin, table, stop duration/order, return pickup, CR/showers, corkage and any parking/environmental fees. |
 | Saturday lunch | Wideplate selected; preorder dishes, pickup time and a suitable seafood-allergy meal. |
 | Sunday lunch | Decide home cooking versus early takeout; appoint a cook or buyer and finalize the menu. |
 | Cake | KDB Sweet Shop pickup after groceries; confirm final flavor/design and pickup time. |
@@ -164,24 +162,30 @@ Carry raw meat in sealed leakproof containers with ice, then refrigerate it prom
 | Essentials | ID, cash, phone, charger, charged power bank and refillable water bottle. |
 | Keep things separate | Wet-clothes bags and leakproof food containers; bring rain protection. |
 
-## Maps and operator references
+## Routes and venue links
 
-- [Liwliwa ATV Getaways meeting area](https://maps.app.goo.gl/vNwuBRjekbnBsP8L9) — pickup at I Love BayBay still needs confirmation.
-- [I Love BayBay Facebook](https://www.facebook.com/p/I-Love-BayBay-100077308951284/)
-- [Liwliwa ATV Getaways Facebook](https://www.facebook.com/61559843702364/)
+| Venue / route | Google Maps | Facebook |
+| --- | --- | --- |
+| Saturday driving route | [Open map](https://maps.app.goo.gl/VXTT4ugm6bqVBXMD8) | — |
+| Sunday driving route | [Open map](https://maps.app.goo.gl/XKAea3D4XjEApZs69) | — |
+| I Love BayBay | [Open map](https://maps.app.goo.gl/rCENhvGy7jd94VB37) | [Facebook](https://www.facebook.com/profile.php?id=100077308951284) |
+| Liwliwa ATV Getaways | [Open map](https://maps.app.goo.gl/s4er5kgtLcWiRMV8A) | [Facebook](https://www.facebook.com/profile.php?id=61559843702364) |
+| Jessilyn Travel and Tours | [Open map](https://maps.app.goo.gl/vAVGLiaypsbTfios8) | [Facebook](https://www.facebook.com/profile.php?id=100083507706578) |
+| KDB Sweet Shop | [Open map](https://maps.app.goo.gl/ZW9u7sivSZY92D2J9) | [Facebook](https://www.facebook.com/KDBSweetShop/) |
+| Wideplate | [Open map](https://maps.app.goo.gl/J9N4yDfm3ZjHLgPx8) | [Facebook](https://www.facebook.com/wideplaterestaurant/) |
 
-The previous multi-stop maps followed the old itinerary and are no longer active route guides. Updated full routes and Jessilyn’s boarding pin are pending. Share the private house pin directly with participants.
+Latest routes supplied by MC. Jollibee San Antonio is the public reference for the nearby family house; share its private pin directly. The route links show the main driving stops; allow time for grocery, cake and food pickups. Jessilyn’s supplied pin points to Ariño Parking w/ Pay in Pundaquit: reconfirm the boarding meeting spot and parking charge with the operator.
 
 ## Budget allocation
 
 ```mermaid
 flowchart TD
-    A["₱1,750 per friend; bring extra"] --> B["₱1,200 shared contribution"]
-    A --> C["₱300 entrances"]
-    A --> D["₱250 own QC dinner"]
-    B --> E["Groceries, fuel and tolls"]
-    C --> F["I Love BayBay: ₱200"]
-    C --> G["Anawangin: ₱100"]
+    A["₱2,000 to prepare per friend"] --> B["₱1,500 shared trip fund; give to MC"]
+    A --> C["₱500 personal extras; keep individually"]
+    B --> D["Groceries, fuel and tolls"]
+    B --> E["Beach and island entrances included"]
+    C --> F["Own meals and snacks"]
+    C --> G["Optional activities and personal purchases"]
 ```
 
 ## Trip flow

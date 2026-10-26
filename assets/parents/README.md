@@ -2,6 +2,8 @@
 
 **San Antonio, Zambales · November 7–8, 2026 · Birthdays of Anne, MC and Paul**
 
+Prepare **₱2,000 per friend**: **₱1,500 shared trip fund** (groceries, fuel, tolls and entrances) and **₱500 personal extras**, kept individually.
+
 [Download the three-page PDF](../../Birthday-Trip-Parents-Guide.pdf) · [Full live itinerary](../../README.md)
 
 Open an image to save it and send it directly. Each page has a QR code for the full itinerary.
