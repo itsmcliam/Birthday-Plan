@@ -21,25 +21,20 @@
 
 ## Your personal budget
 
-```mermaid
-flowchart TD
-    A["Prepare at least ₱2,000 per friend"]
-    A --> B["₱1,500: give to MC"]
-    A --> C["₱500 minimum: keep for yourself"]
-    B --> D["Planned ATV, island hopping and entrances"]
-    B --> E["Shared meals and groceries"]
-    B --> F["Fuel, tolls, environmental fee and parking"]
-    C --> G["Sunday dinner, extra snacks and personal purchases"]
-    C --> H["Optional activities: pay only if you join"]
-    classDef total fill:#17354a,color:#ffffff,stroke:#58a6ff
-    classDef shared fill:#dcefed,color:#17354a,stroke:#137b80
-    classDef personal fill:#e5effa,color:#17354a,stroke:#4285b4
-    class A total
-    class B,D,E,F shared
-    class C,G,H personal
-```
+**Prepare at least ₱2,000. Bring extra cash if possible.**
 
-**Bring extra cash.** The ₱1,500 covers planned activities, entrances, environmental and parking fees. Optional extras are KKB; any additional fees will be confirmed before booking.
+| Amount | What to do |
+| --- | --- |
+| **₱1,500** | Give to MC at the Saturday meetup |
+| **₱500+** | Keep for Sunday dinner and personal extras |
+
+**Your ₱1,500 includes:**
+
+- **Activities:** planned ATV and private island hopping.
+- **Food:** shared Saturday lunch and dinner, Sunday breakfast and island lunch.
+- **Transport and fees:** fuel, tolls, entrances, environmental and parking fees.
+
+Optional activities, extra food and personal purchases are **KKB**. Any additional venue fees will be confirmed before booking.
 
 ## Saturday — November 7
 
