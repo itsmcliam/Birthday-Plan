@@ -25,7 +25,7 @@ Wear suitable footwear before leaving the house for the beach. Crocs require the
 
 ## Saturday: beach, ATV and falls packing
 
-**Pack everything below before leaving the house for the beach.** The “take on ATV” column is a smaller set from the same beach bag, not a separate packing trip.
+**Pack everything below before leaving the house for the beach.**
 
 | Pack for Saturday | Take on the ATV / falls trail? |
 | --- | --- |
