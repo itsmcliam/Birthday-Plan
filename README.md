@@ -113,45 +113,9 @@ Focus on confirmations and assignments before buying more supplies.
 
 Suggestions are welcome for unresolved arrangements; coordinate changes with the group before booking.
 
-## Shared items to pack
+## Packing and shopping checklists
 
-| Already available — MC | Still to arrange / pack |
-| --- | --- |
-| ☑ Two soft-drink bottles | ☐ Main cooler — MC to borrow |
-| ☑ Picnic mat; first-aid kit | ☐ Additional cooler — Paul if joining |
-| ☑ Paper plates; spoons and forks; cups | ☐ Shared sunscreen — volunteer |
-| ☑ Trash bags; tissue / paper towels | ☐ Lighter — volunteer |
-| ☑ Aluminum foil; food-safe lidded containers | ☐ Dishwashing liquid, 200–250 mL; 1–2 sponges — volunteer |
-| ☑ Clean kitchen / microfiber cloths | ☐ UNO, playing cards or mini Jenga — volunteers |
-| ☑ Separate wiping and dish-drying cloths | ☐ Shuttlecocks — volunteer |
-| ☑ Three food trays | ☐ Suitable hot/cold storage for island lunch |
-
-☑ Already available; still pack and check quantities. ☐ To buy, borrow, assign or prepare.
-
-## Assigned preparation — three columns
-
-| Anne | Karl | IanCarl |
-| --- | --- | --- |
-| ☐ Camera and phone gimbals | ☐ Finalize Sunday breakfast menu / quantities | ☐ Prepare and pack Saturday light breakfast |
-| ☐ Picnic mat | ☐ List / coordinate breakfast ingredients | ☐ Badminton rackets |
-| ☐ Confirm volleyball to bring | ☐ Speaker, subject to venue permission | ☐ Dishwashing |
-| ☐ Check longganisa purchase with Mom and Karl | ☐ Tent only if useful and permitted | Rackets available; shuttlecocks still needed |
-
-## Shopping checklist
-
-| Buy in QC / bring | Buy in Zambales / pick up |
-| --- | --- |
-| ☐ 30 marinated pork BBQ sticks; keep iced | ☐ Pork for adobo — around 2 kg, cook to confirm |
-| ☐ Cooking oil, soy sauce and vinegar | ☐ Rice — around 4–5 kg for four rice meals |
-| ☐ Salt, peppercorns and a small pack of laurel | ☐ Eggs and longganisa — Karl finalizes; check Anne’s purchase |
-| ☐ Garlic, onions and calamansi | ☐ Bananas and one small watermelon |
-| ☐ Iced-tea sachets, if wanted | ☐ Drinking water — start with 20 L; replenish as needed |
-| ☐ Sharing chips, around four bags; one cracker / biscuit multipack | ☐ Ice and charcoal |
-| ☐ One Mentos pack | ☐ KDB Sweet Shop cake pickup after groceries |
-| ☐ Saturday breakfast supplies — IanCarl | ☐ Wideplate takeout ulam pickup |
-| Check sauce / seasoning quantities with cooks | ☐ Sunday takeout once confirmed; Fat Belly Deli tentative |
-
-Quantities are suggestions for ten; check with the cooks before shopping. Bring our own ingredients and seasonings.
+[**Open the full packing checklist**](Packing-Checklist.md): personal clothes and essentials, beach / ATV / island day bags, shared gear, assignments and QC / Zambales shopping lists.
 
 ## Meals and cooking volunteers
 
@@ -166,16 +130,6 @@ Quantities are suggestions for ten; check with the cooks before shopping. Bring 
 | Cleanup | IanCarl handles dishwashing; everyone helps with preparation, packing and cleanup. |
 
 Carry raw meat in sealed leakproof containers with ice, then refrigerate it promptly at the house. Prefer a separate clean drinks cooler. If reusing the meat cooler, empty, clean and sanitize it before adding fresh ice and ready-to-eat items. Keep the island lunch appropriately hot or chilled during transport. Serving trays alone do not control food temperature; leave the rice cooker at the house.
-
-## Personal packing
-
-| Pack for yourself | Details |
-| --- | --- |
-| Clothes | Swimwear for two days, dry changes, sleepwear, underwear and a spare home-going outfit. |
-| Adventure gear | Closed-toe shoes, comfortable clothes, towel and a waterproof / day bag. |
-| House / beach gear | Slippers, toiletries, usual medication, sun protection and insect repellent. |
-| Essentials | ID, cash, phone, charger, charged power bank and refillable water bottle. |
-| Keep things separate | Wet-clothes bags and leakproof food containers; bring rain protection. |
 
 ## Routes and venue links
 
