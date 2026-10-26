@@ -8,6 +8,8 @@ A joint birthday celebration for **MC, Richelle and Paul**, with an overnight st
 
 [Download the printable PDF](Birthday-Trip-Plan.pdf) · [PNG overview](assets/trip-overview.png)
 
+**For parents:** [Download the parents’ PDF](Birthday-Trip-Parents-Guide.pdf) · [View/download the three images](assets/parents/README.md)
+
 | Detail | Current plan |
 | --- | --- |
 | Dates | Saturday-Sunday, November 7-8, 2026 |
