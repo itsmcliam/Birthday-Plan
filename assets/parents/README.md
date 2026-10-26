@@ -1,6 +1,6 @@
 # San Antonio, Zambales: information for parents
 
-November 7-8, 2026. A three-page overview of the trip, accommodation, transport, schedule and arrangements still to confirm.
+**Birthday celebration for Anne, MC and Paul · November 7-8, 2026.** A three-page overview of the trip, accommodation, transport, schedule and arrangements still to confirm.
 
 [Download the printable PDF](../../Birthday-Trip-Parents-Guide.pdf?raw=true) · [Full itinerary and latest updates](../../README.md)
 
