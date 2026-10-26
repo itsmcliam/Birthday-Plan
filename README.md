@@ -4,10 +4,6 @@
 
 Updated October 27, 2026. Working target: **10 total — eight main-group participants, including MC, plus Barte’s two parents.**
 
-## Downloads
-
-[Full printable plan](Birthday-Trip-Plan.pdf) · [Parents’ images](assets/parents/README.md)
-
 ## Trip at a glance
 
 | Detail | Current plan |
@@ -20,6 +16,8 @@ Updated October 27, 2026. Working target: **10 total — eight main-group partic
 | Saturday | Errands, Wideplate takeout, I Love BayBay, Liwliwa ATV Getaways, birthday dinner at the house |
 | Sunday | Jessilyn private island hopping: Camara, Capones and Anawangin; return to the house, then QC |
 | Return | Leave San Antonio around 5:00 PM; target home 10:00–10:30 PM, depending on traffic, dinner and drop-offs. |
+
+[Full printable plan](Birthday-Trip-Plan.pdf) · [Parents’ images](assets/parents/README.md)
 
 ## Your personal budget
 
@@ -61,7 +59,7 @@ No separate collection is planned for scheduled activities or entrances. Optiona
 
 | Time | Sunday, November 8 |
 | --- | --- |
-| 5:30–7:00 AM | Karl and MC cook sinangag, eggs and longganisa. Karl plans quantities. Cook island-lunch rice; Fat Belly Deli early takeout is tentative. |
+| 5:30–7:00 AM | Karl and MC prepare breakfast; menu and quantities are pending Karl’s plan. Cook island-lunch rice; Fat Belly Deli early takeout is tentative. |
 | 7:00–7:30 AM | Eat, clean up and pack day bags, food and water. Collect Fat Belly takeout only if early pickup is confirmed; organize overnight bags for the house return. |
 | 7:30–8:00 AM | Travel to the boat meeting point. Allow about 15 minutes from Jollibee San Antonio, plus time from the house and boarding buffer. Use Jessilyn’s supplied Pundaquit map pin; confirm the boarding meeting spot and parking charge. |
 | 8:00–8:30 AM | Meet Jessilyn’s operator, load food and bags, and prepare life jackets. Confirm the stop order and return pickup. |
@@ -79,7 +77,7 @@ No separate collection is planned for scheduled activities or entrances. Optiona
 
 | Meal | Plan / assignment |
 | --- | --- |
-| Sunday breakfast | Karl plans sinangag, eggs and longganisa. Karl and MC cook. |
+| Sunday breakfast | Menu pending Karl’s plan; sinangag, eggs and longganisa are tentative ideas. Karl and MC will cook. |
 | Sunday lunch | Tentative Fat Belly Deli takeout + house-cooked rice. Menu, serving sizes and early pickup pending. |
 | Sunday dinner | KKB fast-food meal in QC. |
 
@@ -102,7 +100,7 @@ Wear suitable footwear before leaving the house for the beach. Crocs require the
 
 ## Saturday: beach, ATV and falls packing
 
-**Pack everything below before leaving the house for the beach.** The “take on ATV” column is a smaller set from the same beach bag, not a separate packing trip.
+**Pack everything below before leaving the house for the beach.**
 
 | Pack for Saturday | Take on the ATV / falls trail? |
 | --- | --- |
