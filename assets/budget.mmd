@@ -1,6 +1,15 @@
 flowchart TD
-    A["₱2,000 minimum per friend"] --> B["₱1,500 shared fund: give to MC"]
-    A --> C["₱500 personal money: keep"]
-    B --> D["Planned ATV, boat and entrances"]
-    B --> E["Shared meals, groceries, fuel and tolls"]
-    C --> F["Sunday dinner, snacks and optional extras"]
+    A["Prepare at least ₱2,000 per friend"]
+    A --> B["₱1,500: give to MC"]
+    A --> C["₱500 minimum: keep for yourself"]
+    B --> D["Planned ATV, island hopping and entrances"]
+    B --> E["Shared meals and groceries"]
+    B --> F["Fuel, tolls, environmental fee and parking"]
+    C --> G["Sunday dinner, extra snacks and personal purchases"]
+    C --> H["Optional activities: pay only if you join"]
+    classDef total fill:#17354a,color:#ffffff,stroke:#58a6ff
+    classDef shared fill:#dcefed,color:#17354a,stroke:#137b80
+    classDef personal fill:#e5effa,color:#17354a,stroke:#4285b4
+    class A total
+    class B,D,E,F shared
+    class C,G,H personal
