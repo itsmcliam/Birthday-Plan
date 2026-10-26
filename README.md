@@ -6,16 +6,16 @@ Updated October 27, 2026. Working target: **10 total — eight main-group partic
 
 ## Trip at a glance
 
-| Detail | Current plan |
+| Detail | Plan |
 | --- | --- |
-| Celebration | Birthdays of Anne, MC and Paul • November 7–8, 2026 |
-| Stay | Barte’s grandfather’s house in San Antonio, Zambales |
-| Working headcount | Eight in the main group, including MC, plus Barte’s two parents: ten total. Final attendance is pending. |
-| Meetup / departure | Jollibee Soliven, tentative. Meet 5:30 AM; leave QC by 6:00 AM. |
-| Transport | Planned driver: Barte’s father, subject to confirmation. Confirm vehicle count, safe seating for ten and all driver arrangements. |
-| Saturday | Errands, Wideplate takeout, I Love BayBay, Liwliwa ATV Getaways, birthday dinner at the house |
-| Sunday | Jessilyn private island hopping: Camara, Capones and Anawangin; return to the house, then QC |
-| Return | Leave San Antonio around 5:00 PM; target home 10:00–10:30 PM, depending on traffic, dinner and drop-offs. |
+| Celebration | Anne, MC & Paul • November 7–8, 2026 |
+| Stay | Barte’s grandfather’s house, San Antonio |
+| Headcount | 10 planned: 8 main group + 2 parents |
+| Meetup | Jollibee Soliven (tentative) • 5:30 AM; leave 6:00 AM |
+| Transport | Barte’s father (tentative); vehicles and seats pending |
+| Saturday | Beach lunch, ATV and birthday dinner |
+| Sunday | Camara, Capones and Anawangin island hopping |
+| Return | Leave 5:00 PM • Home target 10:00–10:30 PM |
 
 [Full printable plan](Birthday-Trip-Plan.pdf) · [Parents’ images](assets/parents/README.md)
 
