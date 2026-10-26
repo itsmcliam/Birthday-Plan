@@ -39,7 +39,7 @@ flowchart TD
     class C,G,H personal
 ```
 
-**Bring extra cash if possible.** Environmental and parking fees are included in the ₱1,500 shared contribution; no separate collection is planned for scheduled activities or entrances. Optional extras are KKB. Any additional unconfirmed venue charges will be clarified before booking.
+**Bring extra cash.** The ₱1,500 covers planned activities, entrances, environmental and parking fees. Optional extras are KKB; any additional fees will be confirmed before booking.
 
 ## Saturday — November 7
 
