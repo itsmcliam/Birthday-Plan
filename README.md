@@ -2,7 +2,7 @@
 
 **November 7–8, 2026 · Birthdays of Anne, MC and Paul**
 
-Updated October 27, 2026. Working target: **10 total — eight main-group participants, including MC, plus Barte’s two parents.**
+Updated October 27, 2026 · **10 planned: 8 main group + 2 parents.**
 
 ## Trip at a glance
 
@@ -18,6 +18,8 @@ Updated October 27, 2026. Working target: **10 total — eight main-group partic
 | Return | Leave 5:00 PM • Home target 10:00–10:30 PM |
 
 [Full printable plan](Birthday-Trip-Plan.pdf) · [Parents’ images](assets/parents/README.md)
+
+**Trip rule:** Arrive by **5:30 AM**, fully packed. We leave at **6:00 AM sharp**. Latecomers lose their birthday sponsorship, so prepare around **₱4,000 if we’re 10** 😂
 
 ## Your personal budget
 
