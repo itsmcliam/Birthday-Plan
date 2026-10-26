@@ -4,6 +4,10 @@
 
 Updated October 27, 2026. Working target: **10 total — eight main-group participants, including MC, plus Barte’s two parents.**
 
+## Downloads
+
+[Full printable plan](Birthday-Trip-Plan.pdf) · [Parents’ images](assets/parents/README.md)
+
 ## Trip at a glance
 
 | Detail | Current plan |
@@ -27,16 +31,6 @@ Updated October 27, 2026. Working target: **10 total — eight main-group partic
 
 No separate collection is planned for scheduled activities or entrances. Optional extras are KKB; remaining venue charges still need confirmation.
 
-### Budget allocation
-
-```mermaid
-flowchart TD
-    A["₱2,000 minimum per friend"] --> B["₱1,500 shared fund: give to MC"]
-    A --> C["₱500 personal money: keep"]
-    B --> D["Planned ATV, boat and entrances"]
-    B --> E["Shared meals, groceries, fuel and tolls"]
-    C --> F["Sunday dinner, snacks and optional extras"]
-```
 
 
 ## Saturday — November 7
@@ -106,32 +100,26 @@ flowchart TD
 
 Wear suitable footwear before leaving the house for the beach. Crocs require the ATV operator’s approval.
 
-## Saturday: house to beach
+## Saturday: beach, ATV and falls packing
 
-☐ Swimwear and activity outfit  
-☐ Bath towel, dry clothes, underwear and slippers  
-☐ Water bottle, sunscreen, phone and small cash  
-☐ Bag for wet clothes  
-☐ Shared takeout lunch, house-cooked rice and serving utensils  
-☐ Plates, utensils, cups, tissue and trash bags  
-☐ Cooler, ice, water, drinks and snacks  
-☐ Picnic mats, volleyball, badminton rackets and shuttlecocks  
-☐ First-aid kit  
+**Pack everything below before leaving the house for the beach.** The “take on ATV” column is a smaller set from the same beach bag, not a separate packing trip.
 
-An overnight bag or maleta holds the full trip kit. A backpack can travel inside it, then be used as the beach day bag.
+| Pack for Saturday | Take on the ATV / falls trail? |
+| --- | --- |
+| ☐ Swimwear underneath comfortable activity clothes | **Wear it** |
+| ☐ Secure footwear with grip; operator-approved | **Wear it** |
+| ☐ Water bottle, sunscreen, phone and small cash | **Yes** — secure water; seal phones and cash separately |
+| ☐ Small clean microfiber cloth for body drying | **Yes** |
+| ☐ Plastic bag for damp cloths / wet items | **Yes** |
+| ☐ Shared 10L dry bag and ziplocks | **Yes** — pack trail valuables and cloths inside |
+| ☐ Bath towel, dry clothes, underwear and slippers | For changing after returning to the beach |
+| ☐ Shared takeout lunch, cooked rice and serving utensils | For beach lunch |
+| ☐ Plates, utensils, cups, tissue and trash bags | For beach lunch and cleanup |
+| ☐ Cooler, ice, water, drinks and snacks | For the beach |
+| ☐ Picnic mats, volleyball, badminton rackets and shuttlecocks | For beach bonding |
+| ☐ First-aid kit | Coordinate who carries the essentials on the trail |
 
-## Saturday: ATV and falls essentials
-
-☐ Shared 10L dry bag, closed according to its instructions  
-☐ Phones in individually sealed ziplocks; small cash separately sealed  
-☐ Clean microfiber cloths reserved for body drying  
-☐ Separate plastic bag for damp cloths  
-☐ Drinking water, securely carried  
-☐ Swimwear underneath comfortable activity clothes  
-☐ Secure footwear with grip; confirm footwear requirements  
-☐ Action camera and selected mount, if bringing one  
-
-Bring only day essentials on the trail. Keep damp cloths separate from phones and valuables. Confirm swimming conditions with the guide.
+Keep damp cloths separate from phones and valuables. Confirm footwear and swimming conditions with the operator / guide.
 
 ## Sunday: island-hopping day bags
 
@@ -150,13 +138,6 @@ Bring only day essentials on the trail. Keep damp cloths separate from phones an
 Pack overnight belongings before heading out. The itinerary includes a return to the house for bags and driver rest.
 
 
-## MC: camera gear
-
-☐ Canon R50, chosen lenses, lens caps and hard case  
-☐ Action 4 and selected mounts  
-☐ Charged batteries, chargers and memory cards  
-☐ Tall tripod; small tripod if useful  
-
 ## Shared items to pack
 
 | Already available — MC | Still to arrange / pack |
@@ -165,14 +146,11 @@ Pack overnight belongings before heading out. The itinerary includes a return to
 | ☑ Picnic mat; first-aid kit | ☐ Additional cooler — Paul if joining |
 | ☑ Paper plates; spoons and forks; cups | ☐ Shared sunscreen — volunteer |
 | ☑ Trash bags; tissue / paper towels | ☐ Lighter — volunteer |
-| ☑ Aluminum foil; food-safe lidded containers | — liquid, 200–250 mL; 1–2 sponges — volunteer |
+| ☑ Aluminum foil; food-safe lidded containers | ☐ Dishwashing liquid, 200–250 mL; 1–2 sponges — volunteer |
 | ☑ Clean kitchen / microfiber cloths | ☐ UNO, playing cards or mini Jenga — volunteers |
 | ☑ Separate wiping and dish-drying cloths | ☐ Shuttlecocks — volunteer |
 | ☑ Three food trays | ☐ Suitable hot/cold storage for island lunch |
 
-☑ Already available; still pack and check quantities. ☐ To buy, borrow, assign or prepare.
-
-## Assigned preparation — three columns
 
 | Anne | Karl | IanCarl |
 | --- | --- | --- |
@@ -238,8 +216,3 @@ Source: SAMTO’s published list and caption supplied by MC from the [San Antoni
 
 San Felipe verification contact: [Turismo ng San Felipe](https://www.facebook.com/turismongsanfelipe/). San Antonio’s coordinator list does not cover businesses in San Felipe.
 
-## Downloads and overview
-
-[Full printable plan](Birthday-Trip-Plan.pdf) · [Parents’ PDF](Birthday-Trip-Parents-Guide.pdf) · [Parents’ images](assets/parents/README.md)
-
-![Trip overview](assets/trip-overview.png)
