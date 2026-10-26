@@ -21,15 +21,25 @@ Updated October 27, 2026. Working target: **10 total — eight main-group partic
 
 ## Your personal budget
 
-| Allocation per friend | Amount |
-| --- | ---: |
-| **Shared trip fund — give to MC:** helps cover planned ATV and island hopping, shared food, groceries, fuel, tolls and entrances | **₱1,500** |
-| **Personal extras — keep individually:** Sunday dinner, extra meals/snacks, optional activities and purchases | **₱500 minimum** |
-| **Total to prepare — bring extra cash if possible** | **₱2,000** |
+```mermaid
+flowchart TD
+    A["Prepare at least ₱2,000 per friend"]
+    A --> B["₱1,500: give to MC"]
+    A --> C["₱500 minimum: keep for yourself"]
+    B --> D["Planned ATV, island hopping and entrances"]
+    B --> E["Shared meals and groceries"]
+    B --> F["Fuel, tolls, environmental fee and parking"]
+    C --> G["Sunday dinner, extra snacks and personal purchases"]
+    C --> H["Optional activities: pay only if you join"]
+    classDef total fill:#17354a,color:#ffffff,stroke:#58a6ff
+    classDef shared fill:#dcefed,color:#17354a,stroke:#137b80
+    classDef personal fill:#e5effa,color:#17354a,stroke:#4285b4
+    class A total
+    class B,D,E,F shared
+    class C,G,H personal
+```
 
-No separate collection is planned for scheduled activities or entrances. Optional extras are KKB; remaining venue charges still need confirmation.
-
-
+**Bring extra cash if possible.** Environmental and parking fees are included in the ₱1,500 shared contribution; no separate collection is planned for scheduled activities or entrances. Optional extras are KKB. Any additional unconfirmed venue charges will be clarified before booking.
 
 ## Saturday — November 7
 
@@ -61,7 +71,7 @@ No separate collection is planned for scheduled activities or entrances. Optiona
 | --- | --- |
 | 5:30–7:00 AM | Karl and MC prepare breakfast; menu and quantities are pending Karl’s plan. Cook island-lunch rice; Fat Belly Deli early takeout is tentative. |
 | 7:00–7:30 AM | Eat, clean up and pack day bags, food and water. Collect Fat Belly takeout only if early pickup is confirmed; organize overnight bags for the house return. |
-| 7:30–8:00 AM | Travel to the boat meeting point. Allow about 15 minutes from Jollibee San Antonio, plus time from the house and boarding buffer. Use Jessilyn’s supplied Pundaquit map pin; confirm the boarding meeting spot and parking charge. |
+| 7:30–8:00 AM | Travel to the boat meeting point. Allow about 15 minutes from Jollibee San Antonio, plus time from the house and boarding buffer. Meeting point: Purok 2 Ariño Parking. At the tourism checkpoint before Pundaquit, pay the ₱20/head fee from the shared fund, name Jessilyn Racel Gruezo as our contact and show her permit image. Whole-day parking is ₱100 per vehicle. |
 | 8:00–8:30 AM | Meet Jessilyn’s operator, load food and bags, and prepare life jackets. Confirm the stop order and return pickup. |
 | 8:30–10:30 AM | Boat travel and Camara / Capones sightseeing and photo stops. This order and timing are proposed, subject to the operator and sea conditions. |
 | 10:30 AM–12:00 NN | Reach Anawangin, settle at an open table/cottage, swim and relax. Table reservation and CR/shower inclusions still need confirmation. |
@@ -200,7 +210,7 @@ The working headcount is not ten confirmed people. Please confirm by **November 
 | Wideplate | [Open map](https://maps.app.goo.gl/J9N4yDfm3ZjHLgPx8) | [Facebook](https://www.facebook.com/wideplaterestaurant/) |
 | Fat Belly Deli (tentative) | [Open map](https://maps.app.goo.gl/aYWhckyfEJmvZSQB6) | [Facebook](https://www.facebook.com/fatbellykfarmdeli) |
 
-Routes cover the main stops; grocery, cake and takeout pickups need additional time. Confirm Jessilyn’s exact boarding point and parking arrangements.
+Routes cover the main stops; grocery, cake and takeout pickups need additional time. Jessilyn confirmed Purok 2 Ariño Parking as the meeting point. Tourism fee: ₱20/head at the checkpoint; whole-day parking: ₱100/vehicle, both included in the shared fund.
 
 ## Operator verification
 
@@ -209,6 +219,23 @@ Routes cover the main stops; grocery, cake and takeout pickups need additional t
 | **Jessilyn’s Travel & Tours** | **Listed by the San Antonio Municipal Tourism Office (SAMTO) as a tour coordinator with a valid 2026 Business Permit, as of April 22, 2026.** Entry No. 52; registered owner: Jessilyn Racel Gruezo; Purok 7, Pundaquit, San Antonio. |
 | **Liwliwa ATV Getaways** | **Verification pending.** To be checked with San Felipe’s tourism office; not yet represented as permit-verified. |
 | **I Love BayBay** | **Verification pending.** To be checked with San Felipe’s tourism office; not yet represented as permit-verified. |
+
+### Jessilyn: permit, contact and meeting point
+
+| Detail | Confirmed information / evidence |
+| --- | --- |
+| Business | **Jessilyn’s Travel & Tours** |
+| Contact person | **Jessilyn Racel Gruezo** |
+| Contact page | [Jessilyn Travel and Tours Island Hopping in Pundaquit](https://www.facebook.com/profile.php?id=100083507706578) |
+| SAMTO listing | **No. 52**, on the list of coordinators with a valid 2026 Business Permit as of **April 22, 2026** |
+| Permit shown | **Mayor’s / Special Permit No. 2026-060**, for **Travel & Booking Agent** |
+| Validity shown | Issued **February 27, 2026**; expires **December 31, 2026** |
+| Registered business address | **Purok 7, Pundaquit, San Antonio, Zambales** |
+| Meeting point | **Purok 2 Ariño Parking, Pundaquit** — [operator-supplied map](https://maps.app.goo.gl/vAVGLiaypsbTfios8) |
+| Tourism checkpoint | Before entering Pundaquit: name **Jessilyn Racel Gruezo** as our contact and show the permit image supplied to MC |
+| Confirmed additional fees | **₱20/head environmental fee**, paid at tourism; **₱100/vehicle whole-day parking**. Both included in the shared contribution. |
+
+Permit particulars above are read from the image supplied by Jessilyn to MC; the separate SAMTO list supports the business’s permit status as of its stated date. Boat and return-pickup arrangements still need confirmation. Save the permit image offline before travel.
 
 Source: SAMTO’s published list and caption supplied by MC from the [San Antonio Municipal Tourism Office page](https://www.facebook.com/p/San-Antonio-Municipal-Tourism-Office-61576364490190/). The list establishes permit status as of its stated date; it does not certify the specific boat, weather conditions or booking. Confirm that booking and payment details match the listed business.
 
