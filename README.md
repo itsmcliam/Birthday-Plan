@@ -83,19 +83,21 @@ Return to the San Antonio house for bags and driver rest before the QC journey.
 
 The working headcount is not ten confirmed people. Please confirm by **November 2**.
 
-## Pending decisions and volunteers
+## Priorities and next steps
 
-| Item | What still needs a decision or clear confirmation |
-| --- | --- |
-| Attendance / transport | Complete the named list by November 2; confirm parents, driver, seating and pickup arrangement. |
-| I Love BayBay | Free open cottage quoted. Confirm outside food/drinks, cooler, corkage, hours, showers, parking and extra fees. Hello Beach is backup only; quoted cottage, griller and no corkage. |
-| ATV Getaways | Selected package and 2:00 PM target. Confirm booking, pickup at I Love BayBay, parking, rider arrangements and weather policy. |
-| Jessilyn island hopping | Selected route: Anawangin, Capones and Camara. Confirm headcount, boarding spot at the supplied map pin, table, stop duration/order, return pickup, CR/showers, corkage and any parking/environmental fees. |
-| Saturday lunch | Five Wideplate dishes selected. Confirm portions for ten, lumpia quantity, allergy arrangements and pickup. Containers are free; bangus is whole and boneless. |
-| Sunday lunch | Fat Belly Deli is tentative. Await updated menu, early Sunday takeout and portions for ten. Choose dishes after the daily specials are known; arrange safe food transport. |
-| Cake | KDB Sweet Shop pickup after groceries; confirm final flavor/design and pickup time. |
-| Dinner / rice volunteers | Confirm adobo cook; at least two BBQ grillers; assign rice cooking and general preparation. |
-| Shared gear / games | Borrow the main cooler; arrange a backup if Paul cannot join. Assign sunscreen, lighter, dishwashing supplies, shuttlecocks and games. |
+Focus on confirmations and assignments before buying more supplies.
+
+| Priority / timing | What to do | Completion |
+| --- | --- | --- |
+| **High — this week: beach** | Follow up I Love BayBay for a clear reply on cottage availability, outside food/drinks, cooler, corkage, hours, showers and extra fees. A reaction alone is not confirmation. Keep Hello Beach as the backup. | ☐ |
+| **High — this week: ATV** | Confirm the final rider/unit count, total quotation, 2:00 PM start, pickup at BayBay, booking/payment requirements and weather policy. | ☐ |
+| **High — this week: island hopping** | Confirm Jessilyn’s boarding point, final headcount, Anawangin table/cottage, toilets/showers, outside-food policy, additional fees and return pickup. Selected stops: Camara, Capones and Anawangin. | ☐ |
+| **Wait for replies: lunches** | Wideplate: confirm portions for the final headcount, lumpia quantity, allergy arrangements and pickup. Fat Belly Deli remains tentative: await updated menu, early Sunday takeout and serving sizes; arrange suitable hot/cold food storage. | ☐ |
+| **This week: cake** | Finalize KDB Sweet Shop flavour/design and November 7 pickup time. | ☐ |
+| **This week: cooking assignments** | Confirm Barte’s father for adobo, at least two BBQ grillers and a rice cook. Karl plans Sunday breakfast; Karl and MC cook. IanCarl prepares Saturday breakfast and helps with dishwashing. | ☐ |
+| **By November 2: attendance and transport** | Complete the named attendance list; confirm Barte’s parents, driver, vehicle count, seating capacity and meetup arrangements. | ☐ |
+| **By November 2: house arrangements** | MC and Barte finalize the house arrangements privately. | ☐ |
+| **Before departure: borrowed/shared gear** | Secure the main cooler and a backup if needed. Confirm volunteers for sunscreen, lighter, dishwashing supplies, shuttlecocks and games; use the checklists below. | ☐ |
 
 Suggestions are welcome for unresolved arrangements; coordinate changes with the group before booking.
 
