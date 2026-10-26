@@ -2,7 +2,7 @@
 
 **November 7–8, 2026 · Birthdays of Anne, MC and Paul**
 
-Updated October 26, 2026. Working plan: six main-group participants plus Barte’s two parents.
+Updated October 27, 2026. Working plan: eight main-group participants plus Barte’s two parents.
 
 [Full printable plan](Birthday-Trip-Plan.pdf) · [Parents’ PDF](Birthday-Trip-Parents-Guide.pdf) · [Three parents’ images](assets/parents/README.md)
 
@@ -14,9 +14,9 @@ Updated October 26, 2026. Working plan: six main-group participants plus Barte�
 | --- | --- |
 | Celebration | Birthdays of Anne, MC and Paul • November 7–8, 2026 |
 | Stay | Barte’s grandfather’s house in San Antonio, Zambales |
-| Working headcount | Six in the main group, including MC, plus Barte’s two parents: eight total. Final attendance is pending. |
+| Working headcount | Eight in the main group, including MC, plus Barte’s two parents: ten total. Final attendance is pending. |
 | Meetup / departure | Jollibee Soliven, tentative. Meet 5:30 AM; leave QC by 6:00 AM. MC coordinates motorcycle parking at Barte’s beforehand. |
-| Transport | Barte’s vehicle; planned driver is Barte’s father. Driver, attendance and seating capacity still need confirmation. |
+| Transport | Planned driver: Barte’s father, subject to confirmation. Confirm vehicle count, safe seating for ten and all driver arrangements. |
 | Saturday | Errands, Wideplate takeout, I Love BayBay, Liwliwa ATV Getaways, birthday dinner at the house |
 | Sunday | Jessilyn private island hopping: Camara, Capones and Anawangin; return to the house, then QC |
 | Return | Leave San Antonio around 5:00 PM; target home 10:00–10:30 PM, depending on traffic, dinner and drop-offs. |
@@ -44,7 +44,7 @@ The plan includes shared Saturday lunch, dinner, Sunday breakfast and island lun
 | 12:00–12:30 PM | Travel to I Love BayBay. Target arrival 12:30 PM; outside-food permission and the day-use arrangements need a clear reply. |
 | 12:30–1:30 PM | Lunch at the open cottage: Wideplate ulam with house-cooked rice, then bonding and photos. Coordinate the seafood allergy with the restaurant. |
 | 1:30–2:00 PM | Prepare for ATV, meet the guides and attend the safety briefing. Barte’s parents remain at the beach cottage. Pickup point still needs confirmation. |
-| 2:00–5:00 PM | Six guests ride three ATVs with a separate guide/emergency unit. Package includes waterfalls, coastal and beach trails, carabao ride, trekking, about one hour at the falls and drone shots. Guide must arrange upper-falls access before its 4:00 PM cutoff. |
+| 2:00–5:00 PM | Eight guests ride four ATVs with a separate guide/emergency unit. Package includes waterfalls, coastal and beach trails, carabao ride, trekking, about one hour at the falls and drone shots. Guide must arrange upper-falls access before its 4:00 PM cutoff. |
 | 5:00–6:00 PM | Reunite with the parents, wash up and collect belongings. Confirm resort showers and allowed day-tour hours. |
 | 6:00–8:00 PM | Return to the house, cook pork BBQ, pork adobo and rice, then eat together. |
 | 8:00 PM onward | Birthday cake for Anne, MC and Paul; games, music, photos and bonding at the house. Prepare Sunday’s bags. The driver needs sufficient rest. |
@@ -55,14 +55,14 @@ All times are targets, not bookings or guaranteed travel times. Preorder food an
 
 | Time | Sunday, November 8 |
 | --- | --- |
-| 5:30–7:00 AM | Karl and MC cook breakfast: sinangag, eggs and longganisa. Karl finalizes quantities. Prepare the island lunch if cooking at home; otherwise collect a prearranged early takeout order. |
-| 7:00–7:30 AM | Eat, clean up and pack island day bags, food and water. Organize remaining belongings for an easy return to the house. |
+| 5:30–7:00 AM | Karl and MC cook sinangag, eggs and longganisa. Karl plans quantities. Cook island-lunch rice; Fat Belly Deli early takeout is tentative. |
+| 7:00–7:30 AM | Eat, clean up and pack day bags, food and water. Collect Fat Belly takeout only if early pickup is confirmed; organize overnight bags for the house return. |
 | 7:30–8:00 AM | Travel to the boat meeting point. Allow about 15 minutes from Jollibee San Antonio, plus time from the house and boarding buffer. Use Jessilyn’s supplied Pundaquit map pin; confirm the boarding meeting spot and parking charge. |
 | 8:00–8:30 AM | Meet Jessilyn’s operator, load food and bags, and prepare life jackets. Confirm the stop order and return pickup. |
 | 8:30–10:30 AM | Boat travel and Camara / Capones sightseeing and photo stops. This order and timing are proposed, subject to the operator and sea conditions. |
 | 10:30 AM–12:00 NN | Reach Anawangin, settle at an open table/cottage, swim and relax. Table reservation and CR/shower inclusions still need confirmation. |
-| 12:00–1:00 PM | Shared packed lunch: home-cooked food or early takeout, with rice prepared at the house. Final menu and buyer/cook are pending. |
-| 1:00–2:30 PM | Relaxed Anawangin time: swimming, photos, cards and beach bonding. Optional purchases or activities are KKB. |
+| 12:00–1:00 PM | Shared lunch: tentative Fat Belly Deli takeout with house-cooked rice. Daily specials, portions and early pickup await confirmation. Eat earlier if needed. |
+| 1:00–2:30 PM | Relaxed Anawangin time: swimming, photos, volleyball, cards and picnic-mat bonding. Available optional water activities and purchases are KKB. |
 | 2:30–3:30 PM | Wash up, pack and return by boat to Pundaquit. Agree on this pickup with Jessilyn; it is not yet a confirmed timetable. |
 | 3:30–5:00 PM | Return to the house, collect bags and finish cleanup. Driver rests or naps while everyone else packs. |
 | 5:00–9:00 PM | Travel back to QC. Allow about four hours and stop if the driver needs a break. |
@@ -79,20 +79,20 @@ Return to the San Antonio house for bags and driver rest before the QC journey.
 | Paul / Jannelle / Ian Carreon | Pending | Reconfirm by November 2 |
 | Blessy | Pending | Mother approved; father’s permission still pending |
 | Barte’s parents | Planned, not final | Confirm both parents and driver arrangements |
-| Working total | Eight | Six main-group participants plus two parents; final names may change |
+| Working total | Ten | Eight main-group participants plus two parents; final names may change |
 
-The working headcount is not eight confirmed people. Please confirm by **November 2**.
+The working headcount is not ten confirmed people. Please confirm by **November 2**.
 
 ## Pending decisions and volunteers
 
 | Item | What still needs a decision or clear confirmation |
 | --- | --- |
 | Attendance / transport | Complete the named list by November 2; confirm parents, driver, seating and pickup arrangement. |
-| I Love BayBay | Quoted entrance includes a free open cottage. Confirm outside food/drinks, cooler, corkage, environmental fee, CR/showers, parking, day-use hours and availability. A reaction alone is not a clear confirmation. |
+| I Love BayBay | Free open cottage quoted. Confirm outside food/drinks, cooler, corkage, hours, showers, parking and extra fees. Hello Beach is backup only; quoted cottage, griller and no corkage. |
 | ATV Getaways | Selected package and 2:00 PM target. Confirm booking, pickup at I Love BayBay, parking, rider arrangements and weather policy. |
 | Jessilyn island hopping | Selected route: Anawangin, Capones and Camara. Confirm headcount, boarding spot at the supplied map pin, table, stop duration/order, return pickup, CR/showers, corkage and any parking/environmental fees. |
-| Saturday lunch | Wideplate selected; preorder dishes, pickup time and a suitable seafood-allergy meal. |
-| Sunday lunch | Decide home cooking versus early takeout; appoint a cook or buyer and finalize the menu. |
+| Saturday lunch | Five Wideplate dishes selected. Confirm portions for ten, lumpia quantity, allergy arrangements and pickup. Containers are free; bangus is whole and boneless. |
+| Sunday lunch | Fat Belly Deli is tentative. Await updated menu, early Sunday takeout and portions for ten. Choose dishes after the daily specials are known; arrange safe food transport. |
 | Cake | KDB Sweet Shop pickup after groceries; confirm final flavor/design and pickup time. |
 | Dinner / rice volunteers | Confirm adobo cook; at least two BBQ grillers; assign rice cooking and general preparation. |
 | Shared gear / games | Borrow the main cooler; arrange a backup if Paul cannot join. Assign sunscreen, lighter, dishwashing supplies, shuttlecocks and games. |
@@ -110,6 +110,7 @@ Suggestions are welcome for unresolved arrangements; coordinate changes with the
 | ☑ Aluminum foil; food-safe lidded containers | ☐ Dishwashing liquid, 200–250 mL; 1–2 sponges — volunteer |
 | ☑ Clean kitchen / microfiber cloths | ☐ UNO, playing cards or mini Jenga — volunteers |
 | ☑ Separate wiping and dish-drying cloths | ☐ Shuttlecocks — volunteer |
+| ☑ Three food trays | ☐ Suitable hot/cold storage for island lunch |
 
 ☑ Already available; still pack and check quantities. ☐ To buy, borrow, assign or prepare.
 
@@ -134,23 +135,23 @@ Suggestions are welcome for unresolved arrangements; coordinate changes with the
 | ☐ Sharing chips, around four bags; one cracker / biscuit multipack | ☐ Ice and charcoal |
 | ☐ One Mentos pack | ☐ KDB Sweet Shop cake pickup after groceries |
 | ☐ Saturday breakfast supplies — IanCarl | ☐ Wideplate takeout ulam pickup |
-| Check sauce / seasoning quantities with cooks | ☐ Sunday packed-lunch ingredients or preordered takeout |
+| Check sauce / seasoning quantities with cooks | ☐ Sunday takeout once confirmed; Fat Belly Deli tentative |
 
-Quantities are suggestions for eight; check with the cooks before shopping. Bring our own ingredients and seasonings.
+Quantities are suggestions for ten; check with the cooks before shopping. Bring our own ingredients and seasonings.
 
 ## Meals and cooking volunteers
 
 | Meal / task | Plan / assignment |
 | --- | --- |
 | Saturday light breakfast | IanCarl prepares and packs it. |
-| Saturday lunch | Wideplate ulam + house-cooked rice at the beach; assign rice cook. |
+| Saturday lunch | Bistek Tagalog, Crispy Pork Sisig, Classic Garlic Bangus, Pinakbet with Lechon Kawali and Pork Lumpia; house rice. Portions and allergy arrangements pending. |
 | Saturday dinner | 30 pork BBQ sticks + pork adobo + rice. No third dish. Barte’s father for adobo, subject to confirmation; two BBQ grillers and rice cook needed. |
 | Sunday breakfast | Karl plans sinangag, eggs and longganisa. Karl and MC cook. |
-| Sunday lunch | Packed meal for the islands; menu and cook / takeout buyer pending. |
+| Sunday lunch | Tentative Fat Belly Deli takeout + house-cooked rice. Menu, serving sizes and early pickup pending; keep the rice cooker at the house. |
 | Sunday dinner | KKB fast-food meal in QC. |
 | Cleanup | IanCarl handles dishwashing; everyone helps with preparation, packing and cleanup. |
 
-Carry raw meat in sealed leakproof containers with ice, then refrigerate it promptly at the house. Prefer a separate clean drinks cooler. If reusing the meat cooler, empty, clean and sanitize it before adding fresh ice and ready-to-eat items. Collect lunch close to mealtime and keep it appropriately hot or chilled.
+Carry raw meat in sealed leakproof containers with ice, then refrigerate it promptly at the house. Prefer a separate clean drinks cooler. If reusing the meat cooler, empty, clean and sanitize it before adding fresh ice and ready-to-eat items. Keep the island lunch appropriately hot or chilled during transport. Serving trays alone do not control food temperature; leave the rice cooker at the house.
 
 ## Personal packing
 
@@ -173,6 +174,7 @@ Carry raw meat in sealed leakproof containers with ice, then refrigerate it prom
 | Jessilyn Travel and Tours | [Open map](https://maps.app.goo.gl/vAVGLiaypsbTfios8) | [Facebook](https://www.facebook.com/profile.php?id=100083507706578) |
 | KDB Sweet Shop | [Open map](https://maps.app.goo.gl/ZW9u7sivSZY92D2J9) | [Facebook](https://www.facebook.com/KDBSweetShop/) |
 | Wideplate | [Open map](https://maps.app.goo.gl/J9N4yDfm3ZjHLgPx8) | [Facebook](https://www.facebook.com/wideplaterestaurant/) |
+| Fat Belly Deli (tentative) | [Open map](https://maps.app.goo.gl/aYWhckyfEJmvZSQB6) | [Facebook](https://www.facebook.com/fatbellykfarmdeli) |
 
 Latest routes supplied by MC. Jollibee San Antonio is the public reference for the nearby family house; share its private pin directly. The route links show the main driving stops; allow time for grocery, cake and food pickups. Jessilyn’s supplied pin points to Ariño Parking w/ Pay in Pundaquit: reconfirm the boarding meeting spot and parking charge with the operator.
 
@@ -193,11 +195,11 @@ flowchart TD
 ```mermaid
 flowchart TD
     A["Saturday: QC, errands and house stop"] --> B["Wideplate lunch at I Love BayBay"]
-    B --> C["Six guests: ATV with guides"]
+    B --> C["Eight guests: ATV with guides"]
     B --> D["Parents: cottage and beach time"]
     C --> E["Reunite; dinner and birthdays at the house"]
     D --> E
-    E --> F["Sunday: breakfast and Pundaquit boarding"]
+    E --> F["Sunday: breakfast, tentative takeout and Pundaquit"]
     F --> G["Camara and Capones stops"]
     G --> H["Anawangin: lunch, swimming and rest"]
     H --> I["Return to the house; driver rest"]
