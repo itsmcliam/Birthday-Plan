@@ -1,23 +1,21 @@
-# San Antonio, Zambales: information for parents
+# Parents’ trip guide
 
-**Birthday celebration for Anne, MC and Paul · November 7-8, 2026.** A three-page overview of the trip, accommodation, transport, schedule and arrangements still to confirm.
+**San Antonio, Zambales · November 7–8, 2026 · Birthdays of Anne, MC and Paul**
 
-[Download the printable PDF](../../Birthday-Trip-Parents-Guide.pdf?raw=true) · [Full itinerary and latest updates](../../README.md)
+[Download the three-page PDF](../../Birthday-Trip-Parents-Guide.pdf) · [Full live itinerary](../../README.md)
 
-## Images to save and forward
+Open an image to save it and send it directly. Each page has a QR code for the full itinerary.
 
-Open an image below, then save it to your phone or computer. Each image includes a QR code for the full itinerary.
+## 1. Overview
 
-| Page | Download |
-| --- | --- |
-| 1 - Trip overview | [Save image](parent-guide-01.jpg?raw=true) |
-| 2 - Saturday | [Save image](parent-guide-02.jpg?raw=true) |
-| 3 - Sunday | [Save image](parent-guide-03.jpg?raw=true) |
+![Trip overview for parents](parent-guide-01.jpg)
 
-![Trip overview](parent-guide-01.jpg)
+## 2. Saturday
 
-![Saturday itinerary](parent-guide-02.jpg)
+![Saturday itinerary for parents](parent-guide-02.jpg)
 
-![Sunday itinerary](parent-guide-03.jpg)
+## 3. Sunday
 
-[Photo credits](PHOTO-CREDITS.md)
+![Sunday itinerary for parents](parent-guide-03.jpg)
+
+[Photo credits](PHOTO-CREDITS.md). Confirm attendance by November 2. Driver, seating, operator arrangements and some resort inclusions remain pending.

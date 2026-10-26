@@ -1,318 +1,203 @@
-# Birthday Trip · November 7-8, 2026
+# San Antonio, Zambales — Birthday Trip
 
-**Zambales · Beach Saturday · Adventure Sunday**
+**November 7–8, 2026 · Birthdays of Anne, MC and Paul**
 
-A joint birthday celebration for **MC, Richelle and Paul**, with an overnight stay at Barte’s grandfather’s house in **San Antonio, Zambales**.
+Updated October 26, 2026. Working plan: six main-group participants plus Barte’s two parents.
 
-![Birthday weekend overview](assets/trip-overview.png?v=20261026-beach-kkb)
+[Full printable plan](Birthday-Trip-Plan.pdf) · [Parents’ PDF](Birthday-Trip-Parents-Guide.pdf) · [Three parents’ images](assets/parents/README.md)
 
-[Download the printable PDF](Birthday-Trip-Plan.pdf) · [PNG overview](assets/trip-overview.png)
+![Trip overview](assets/trip-overview.png)
 
-**For parents - birthday celebration for Anne, MC and Paul:** [Download the parents’ PDF](Birthday-Trip-Parents-Guide.pdf) · [View/download the three images](assets/parents/README.md)
+## Trip at a glance
 
 | Detail | Current plan |
 | --- | --- |
-| Dates | Saturday-Sunday, November 7-8, 2026 |
-| Transport | Barte’s car; final seating and driver to be confirmed |
-| Meetup | **Jollibee Soliven - tentative**; final pickup pins to follow |
-| Accommodation | Family home in San Antonio |
-| Saturday | Groceries, cake pickup, house stop, takeout lunch at Limliwa Beach, birthday dinner and games |
-| Sunday | ATV first, Barn by Conti’s lunch and a relaxed afternoon around Clark Parade Grounds |
-| Personal budget | **₱1,500 base allowance - please bring extra cash** |
-| Sunday return | Leave Clark at **7 PM or earlier**; target home **10 PM**, subject to traffic, dinner and drop-offs |
+| Celebration | Birthdays of Anne, MC and Paul • November 7–8, 2026 |
+| Stay | Barte’s grandfather’s house in San Antonio, Zambales |
+| Working headcount | Six in the main group, including MC, plus Barte’s two parents: eight total. Final attendance is pending. |
+| Meetup / departure | Jollibee Soliven, tentative. Meet 5:30 AM; leave QC by 6:00 AM. MC coordinates motorcycle parking at Barte’s beforehand. |
+| Transport | Barte’s vehicle; planned driver is Barte’s father. Driver, attendance and seating capacity still need confirmation. |
+| Saturday | Errands, Wideplate takeout, I Love BayBay, Liwliwa ATV Getaways, birthday dinner at the house |
+| Sunday | Jessilyn private island hopping: Camara, Capones and Anawangin; return to the house, then QC |
+| Return | Leave San Antonio around 5:00 PM; target home 10:00–10:30 PM, depending on traffic, dinner and drop-offs. |
 
-**The itinerary is still proposed. Pending destinations and arrangements are open to group suggestions and approval.**
+## Your personal budget
 
-## Route maps
-
-| Day | Google Maps route |
+| Allocation per friend | Amount |
 | --- | --- |
-| Day 1 - Saturday, November 7 | [Open route](https://maps.app.goo.gl/bow4Z7npJpLcuBze9) |
-| Day 2 - Sunday, November 8 | [Open route](https://maps.app.goo.gl/2GWySEsYP8639SNZ8) |
+| Shared groceries, fuel and toll contribution | ₱1,200 |
+| I Love BayBay entrance | ₱200 |
+| Anawangin entrance | ₱100 |
+| Own Sunday dinner in QC | ₱250 |
+| Total suggested personal budget | ₱1,750 + extra cash |
 
-Route links supplied by MC. **The Day 2 map link has been replaced with MC’s latest route.** Saturday uses Jollibee Soliven (tentative), groceries, cake pickup, the house to cook rice, Wideplate takeout pickup and Limliwa. Sunday runs **San Antonio → ATV meeting point (pending) → Clark Parade Grounds and nearby lunch → QC**. Confirm the final route after Ian Carl speaks with the ATV operator.
+Bring ₱1,750 and EXTRA CASH. Keep ₱250 for your own Sunday dinner. The other ₱1,500 is allocated to the shared contribution and two entrances. This is a planning allocation, not a guaranteed all-in price: I Love BayBay’s remaining inclusions and possible separate fees still need confirmation.
 
-## Personal budget and KKB expenses
+The plan includes shared Saturday lunch, dinner, Sunday breakfast and island lunch, plus the arranged main ATV and boat activities. No additional collection is currently planned for those scheduled activities. Optional activities, rentals, extra food/drinks and personal purchases are KKB; check the price before joining.
 
-| Expense per friend | Suggested amount |
+## Saturday — November 7
+
+| Time | Saturday, November 7 |
 | --- | --- |
-| Shared contribution toward groceries, fuel and tolls | ₱550 |
-| Saturday shared ulam fund - Wideplate takeout | ₱300 |
-| Sunday lunch at Barn by Conti’s - KKB | ₱400 |
-| Sunday fast-food dinner in QC - KKB | ₱250 |
-| **Base allowance** | **₱1,500** |
+| 5:30–6:00 AM | Meet and load at Jollibee Soliven (tentative). IanCarl prepares and packs the light breakfast. Coordinate MC’s motorcycle parking before departure. |
+| 6:00–10:00 AM | Travel to Zambales. Allow about four hours, with a short rest stop if needed. |
+| 10:00–11:00 AM | One-hour San Marcelino market / grocery stop. Buy the remaining dinner, breakfast and rice ingredients, fruit, drinking water, ice and charcoal. |
+| 11:00 AM–12:00 NN | KDB Sweet Shop cake pickup and preordered Wideplate ulam pickup. House stop: cook lunch rice, refrigerate meat and cake, unload and prepare beach bags. Divide tasks; this is a tight target. |
+| 12:00–12:30 PM | Travel to I Love BayBay. Target arrival 12:30 PM; outside-food permission and the day-use arrangements need a clear reply. |
+| 12:30–1:30 PM | Lunch at the open cottage: Wideplate ulam with house-cooked rice, then bonding and photos. Coordinate the seafood allergy with the restaurant. |
+| 1:30–2:00 PM | Prepare for ATV, meet the guides and attend the safety briefing. Barte’s parents remain at the beach cottage. Pickup point still needs confirmation. |
+| 2:00–5:00 PM | Six guests ride three ATVs with a separate guide/emergency unit. Package includes waterfalls, coastal and beach trails, carabao ride, trekking, about one hour at the falls and drone shots. Guide must arrange upper-falls access before its 4:00 PM cutoff. |
+| 5:00–6:00 PM | Reunite with the parents, wash up and collect belongings. Confirm resort showers and allowed day-tour hours. |
+| 6:00–8:00 PM | Return to the house, cook pork BBQ, pork adobo and rice, then eat together. |
+| 8:00 PM onward | Birthday cake for Anne, MC and Paul; games, music, photos and bonding at the house. Prepare Sunday’s bags. The driver needs sufficient rest. |
 
-**Please bring extra cash on top of ₱1,500.** The meal amounts are estimates, and ₱1,500 is **not a guaranteed all-in budget**. Your actual spending will depend on restaurant prices and personal orders.
+All times are targets, not bookings or guaranteed travel times. Preorder food and cake and divide the house tasks to reach the beach by 12:30 PM. If errands run late, shorten the initial beach hangout while preserving the 2:00 PM ATV start. Boat stops and timing depend on the operator and sea conditions.
 
-Set aside **₱550 for the shared contribution** and **₱300 for Saturday’s pooled Wideplate ulam fund**. Keep **₱650 for your own Sunday meals**: ₱400 for lunch and ₱250 for dinner. Saturday lunch rice is cooked at the house. Any unused ulam fund may go toward fuel or tolls **with the group’s agreement**.
+## Sunday — November 8
 
-| Additional personal expense | Arrangement |
+| Time | Sunday, November 8 |
 | --- | --- |
-| Meals exceeding the allowance | Pay the difference individually |
-| Extra snacks, drinks and personal purchases | KKB - pay for your own extras |
-| Optional beach activities and rentals | KKB: surfing lessons, board/equipment rentals and other optional beach activities. Check the price before joining. These are extra to the ₱1,500 base allowance. |
+| 5:30–7:00 AM | Karl and MC cook breakfast: sinangag, eggs and longganisa. Karl finalizes quantities. Prepare the island lunch if cooking at home; otherwise collect a prearranged early takeout order. |
+| 7:00–7:30 AM | Eat, clean up and pack island day bags, food and water. Organize remaining belongings for an easy return to the house. |
+| 7:30–8:00 AM | Travel to the boat meeting point. Allow about 15 minutes from Jollibee San Antonio, plus time from the house and boarding buffer. Exact pin to follow. |
+| 8:00–8:30 AM | Meet Jessilyn’s operator, load food and bags, and prepare life jackets. Confirm the stop order and return pickup. |
+| 8:30–10:30 AM | Boat travel and Camara / Capones sightseeing and photo stops. This order and timing are proposed, subject to the operator and sea conditions. |
+| 10:30 AM–12:00 NN | Reach Anawangin, settle at an open table/cottage, swim and relax. Table reservation and CR/shower inclusions still need confirmation. |
+| 12:00–1:00 PM | Shared packed lunch: home-cooked food or early takeout, with rice prepared at the house. Final menu and buyer/cook are pending. |
+| 1:00–2:30 PM | Relaxed Anawangin time: swimming, photos, cards and beach bonding. Optional purchases or activities are KKB. |
+| 2:30–3:30 PM | Wash up, pack and return by boat to Pundaquit. Agree on this pickup with Jessilyn; it is not yet a confirmed timetable. |
+| 3:30–5:00 PM | Return to the house, collect bags and finish cleanup. Driver rests or naps while everyone else packs. |
+| 5:00–9:00 PM | Travel back to QC. Allow about four hours and stop if the driver needs a break. |
+| 9:00–9:30 PM | Fast-food dinner in QC: KKB. Choose a convenient place on arrival. |
+| 9:30–10:30 PM | Passenger drop-offs and MC’s motorcycle pickup. Target everyone home around 10:00–10:30 PM; traffic can delay arrival. |
 
-```mermaid
-flowchart TD
-    A["₱1,500 base allowance"] --> B["₱550 shared contribution"]
-    A --> C["₱300 Saturday pooled ulam fund"]
-    A --> D["₱650 own Sunday meals"]
-    C --> E["Wideplate ulam; rice cooked at house"]
-    D --> F["Barn by Conti’s lunch: ₱400"]
-    D --> G["QC dinner: ₱250"]
-    H["Bring extra cash beyond ₱1,500"] --> I["Meal overruns, beach extras and personal purchases"]
-```
+Return to the San Antonio house for bags and driver rest before the QC journey.
 
-## Attendance
-
-**Final attendance deadline: November 2, 2026.** Please confirm by then so Barte can finalize the headcount and house arrangements. The table below shows the last recorded attendance statuses.
+## Attendance — finalize by November 2
 
 | Person | Status | Notes |
 | --- | --- | --- |
-| MC | Confirmed |  |
-| Richelle | Confirmed |  |
-| Karl | Confirmed |  |
-| Ian Barte | Confirmed |  |
-| Ian Carl | Confirmed |  |
-| Paul | Pending | Expects to know around October 25 |
-| Jannelle | Pending | Awaiting confirmation |
-| Ian Carreon | Pending | Awaiting confirmation |
-| Blessy | Conditional | Previously day trip only; permission and transport need reconfirmation |
-| Barte’s father | Tentative | May drive and prepare pork adobo if joining |
-| Barte’s mother | Tentative | Awaiting confirmation |
+| MC / Anne / Karl / Ian Barte / IanCarl | Confirmed | Five named confirmations so far |
+| Paul / Jannelle / Ian Carreon / Walter / Gerard | Pending | Reconfirm by November 2 |
+| Blessy | Conditional | Permission, duration and transport need reconfirmation |
+| Barte’s parents | Planned, not final | Confirm both parents and driver arrangements |
+| Working total | Eight | Six main-group participants plus two parents; final names may change |
 
-**Current working headcount: seven**, including Barte’s parents if they join. Vehicle seating and sleeping arrangements must be reviewed if more people confirm.
-
-## Saturday · November 7
-
-**Beach, birthday dinner and games at the house**
-
-| Time | Plan |
-| --- | --- |
-| 5:30&#8209;6&nbsp;AM | MC arrives at Barte’s house, parks his motorcycle and helps load the car. |
-| 6&#8209;7&nbsp;AM | Pickups and meetup at **Jollibee Soliven - tentative**. Final pickup arrangements to follow. **Ian Carl prepares and packs Saturday’s light breakfast.** |
-| 7&#8209;11&nbsp;AM | Travel to Zambales. Allow approximately **four hours**, including a short stop if needed. |
-| 11&nbsp;AM&#8209;12&nbsp;NN | Shop at **San Marcelino Public Market** and a grocery for dinner and Sunday breakfast ingredients, fruit, drinks, water and ice. Karl identifies Sunday breakfast ingredients. Keep chilled purchases in the iced cooler. |
-| 12&#8209;12:30&nbsp;PM | **Cake pickup after groceries: KDB Sweet Shop**, Money Tree Building, Brgy. Rizal, San Antonio, behind 7-Eleven. **Preorder, flavor/design and pickup time still need confirmation.** |
-| 12:30&#8209;1:15&nbsp;PM | House stop: **cook rice for the shared beach lunch**, refrigerate raw meat and breakfast ingredients, store the cake, and prepare beach bags and a clean drinks cooler. Driver rests while others organize. |
-| 1:15&#8209;2&nbsp;PM | Collect **Wideplate ulam takeout**, then travel to **Limliwa Beach Resort**. Choose dishes together on arrival using the **₱300-per-person pooled ulam fund**. Bring cooked rice from the house. Allow extra time if orders take longer. |
-| 2&#8209;2:30&nbsp;PM | **Shared lunch at the beach cottage:** Wideplate ulam and rice cooked at the house. Choose quantities based on the final headcount. Cottage access is walk-in and subject to availability. |
-| 2:30&#8209;5:30&nbsp;PM | Beach swimming, photos, games and group hangout. |
-| 5:30&#8209;6&nbsp;PM | Leave the resort and return to the house. |
-| 6&#8209;8&nbsp;PM | Shower, prepare **pork BBQ, pork adobo and rice**, eat together and celebrate with birthday cake. |
-| 8&#8209;10&nbsp;PM | Birthday games, music, group photos and bonding **at the house**. |
-| 10&#8209;11:30&nbsp;PM | UNO, cards, snacks and a relaxed hangout. Volunteers can bring small games. |
-| 11:30&nbsp;PM&nbsp;onward | Rest or quiet bonding. No fixed group bedtime, but the driver needs sufficient sleep before Sunday’s trip. |
-
-### Saturday shared lunch - Wideplate
-
-| Saturday lunch | Arrangement | What remains |
-| --- | --- | --- |
-| **Wideplate Restaurant** | **₱300 per person pooled for shared ulam**. Cook rice at the house and bring it to the beach. | Choose dishes and quantities spontaneously on arrival; confirm takeout service and ordering time. |
-
-Selected Saturday lunch source: [Wideplate Restaurant Facebook](https://www.facebook.com/wideplaterestaurant/). The group will choose shared dishes on arrival using the final headcount. **Rice comes from the house.** Any unused ulam fund may be redirected to fuel or tolls with the group’s agreement.
-
-### Limliwa Beach reminders
-
-**Day tour: 6 AM-6 PM only.** Walk-ins are first come, first served. **Tent pitching is prohibited**, loud speakers are discouraged, and cooking/grilling is allowed only in the common cooking area.
-
-Dinner is planned **at the house**. Bring only what is needed for the beach. **Optional beach activities and rentals are KKB**, including surfing lessons and equipment rentals. Extra snacks and drinks are also your own expense. Check prices before joining and bring extra cash beyond the ₱1,500 base allowance.
-
-### Beach lunch and cooler flow
-
-**Saturday lunch: Wideplate ulam takeout and house-cooked rice at Limliwa.** Pool ₱300 per person for ulam and decide the dishes together at the restaurant. Five people provide ₱1,500; the fund scales with attendance. Cook rice during the house stop and collect freshly prepared ulam afterward. Limliwa confirmed outside food and drinks are allowed, with no corkage fee. Lunch is around 2 PM; bring a small snack for the drive.
-
-| Stage | Plan |
-| --- | --- |
-| QC and grocery stop | Keep marinated BBQ and other chilled ingredients in sealed, leakproof containers in an iced cooler. |
-| At the house | Transfer raw meat and chilled breakfast ingredients into the refrigerator/freezer promptly. |
-| Beach preparation | Prefer a separate clean cooler for drinks and chilled snacks. If reusing the meat cooler, discard old ice, wash and sanitize it, then add fresh ice. Keep chips in a dry bag. |
-| Takeout and beach lunch | After the house stop, collect takeout shortly before arriving at the beach and eat on arrival. Limliwa confirmed outside food and drinks are allowed with no corkage fee. |
-
-Outside-food policy confirmed directly by Limliwa in a message shared by MC on October 23, 2026: food and drinks are allowed, with no corkage fee.
-
-## Sunday · November 8
-
-**ATV first, Barn by Conti’s lunch and a relaxed afternoon around Clark Parade Grounds**
-
-**Sunday’s plan is ATV first, then lunch and the afternoon around Clark Parade Grounds.** Times assume a Capas/Santa Juliana operator and remain provisional until the meeting point and booking are confirmed. **Leave Clark at 7 PM or earlier; target home around 10 PM. This is an optimistic target, subject to traffic, dinner and drop-offs.** The driver must have enough rest.
-
-| Time | Plan |
-| --- | --- |
-| 6&#8209;7&nbsp;AM | **Sunday breakfast: sinangag, eggs and longganisa.** Karl finalizes quantities and ingredients; **Karl and MC cook**. Anne will try asking her mom to buy longganisa; purchase still needs confirmation. |
-| 7&#8209;7:30&nbsp;AM | Clean the house, pack and load **all belongings**. Bring the day bag, water and a change of clothes for ATV. |
-| 7:30&#8209;10:30&nbsp;AM | Travel to the **Capas/Santa Juliana ATV meeting point**. Allow approximately three hours provisionally; exact operator, route and arrival time remain pending. |
-| 10:30&#8209;11&nbsp;AM | Registration, safety briefing and preparation. Bring a small snack if needed before the later lunch. |
-| 11&nbsp;AM&#8209;12&nbsp;NN | **Mt. Pinatubo lahar-trail ATV adventure.** Target a **30-minute to one-hour ride**. Operator, price, meeting point and booking are **pending**. |
-| 12&#8209;12:30&nbsp;PM | Freshen up, change clothes and prepare for the Clark transfer. |
-| 12:30&#8209;1:30&nbsp;PM | Travel to **Clark Parade Grounds**. This one-hour allowance must be checked against the final ATV meeting point. |
-| 1:30&#8209;2:30&nbsp;PM | **Lunch at Barn by Conti’s near Clark Parade Grounds - KKB, ₱400 allowance each.** Everyone chooses and pays for their own order. **Bring extra** for price differences, drinks, dessert or any additional charges. Restaurant selected; no reservation confirmed. |
-| 2:30&#8209;7&nbsp;PM | **Flexible afternoon at Clark Parade Grounds.** Relax, walk, take photos, visit the nearby Barn Houses and memorials, play cards/UNO, or try **optional bicycle rental**. Anyone interested can visit **Clark Museum before its published 4 PM closing**. **Driver rests.** Choose what the group feels like doing; **leave earlier if everyone is ready**. Museum/student admission and bike-rental rates still need confirmation. |
-| 7&nbsp;PM&nbsp;or&nbsp;earlier | **Depart Clark for QC.** No need to stay until 7 PM if the group has finished. Make a rest stop if the driver needs one. |
-| On&nbsp;arrival&nbsp;in&nbsp;QC | **Fast-food dinner - KKB, ₱250 allowance**, then passenger drop-offs and MC’s motorcycle pickup. Choose a convenient McDonald’s, Jollibee or similar restaurant. |
-| Around&nbsp;10&nbsp;PM&nbsp;&#8209;&nbsp;target | **Target arrival home, not a fixed ETA.** Traffic, dinner queues, rest stops and drop-off locations may push arrival later. |
-
-**There is no planned return to the San Antonio house on Sunday.** Pack everything and clean the house before leaving in the morning.
-
-### Sunday activity choices
-
-| Priority | Activity | Status |
-| --- | --- | --- |
-| **Main adventure** | **Mt. Pinatubo lahar-trail ATV** | **Ian Carl will call the operator.** Current package, meeting point and booking remain pending. |
-| **Alternative to ATV** | **SandBox Package A + 30-minute unlimited-arrow archery** | Replaces ATV only if selected; approval and availability pending |
-| **After ATV** | **Clark Parade Grounds and nearby stops** | Selected afternoon area; lunch at Barn by Conti’s |
-| Optional indoor stop | **Clark Museum** | Current admission, student exemption and Sunday access need confirmation |
-| Optional rental | **Bicycle rental near Parade Grounds** | Personal extra; operator, rates and availability need checking |
-
-### Sunday lunch - Barn by Conti’s
-
-| Menu-photo example | Listed price | Note |
-| --- | --- | --- |
-| Classic pesto linguine | ₱345 | Classic pasta option |
-| Pork tocino | ₱375 | With garlic rice and egg |
-| Cajun chicken | ₱395 | With rice and vegetables |
-| Bacon mac & cheese | ₱395 | Pasta option |
-| Chorizo aglio olio | ₱395 | Pasta option |
-
-**Barn by Conti’s is selected for Sunday lunch, around 1:30-2:30 PM after ATV.** Keep **₱400 each** within the ₱1,500 base allowance and **bring extra cash**. The examples above come from menu photos supplied by MC on October 25, 2026. The photos show different menu versions; these are reference prices, not a confirmed November quote or final bill. Drinks, dessert, price changes or any additional charges may exceed the allowance. Everyone chooses and pays for their own order. **No reservation confirmed.**
-
-Menu reference: photos supplied by MC on October 25, 2026. [Barn by Conti’s official Facebook](https://www.facebook.com/barnbycontis/). Check the current dine-in menu on arrival.
-
-### Around Parade Grounds
-
-| Nearby stop | What we can do |
-| --- | --- |
-| Clark Museum - optional | Indoor exhibits before the published 4 PM closing. Student admission and current fees need confirmation. |
-| Historic Barn Houses | Walk along R.C. Santos, take photos and browse cafés. Purchases are optional. |
-| Fort Stotsenburg gateposts and memorials | Short heritage and photo stops around the grounds. |
-| Parade Grounds | Walking, photos, picnic-mat hangout, cards/UNO and driver rest. |
-| Bicycle rental - optional | Choose only if interested. Rental is a personal extra; current rates and availability are not confirmed. |
-
-**The afternoon area is now Clark Parade Grounds.** Park and explore the nearby museum, Barn Houses, Fort Stotsenburg gateposts and memorials on foot, then relax at the grounds. Bike rental is optional and costs extra. **Free student museum admission is not yet confirmed**; bring a valid student ID. A March 2026 guide lists museum admission at ₱100 and the 4D theater separately at ₱100, with Tuesday-Sunday hours of 9 AM-4 PM. These are reference rates, not a confirmed November 8 quote. The theater is not part of the scheduled plan.
-
-References checked October 24, 2026: [Clark Museum Facebook](https://www.facebook.com/clarkmuseum/) · [Visit Clark](https://www.facebook.com/visitclark/) · [March 2026 Clark guide: museum fees and hours](https://www.spot.ph/things-to-do/weekend-guides/spot-out-of-town-discover-the-best-things-to-do-in-clark-pampanga-a5138-20260326-dyn) · [Nearby heritage walking stops](https://mobility.inquirer.net/2020/10/11/columns/day-tripper/day-tripper-bike-bite-ride-in-clark/) · [Bike My Way rental page](https://www.facebook.com/bikemywayph/). Confirm current museum policies and rental details before the trip.
-
-**SandBox replaces ATV if selected.** It is not an additional scheduled activity, and choosing it will require changes to the route and times.
-
-Suggestions are welcome for the pending ATV operator and flexible afternoon stops. Keep the afternoon flexible around Parade Grounds. Walk, take photos or simply relax; leave earlier if everyone is ready, with departure planned by 7 PM.
-
-```mermaid
-flowchart TD
-    A["Saturday: Ian Carl breakfast; tentative Soliven meetup"] --> B["Groceries, cake pickup and house-cooked rice"]
-    B --> C["Wideplate ulam and Limliwa beach lunch"]
-    C --> D["Birthday dinner and games at the house"]
-    D --> E["Sunday: sinangag, eggs and longganisa; pack all bags"]
-    E --> F{"Adventure choice"}
-    F -->|"Main plan; operator pending"| G["Mt. Pinatubo ATV"]
-    F -->|"Alternative if selected"| H["SandBox A and 30-minute archery"]
-    G --> I["Barn by Conti’s lunch; KKB ₱400 plus extra"]
-    H --> I
-    I --> J["2:30-7 PM: flexible Parade Grounds; optional museum or bikes"]
-    J --> K["Relax and give driver rest; leave earlier if ready"]
-    K --> L["Depart by 7 PM"]
-    L --> M["KKB dinner and drop-offs; target home 10 PM"]
-```
-
-## Shared checklists
-
-**☑ Already available · ☐ Still to buy, borrow, assign or prepare.** Available items still need to be packed. Update and save the checkbox symbols as progress changes.
-
-### Shared supplies
-
-| Available - MC | Still to arrange |
-| --- | --- |
-| ☑ One bottle of soft drink | ☐ Main cooler - MC to borrow |
-| ☑ Picnic mat | ☐ Additional cooler - Paul, if joining |
-| ☑ First-aid kit | ☐ Shared sunscreen - volunteer |
-| ☑ Paper plates | ☐ One lighter - volunteer |
-| ☑ Spoons and forks | ☐ Dishwashing liquid, 200-250 mL - volunteer |
-| ☑ Cups | ☐ Dishwashing sponges, 1-2 - volunteer |
-| ☑ Trash bags | ☐ UNO, playing cards or mini Jenga - volunteers |
-| ☑ Tissue/paper towels |  |
-| ☑ Aluminum foil | ☐ Shuttlecocks - volunteer needed |
-| ☑ Food-safe containers with lids |  |
-| ☑ Clean kitchen/microfiber cloths |  |
-
-### Anne, Karl and Ian Carl
-
-**Ian Carl prepares Saturday’s light breakfast, handles dishwashing and will call the ATV operator.** Anne brings her assigned gear and will try asking her mom to buy longganisa. Karl plans quantities for **sinangag, eggs and longganisa**, and **Karl and MC cook**. The boxes track preparation, packing and follow-up tasks.
-
-| Anne | Karl | Ian Carl |
-| --- | --- | --- |
-| ☐ Pack camera gimbal | ☐ Finalize Sunday breakfast quantities | ☐ Arrange Saturday breakfast ingredients |
-| ☐ Pack phone gimbal | ☐ List ingredients and quantities needed | ☐ Prepare and pack Saturday breakfast |
-| ☐ Pack picnic mat | ☐ Coordinate breakfast ingredient purchases | ☐ Pack badminton rackets |
-| ☐ Confirm volleyball to bring - tentative | ☐ Pack speaker | ☐ Handle dishwashing |
-|  | ☐ Tent, only if useful at a permitted location | ☐ Call ATV operator and relay the details |
-| ☐ Ask mom about buying longganisa; confirm quantity and purchase |  |  |
-
-**Limliwa prohibits tent pitching and discourages loud speakers.**
-
-### Shared shopping
-
-Quantities are provisional for **7-8 people**, adjusted after the **November 2 attendance deadline**. We buy our own rice, oil, sauces and seasonings. **Ian Carl handles Saturday breakfast separately. Sunday breakfast is sinangag, eggs and longganisa; Karl finalizes quantities. Anne will try asking her mom to buy longganisa; confirm before buying more.** **Buyers needed for the QC seasonings and iced tea; volunteer in the group chat before buying to avoid duplicates.**
-
-| Buy in QC | Buy in Zambales |
-| --- | --- |
-| ☐ **30 marinated pork BBQ sticks** - MC to buy | ☐ Pork for adobo, approximately **1-1.5 kg** |
-| ☐ **4 sharing bags of chips**, around 100-150 g each - MC to buy | ☐ Rice, initially **2 kg uncooked** - recheck after headcount; covers Saturday lunch, dinner and Sunday breakfast |
-| ☐ **1 biscuit/cracker multipack**, with 8-10 individual packs - MC to buy | ☐ Eggs, **10-14**, subject to Karl’s menu |
-| ☐ **1 pack of Mentos** - MC to buy | ☐ Longganisa, initially **750 g-1 kg**; confirm Anne’s purchase first, then buy locally only if needed |
-| ☐ Cooking oil - buyer needed | ☐ Bananas, **10-14 pieces** |
-| ☐ Soy sauce - buyer needed | ☐ **1 small watermelon** |
-| ☐ Vinegar - buyer needed | ☐ **1 birthday cake from KDB Sweet Shop** - preorder and pickup after groceries; flavor/design pending |
-| ☐ Salt and pepper (whole peppercorns for adobo) - buyer needed | ☐ Drinking water, initially **20 litres** |
-| ☐ Garlic and onions - buyer needed | ☐ Ice for the cooler/s |
-| ☐ Calamansi - buyer needed | ☐ Charcoal |
-| ☐ Iced tea sachets - buyer needed | ☐ **1 additional soft drink**, only if needed |
-| ☐ Dried bay leaves / laurel, 1 small pack - buyer needed |  |
-| ☐ Banana ketchup, 1 small pouch - only if BBQ basting sauce is not included; buyer needed |  |
-| ☐ Brown sugar, small pack - optional, confirm with cook; buyer needed |  |
-
-Market backup: **Mc Mar Frozen Foods** and **Rodriguez Supermart, Agpalo Street**. Stock, prices, water and ice availability need confirmation. **KDB Sweet Shop cake preorder and pickup time are still pending.**
-
-**Saturday flow:** San Marcelino market / grocery → water / ice → **KDB cake pickup** → house / refrigerator / **cook lunch rice** → **Wideplate ulam takeout pickup** → **shared lunch at Limliwa Beach**. Shopping, cooking and pickup times are provisional.
-
-Shopping references: [Mc Mar Frozen Foods listing](https://www.bizippines.com/mc-mar-frozen-foods-0929-565-7091) · [Rodriguez Supermart listing](https://www.cybo.com/PH-biz/rodriguez-supermart). These are store listings, not live inventory.
-
-### Dinner and cooking volunteers
-
-| Dish / task | Assignment |
-| --- | --- |
-| Pork BBQ | ☐ **At least two grilling volunteers needed** |
-| Pork adobo | ☐ Confirm Barte’s father as cook, if joining |
-| Lunch and dinner rice | ☐ Assign a cook; prepare Saturday lunch rice during the house stop |
-| Dishwashing | **Ian Carl** |
-
-**Dinner menu confirmed: pork BBQ and pork adobo, with rice.** Everyone helps with food preparation and general cleanup; **Ian Carl handles dishwashing**.
-
-Chargers, cables and charged power banks are each person’s responsibility.
+The working headcount is not eight confirmed people. Please confirm by **November 2**.
 
 ## Pending decisions and volunteers
 
-| Item | What still needs arranging |
+| Item | What still needs a decision or clear confirmation |
 | --- | --- |
-| **Attendance and transport** | Finalize attendance by **November 2, 2026**; confirm Barte’s parents, driver, vehicle seating and pickup pins |
-| **ATV - Sunday’s main activity** | **Ian Carl will call the ATV operator.** Confirm current rates, ride duration, route, meeting point, regular-car access, availability and booking requirements, then relay the details to the group. **Not yet booked.** |
-| **SandBox - ATV alternative** | Group approval for **Package A + 30-minute unlimited-arrow archery**; confirm availability and adjust the route if selected |
-| **Saturday shared lunch - Wideplate** | Pool **₱300 per person for ulam**, bring rice cooked at the house, choose orders together on arrival and check pickup timing. |
-| **Sunday lunch - KKB** | **Barn by Conti’s selected**, near Clark Parade Grounds. Keep ₱400 each and bring extra. Choose individual orders on arrival; check the current menu, seating and any additional charges. No reservation confirmed. |
-| **Clark afternoon details** | Parade Grounds is the selected area. Confirm museum Sunday hours, current admission and student exemption; check optional bicycle rental prices and availability. |
-| **Birthday cake pickup** | **KDB Sweet Shop**, Money Tree Building, Brgy. Rizal, San Antonio, behind 7-Eleven. Finalize flavor/design, place the preorder and confirm pickup after groceries on November 7. |
+| Attendance / transport | Complete the named list by November 2; confirm parents, driver, seating and pickup arrangement. |
+| I Love BayBay | Quoted entrance includes a free open cottage. Confirm outside food/drinks, cooler, corkage, environmental fee, CR/showers, parking, day-use hours and availability. A reaction alone is not a clear confirmation. |
+| ATV Getaways | Selected package and 2:00 PM target. Confirm booking, pickup at I Love BayBay, parking, rider arrangements and weather policy. |
+| Jessilyn island hopping | Selected route: Anawangin, Capones and Camara. Confirm headcount, meeting pin, table, stop duration/order, return pickup, CR/showers, corkage and any parking/environmental fees. |
+| Saturday lunch | Wideplate selected; preorder dishes, pickup time and a suitable seafood-allergy meal. |
+| Sunday lunch | Decide home cooking versus early takeout; appoint a cook or buyer and finalize the menu. |
+| Cake | KDB Sweet Shop pickup after groceries; confirm final flavor/design and pickup time. |
+| Dinner / rice volunteers | Confirm adobo cook; at least two BBQ grillers; assign rice cooking and general preparation. |
+| Shared gear / games | Borrow the main cooler; arrange a backup if Paul cannot join. Assign sunscreen, lighter, dishwashing supplies, shuttlecocks and games. |
 
-## Personal packing checklist
+Suggestions are welcome for unresolved arrangements; coordinate changes with the group before booking.
 
-| Category | Bring |
+## Shared items to pack
+
+| Already available — MC | Still to arrange / pack |
 | --- | --- |
-| **Clothes** | Swimwear, dry outfit after the beach, sleepwear, Sunday adventure outfit, spare clothes, underwear and socks |
-| **Footwear** | Closed-toe shoes for adventure activities; slippers for the beach and house |
-| **Beach essentials** | Towel, sunscreen, waterproof pouch and wet-clothing bag |
-| **Personal care** | Toiletries, personal medication, insect repellent and hygiene essentials |
-| **Electronics** | Phone, charger, cable and charged power bank |
-| **Travel essentials** | ID, cash, refillable water bottle, overnight bag and small day bag |
-| **Rain protection** | Compact umbrella or raincoat |
-| **Optional comfort items** | Cap, light jacket, personal snacks and small pillow |
+| ☑ Two soft-drink bottles | ☐ Main cooler — MC to borrow |
+| ☑ Picnic mat; first-aid kit | ☐ Additional cooler — Paul if joining |
+| ☑ Paper plates; spoons and forks; cups | ☐ Shared sunscreen — volunteer |
+| ☑ Trash bags; tissue / paper towels | ☐ Lighter — volunteer |
+| ☑ Aluminum foil; food-safe lidded containers | ☐ Dishwashing liquid, 200–250 mL; 1–2 sponges — volunteer |
+| ☑ Clean kitchen / microfiber cloths | ☐ UNO, playing cards or mini Jenga — volunteers |
+| Separate wiping and dish-drying cloths | ☐ Shuttlecocks — volunteer |
 
-**Bring extra cash beyond the ₱1,500 base allowance**, particularly for extra snacks, personal purchases and meals that exceed the estimates.
+☑ Already available; still pack and check quantities. ☐ To buy, borrow, assign or prepare.
 
-The designated driver should get sufficient sleep and take rest breaks. The schedule may change with weather, traffic, availability and the group’s condition.
+## Assigned preparation — three columns
+
+| Anne | Karl | IanCarl |
+| --- | --- | --- |
+| ☐ Camera and phone gimbals | ☐ Finalize Sunday breakfast menu / quantities | ☐ Prepare and pack Saturday light breakfast |
+| ☐ Picnic mat | ☐ List / coordinate breakfast ingredients | ☐ Badminton rackets |
+| ☐ Confirm volleyball to bring | ☐ Speaker, subject to venue permission | ☐ Dishwashing |
+| ☐ Check longganisa purchase with Mom and Karl | ☐ Tent only if useful and permitted | Rackets available; shuttlecocks still needed |
+
+## Shopping checklist
+
+| Buy in QC / bring | Buy in Zambales / pick up |
+| --- | --- |
+| ☐ 30 marinated pork BBQ sticks; keep iced | ☐ Pork for adobo — around 2 kg, cook to confirm |
+| ☐ Cooking oil, soy sauce and vinegar | ☐ Rice — around 4–5 kg for four rice meals |
+| ☐ Salt, peppercorns and a small pack of laurel | ☐ Eggs and longganisa — Karl finalizes; check Anne’s purchase |
+| ☐ Garlic, onions and calamansi | ☐ Bananas and one small watermelon |
+| ☐ Iced-tea sachets, if wanted | ☐ Drinking water — start with 20 L; replenish as needed |
+| ☐ Sharing chips, around four bags; one cracker / biscuit multipack | ☐ Ice and charcoal |
+| ☐ One Mentos pack | ☐ KDB Sweet Shop cake pickup after groceries |
+| ☐ Saturday breakfast supplies — IanCarl | ☐ Wideplate takeout ulam pickup |
+| Check sauce / seasoning quantities with cooks | ☐ Sunday packed-lunch ingredients or preordered takeout |
+
+Quantities are suggestions for eight; check with the cooks before shopping. Bring our own ingredients and seasonings.
+
+## Meals and cooking volunteers
+
+| Meal / task | Plan / assignment |
+| --- | --- |
+| Saturday light breakfast | IanCarl prepares and packs it. |
+| Saturday lunch | Wideplate ulam + house-cooked rice at the beach; assign rice cook. |
+| Saturday dinner | 30 pork BBQ sticks + pork adobo + rice. No third dish. Barte’s father for adobo, subject to confirmation; two BBQ grillers and rice cook needed. |
+| Sunday breakfast | Karl plans sinangag, eggs and longganisa. Karl and MC cook. |
+| Sunday lunch | Packed meal for the islands; menu and cook / takeout buyer pending. |
+| Sunday dinner | KKB fast-food meal in QC. |
+| Cleanup | IanCarl handles dishwashing; everyone helps with preparation, packing and cleanup. |
+
+Carry raw meat in sealed leakproof containers with ice, then refrigerate it promptly at the house. Prefer a separate clean drinks cooler. If reusing the meat cooler, empty, clean and sanitize it before adding fresh ice and ready-to-eat items. Collect lunch close to mealtime and keep it appropriately hot or chilled.
+
+## Personal packing
+
+| Pack for yourself | Details |
+| --- | --- |
+| Clothes | Swimwear for two days, dry changes, sleepwear, underwear and a spare home-going outfit. |
+| Adventure gear | Closed-toe shoes, comfortable clothes, towel and a waterproof / day bag. |
+| House / beach gear | Slippers, toiletries, usual medication, sun protection and insect repellent. |
+| Essentials | ID, cash, phone, charger, charged power bank and refillable water bottle. |
+| Keep things separate | Wet-clothes bags and leakproof food containers; bring rain protection. |
+
+## Maps and operator references
+
+- [Liwliwa ATV Getaways meeting area](https://maps.app.goo.gl/vNwuBRjekbnBsP8L9) — pickup at I Love BayBay still needs confirmation.
+- [I Love BayBay Facebook](https://www.facebook.com/p/I-Love-BayBay-100077308951284/)
+- [Liwliwa ATV Getaways Facebook](https://www.facebook.com/61559843702364/)
+
+The previous multi-stop maps followed the old itinerary and are no longer active route guides. Updated full routes and Jessilyn’s boarding pin are pending. Share the private house pin directly with participants.
+
+## Budget allocation
+
+```mermaid
+flowchart TD
+    A["₱1,750 per friend; bring extra"] --> B["₱1,200 shared contribution"]
+    A --> C["₱300 entrances"]
+    A --> D["₱250 own QC dinner"]
+    B --> E["Groceries, fuel and tolls"]
+    C --> F["I Love BayBay: ₱200"]
+    C --> G["Anawangin: ₱100"]
+```
+
+## Trip flow
+
+```mermaid
+flowchart TD
+    A["Saturday: QC, errands and house stop"] --> B["Wideplate lunch at I Love BayBay"]
+    B --> C["Six guests: ATV with guides"]
+    B --> D["Parents: cottage and beach time"]
+    C --> E["Reunite; dinner and birthdays at the house"]
+    D --> E
+    E --> F["Sunday: breakfast and Pundaquit boarding"]
+    F --> G["Camara and Capones stops"]
+    G --> H["Anawangin: lunch, swimming and rest"]
+    H --> I["Return to the house; driver rest"]
+    I --> J["QC dinner and drop-offs"]
+```
+
+The selected ATV and boat plans are not represented as paid reservations. Venue policies, availability, weather and driver readiness may change the schedule.
