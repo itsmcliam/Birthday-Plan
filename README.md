@@ -181,7 +181,7 @@ Pack overnight belongings before heading out. The itinerary includes a return to
 | ☐ Sharing chips, around four bags; one cracker / biscuit multipack | ☐ Ice and charcoal |
 | ☐ One Mentos pack | ☐ KDB Sweet Shop cake pickup after groceries |
 | ☐ Saturday breakfast supplies — IanCarl | ☐ Wideplate takeout ulam pickup |
-| Check sauce / seasoning quantities with cooks | ☐ Sunday takeout once confirmed; Fat Belly Deli tentative |
+| ☐ Check sauce / seasoning quantities with cooks | ☐ Sunday takeout once confirmed; Fat Belly Deli tentative |
 
 Quantities are suggestions for ten; check with the cooks before shopping. Bring our own ingredients and seasonings.
 
