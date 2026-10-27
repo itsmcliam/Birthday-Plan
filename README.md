@@ -184,13 +184,14 @@ Quantities are suggestions for ten; check with the cooks before shopping. Bring 
 
 | Person | Status | Notes |
 | --- | --- | --- |
-| MC / Anne / Karl / Ian Barte / IanCarl | Confirmed | Five named confirmations so far |
-| Paul / Jannelle / Ian Carreon | Pending | Reconfirm by November 2 |
+| MC / Anne / Karl / Ian Barte / IanCarl | Confirmed | Five confirmed |
+| Paul / Bogs | Pending | Confirm by November 2 |
 | Blessy | Pending | Mother approved; father’s permission still pending |
+| Jannelle | Not joining | Confirmed unavailable |
 | Barte’s parents | Planned, not final | Confirm both parents and driver arrangements |
-| Working total | Ten | Eight main-group participants plus two parents; final names may change |
+| Working total | Up to ten | Five confirmed + three pending + two parents if joining |
 
-The working headcount is not ten confirmed people. Please confirm by **November 2**.
+Please confirm final attendance by **November 2**. The ten-person plan remains a working estimate.
 
 ## Routes and venue links
 
