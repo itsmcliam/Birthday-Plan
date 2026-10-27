@@ -157,7 +157,7 @@ Pack overnight belongings before heading out. The itinerary includes a return to
 
 | Anne | Karl | IanCarl |
 | --- | --- | --- |
-| ☐ Camera and phone gimbals | ☐ Finalize Sunday breakfast menu / quantities | ☐ Prepare and pack Saturday light breakfast |
+| ☐ Camera and phone tripods | ☐ Finalize Sunday breakfast menu / quantities | ☐ Prepare and pack Saturday light breakfast |
 | ☐ Picnic mat | ☐ List / coordinate breakfast ingredients | ☐ Badminton rackets |
 | ☐ Confirm volleyball to bring | ☐ Speaker, subject to venue permission | ☐ Dishwashing |
 | ☐ Check longganisa purchase with Mom and Karl | ☐ Tent only if useful and permitted | ☐ Rackets available; shuttlecocks still needed |
