@@ -47,7 +47,7 @@ Optional activities, extra food and personal purchases are **KKB**. Any addition
 | 12:00–12:30 PM | Travel to I Love BayBay. Target arrival 12:30 PM; outside-food permission and the day-use arrangements need a clear reply. |
 | 12:30–1:30 PM | Lunch at the open cottage: Wideplate ulam with house-cooked rice, then bonding and photos. Coordinate the seafood allergy. If errands run late, shorten beach bonding to keep the 2:00 PM ATV start. |
 | 1:30–2:00 PM | Prepare for ATV, meet the guides and attend the safety briefing. Barte’s parents remain at the beach cottage. Pickup point still needs confirmation. |
-| 2:00–5:00 PM | Eight guests ride four ATVs with a separate guide/emergency unit. Package includes waterfalls, coastal and beach trails, carabao ride, trekking, about one hour at the falls and drone shots. Guide must arrange upper-falls access before its 4:00 PM cutoff. |
+| 2:00–5:00 PM | Eight guests ride four ATVs with a separate guide/emergency unit. Package includes waterfalls, coastal and beach trails, carabao ride, **trekking to the falls**, about one hour at the falls and drone shots. Guide must arrange upper-falls access before its 4:00 PM cutoff. |
 | 5:00–6:00 PM | Reunite with the parents, wash up and collect belongings. Confirm resort showers and allowed day-tour hours. |
 | 6:00–8:00 PM | Return to the house, cook pork BBQ, pork adobo and rice, then eat together. |
 | 8:00 PM onward | Birthday cake for Anne, MC and Paul; games, music, photos and bonding at the house. Prepare Sunday’s bags. The driver needs sufficient rest. |
@@ -68,10 +68,10 @@ Optional activities, extra food and personal purchases are **KKB**. Any addition
 | 7:00–7:30 AM | Eat, clean up and pack day bags, food and water. Collect Fat Belly takeout only if early pickup is confirmed; organize overnight bags for the house return. |
 | 7:30–8:00 AM | Travel to the boat meeting point. Allow about 15 minutes from Jollibee San Antonio, plus time from the house and boarding buffer. Meeting point: Purok 2 Ariño Parking. At the tourism checkpoint before Pundaquit, pay the ₱20/head fee from the shared fund, name Jessilyn Racel Gruezo as our contact and show her permit image. Whole-day parking is ₱100 per vehicle. |
 | 8:00–8:30 AM | Meet Jessilyn’s operator, load food and bags, and prepare life jackets. Confirm the stop order and return pickup. |
-| 8:30–10:30 AM | Boat travel and Camara / Capones sightseeing and photo stops. This order and timing are proposed, subject to the operator and sea conditions. |
+| 8:30–10:30 AM | Boat travel and Camara / Capones sightseeing and photo stops. **Optional Capones lighthouse hike** only if access, landing point and stop duration allow; confirm any fees with Jessilyn. Stop order and timing depend on the operator and sea conditions. |
 | 10:30 AM–12:00 NN | Reach Anawangin, settle at an open table/cottage, swim and relax. Table reservation and CR/shower inclusions still need confirmation. |
 | 12:00–1:00 PM | Shared lunch: tentative Fat Belly Deli takeout with house-cooked rice. Daily specials, portions and early pickup await confirmation. Eat earlier if needed. |
-| 1:00–2:30 PM | Relaxed Anawangin time: swimming, photos, volleyball, cards and picnic-mat bonding. Available optional water activities and purchases are KKB. |
+| 1:00–2:30 PM | Relaxed Anawangin time: swimming, photos, volleyball, cards and picnic-mat bonding. **Optional viewpoint hike** if the trail is open; confirm access, guide requirements and any extra fee with Jessilyn. Optional hikes, water activities and purchases are KKB if charged. |
 | 2:30–3:30 PM | Wash up, pack and return by boat to Pundaquit. Agree on this pickup with Jessilyn; it is not yet a confirmed timetable. |
 | 3:30–5:00 PM | Return to the house, collect bags and finish cleanup. Driver rests or naps while everyone else packs. |
 | 5:00–9:00 PM | Travel back to QC. Allow about four hours and stop if the driver needs a break. |
