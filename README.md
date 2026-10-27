@@ -208,6 +208,18 @@ Please confirm final attendance by **November 2**. The ten-person plan remains a
 
 Routes cover the main stops; grocery, cake and takeout pickups need additional time. Jessilyn confirmed Purok 2 Ariño Parking as the meeting point. Tourism fee: ₱20/head at the checkpoint; whole-day parking: ₱100/vehicle, both included in the shared fund.
 
+## Emergency contacts — San Antonio, Zambales
+
+| Service | Mobile number |
+| --- | --- |
+| San Antonio Police Station | [+63 998 598 5507](tel:+639985985507) |
+| Bureau of Fire Protection | [+63 960 819 3964](tel:+639608193964) |
+| Municipal Health Office | [+63 969 104 5359](tel:+639691045359) |
+| MDRRMO Rescue San Antonio | [+63 964 769 0801](tel:+639647690801) |
+| San Antonio Coast Guard | [+63 968 323 7813](tel:+639683237813) |
+
+Save these contacts before travel. Source: [Philippine Beach Guide](https://www.philippinebeaches.org/anawangin-cove-travel-guide-zambales/), updated April 30, 2026. Numbers have not been test-called.
+
 ## Operator verification
 
 | Business | Verification status |
