@@ -192,6 +192,24 @@ Quantities are suggestions for ten; check with the cooks before shopping. Bring 
 
 Please confirm final attendance by **November 2**. Attendance is now up to **eight**; itinerary headcounts remain provisional.
 
+## Reservation payments
+
+| Provider | Status |
+| --- | --- |
+| Liwliwa ATV Getaways | Deposit paid October 28 |
+| I Love BayBay | Deposit paid October 28 |
+| KDB Sweet Shop | Deposit paid October 28 |
+| Jessilyn Travel and Tours | No deposit paid yet; final headcount and booking pending |
+
+<details>
+<summary>View redacted deposit receipts</summary>
+
+![Redacted receipts: ATV deposit ₱1,000; I Love BayBay deposit ₱500; KDB cake deposit ₱1,000, paid October 28, 2026](assets/payments/deposit-receipts-redacted.png)
+
+Personal details and transaction references are hidden. Original receipts are kept privately by MC. Payment status does not replace the providers’ booking acknowledgments.
+
+</details>
+
 ## Routes and venue links
 
 | Venue / route | Google Maps | Facebook |
