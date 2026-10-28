@@ -192,14 +192,18 @@ Quantities are suggestions for ten; check with the cooks before shopping. Bring 
 
 Please confirm final attendance by **November 2**. Attendance is now up to **eight**; itinerary headcounts remain provisional.
 
-## Reservation payments
+## Routes and venue links
 
-| Provider | Status |
-| --- | --- |
-| Liwliwa ATV Getaways | Deposit paid October 28 |
-| I Love BayBay | Deposit paid October 28 |
-| KDB Sweet Shop | Deposit paid October 28 |
-| Jessilyn Travel and Tours | No deposit paid yet; final headcount and booking pending |
+| Venue / route | Google Maps | Facebook  Payment status |
+| --- | --- | ---  --- |
+| Saturday driving route | [Open map](https://maps.app.goo.gl/VXTT4ugm6bqVBXMD8) | —  — |
+| Sunday driving route | [Open map](https://maps.app.goo.gl/XKAea3D4XjEApZs69) | —  — |
+| I Love BayBay | [Open map](https://maps.app.goo.gl/rCENhvGy7jd94VB37) | [Facebook](https://www.facebook.com/profile.php?id=100077308951284)  Deposit paid Oct 28 |
+| Liwliwa ATV Getaways | [Open map](https://maps.app.goo.gl/s4er5kgtLcWiRMV8A) | [Facebook](https://www.facebook.com/profile.php?id=61559843702364)  Deposit paid Oct 28 |
+| Jessilyn Travel and Tours | [Open map](https://maps.app.goo.gl/vAVGLiaypsbTfios8) | [Facebook](https://www.facebook.com/profile.php?id=100083507706578)  Not paid; booking pending |
+| KDB Sweet Shop | [Open map](https://maps.app.goo.gl/ZW9u7sivSZY92D2J9) | [Facebook](https://www.facebook.com/KDBSweetShop/)  Deposit paid Oct 28 |
+| Wideplate | [Open map](https://maps.app.goo.gl/J9N4yDfm3ZjHLgPx8) | [Facebook](https://www.facebook.com/wideplaterestaurant/)  — |
+| Fat Belly Deli (tentative) | [Open map](https://maps.app.goo.gl/aYWhckyfEJmvZSQB6) | [Facebook](https://www.facebook.com/fatbellykfarmdeli)  — |
 
 <details>
 <summary>View redacted deposit receipts</summary>
@@ -209,19 +213,6 @@ Please confirm final attendance by **November 2**. Attendance is now up to **eig
 Personal details and transaction references are hidden. Original receipts are kept privately by MC. Payment status does not replace the providers’ booking acknowledgments.
 
 </details>
-
-## Routes and venue links
-
-| Venue / route | Google Maps | Facebook |
-| --- | --- | --- |
-| Saturday driving route | [Open map](https://maps.app.goo.gl/VXTT4ugm6bqVBXMD8) | — |
-| Sunday driving route | [Open map](https://maps.app.goo.gl/XKAea3D4XjEApZs69) | — |
-| I Love BayBay | [Open map](https://maps.app.goo.gl/rCENhvGy7jd94VB37) | [Facebook](https://www.facebook.com/profile.php?id=100077308951284) |
-| Liwliwa ATV Getaways | [Open map](https://maps.app.goo.gl/s4er5kgtLcWiRMV8A) | [Facebook](https://www.facebook.com/profile.php?id=61559843702364) |
-| Jessilyn Travel and Tours | [Open map](https://maps.app.goo.gl/vAVGLiaypsbTfios8) | [Facebook](https://www.facebook.com/profile.php?id=100083507706578) |
-| KDB Sweet Shop | [Open map](https://maps.app.goo.gl/ZW9u7sivSZY92D2J9) | [Facebook](https://www.facebook.com/KDBSweetShop/) |
-| Wideplate | [Open map](https://maps.app.goo.gl/J9N4yDfm3ZjHLgPx8) | [Facebook](https://www.facebook.com/wideplaterestaurant/) |
-| Fat Belly Deli (tentative) | [Open map](https://maps.app.goo.gl/aYWhckyfEJmvZSQB6) | [Facebook](https://www.facebook.com/fatbellykfarmdeli) |
 
 Routes cover the main stops; grocery, cake and takeout pickups need additional time. Jessilyn confirmed Purok 2 Ariño Parking as the meeting point. Tourism fee: ₱20/head at the checkpoint; whole-day parking: ₱100/vehicle, both included in the shared fund.
 
