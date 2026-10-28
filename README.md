@@ -194,16 +194,16 @@ Please confirm final attendance by **November 2**. Attendance is now up to **eig
 
 ## Routes and venue links
 
-| Venue / route | Google Maps | Facebook  Payment status |
-| --- | --- | ---  --- |
-| Saturday driving route | [Open map](https://maps.app.goo.gl/VXTT4ugm6bqVBXMD8) | —  — |
-| Sunday driving route | [Open map](https://maps.app.goo.gl/XKAea3D4XjEApZs69) | —  — |
-| I Love BayBay | [Open map](https://maps.app.goo.gl/rCENhvGy7jd94VB37) | [Facebook](https://www.facebook.com/profile.php?id=100077308951284)  Deposit paid Oct 28 |
-| Liwliwa ATV Getaways | [Open map](https://maps.app.goo.gl/s4er5kgtLcWiRMV8A) | [Facebook](https://www.facebook.com/profile.php?id=61559843702364)  Deposit paid Oct 28 |
-| Jessilyn Travel and Tours | [Open map](https://maps.app.goo.gl/vAVGLiaypsbTfios8) | [Facebook](https://www.facebook.com/profile.php?id=100083507706578)  Not paid; booking pending |
-| KDB Sweet Shop | [Open map](https://maps.app.goo.gl/ZW9u7sivSZY92D2J9) | [Facebook](https://www.facebook.com/KDBSweetShop/)  Deposit paid Oct 28 |
-| Wideplate | [Open map](https://maps.app.goo.gl/J9N4yDfm3ZjHLgPx8) | [Facebook](https://www.facebook.com/wideplaterestaurant/)  — |
-| Fat Belly Deli (tentative) | [Open map](https://maps.app.goo.gl/aYWhckyfEJmvZSQB6) | [Facebook](https://www.facebook.com/fatbellykfarmdeli)  — |
+| Venue / route | Google Maps | Facebook | Payment status |
+| --- | --- | --- | --- |
+| Saturday driving route | [Open map](https://maps.app.goo.gl/VXTT4ugm6bqVBXMD8) | — | — |
+| Sunday driving route | [Open map](https://maps.app.goo.gl/XKAea3D4XjEApZs69) | — | — |
+| I Love BayBay | [Open map](https://maps.app.goo.gl/rCENhvGy7jd94VB37) | [Facebook](https://www.facebook.com/profile.php?id=100077308951284) | Deposit paid Oct 28 |
+| Liwliwa ATV Getaways | [Open map](https://maps.app.goo.gl/s4er5kgtLcWiRMV8A) | [Facebook](https://www.facebook.com/profile.php?id=61559843702364) | Deposit paid Oct 28 |
+| Jessilyn Travel and Tours | [Open map](https://maps.app.goo.gl/vAVGLiaypsbTfios8) | [Facebook](https://www.facebook.com/profile.php?id=100083507706578) | Not paid; booking pending |
+| KDB Sweet Shop | [Open map](https://maps.app.goo.gl/ZW9u7sivSZY92D2J9) | [Facebook](https://www.facebook.com/KDBSweetShop/) | Deposit paid Oct 28 |
+| Wideplate | [Open map](https://maps.app.goo.gl/J9N4yDfm3ZjHLgPx8) | [Facebook](https://www.facebook.com/wideplaterestaurant/) | — |
+| Fat Belly Deli (tentative) | [Open map](https://maps.app.goo.gl/aYWhckyfEJmvZSQB6) | [Facebook](https://www.facebook.com/fatbellykfarmdeli) | — |
 
 <details>
 <summary>View redacted deposit receipts</summary>
