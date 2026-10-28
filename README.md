@@ -98,10 +98,10 @@ Optional activities, extra food and personal purchases are **KKB**. Any addition
 | ☐ Dry Sunday dinner / home-going outfit | ☐ Personal medication |
 | ☐ Underwear for both days, plus spares | ☐ Sunscreen and insect repellent |
 | ☐ Socks, plus spare pair | ☐ Small towel or clean body-drying cloth |
-| ☐ Secure closed-toe footwear with grip | ☐ Bags for wet / dirty clothes |
+| ☐ Footwear with grip; Crocs / slippers allowed by ATV operator | ☐ Bags for wet / dirty clothes |
 | ☐ Slippers / sandals; own bath towel | ☐ Umbrella / raincoat; optional cap or jacket |
 
-Wear suitable footwear before leaving the house for the beach. Crocs require the ATV operator’s approval.
+Liwliwa ATV Getaways confirmed that **Crocs or slippers (tsinelas) are allowed**. Wear footwear with good grip; use the back strap on Crocs.
 
 ## Saturday: beach, ATV and falls packing
 
@@ -110,7 +110,7 @@ Wear suitable footwear before leaving the house for the beach. Crocs require the
 | Pack for Saturday | Take on the ATV / falls trail? |
 | --- | --- |
 | ☐ Swimwear underneath comfortable activity clothes | **Wear it** |
-| ☐ Secure footwear with grip; operator-approved | **Wear it** |
+| ☐ Footwear with grip; Crocs / slippers allowed | **Wear it** |
 | ☐ Water bottle, sunscreen, phone and small cash | **Yes** — secure water; seal phones and cash separately |
 | ☐ Small clean microfiber cloth for body drying | **Yes** |
 | ☐ Plastic bag for damp cloths / wet items | **Yes** |
@@ -122,7 +122,7 @@ Wear suitable footwear before leaving the house for the beach. Crocs require the
 | ☐ Picnic mats, volleyball, badminton rackets and shuttlecocks | For beach bonding |
 | ☐ First-aid kit | Coordinate who carries the essentials on the trail |
 
-Keep damp cloths separate from phones and valuables. Confirm footwear and swimming conditions with the operator / guide.
+Keep damp cloths separate from phones and valuables. Follow the guide’s instructions for the falls trail and swimming conditions.
 
 ## Sunday: island-hopping day bags
 
