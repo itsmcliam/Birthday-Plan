@@ -146,7 +146,7 @@ Pack overnight belongings before heading out. The itinerary includes a return to
 | Already available — MC | Still to arrange / pack |
 | --- | --- |
 | ☑ Two soft-drink bottles | ☐ Main cooler — MC to borrow |
-| ☑ Picnic mat; first-aid kit | ☐ Additional cooler — Paul if joining |
+| ☑ Picnic mat; first-aid kit | — |
 | ☑ Paper plates; spoons and forks; cups | ☐ Shared sunscreen — volunteer |
 | ☑ Trash bags; tissue / paper towels | ☐ Lighter — volunteer |
 | ☑ Aluminum foil; food-safe lidded containers | ☐ Dishwashing liquid, 200–250 mL; 1–2 sponges — volunteer |
