@@ -42,7 +42,7 @@ Optional activities, extra food and personal purchases are **KKB**. Any addition
 | --- | --- |
 | 5:30–6:00 AM | Meet and load at Jollibee Soliven (tentative). IanCarl prepares and packs the light breakfast. Coordinate MC’s motorcycle parking before departure. |
 | 6:00–10:00 AM | Travel to Zambales. Allow about four hours, with a short rest stop if needed. |
-| 10:00–11:00 AM | One-hour San Marcelino market / grocery stop. Buy the remaining dinner, breakfast and rice ingredients, fruit, drinking water, ice and charcoal. |
+| 10:00–11:00 AM | One-hour San Marcelino market / grocery stop. Buy all shared groceries in Zambales, including cooking oil, soy sauce, vinegar, other seasonings, Sunday breakfast ingredients, rice, fruit, drinking water, ice and charcoal. The 30 pre-marinated pork BBQ sticks are brought from QC; IanCarl brings Saturday's light breakfast already prepared. |
 | 11:00 AM–12:00 NN | KDB Sweet Shop cake pickup and preordered Wideplate ulam pickup. House stop: cook lunch rice, refrigerate meat and cake, unload and prepare beach bags. Divide tasks; this is a tight target. |
 | 12:00–12:30 PM | Travel to I Love BayBay. Target arrival 12:30 PM; outside-food permission and the day-use arrangements need a clear reply. |
 | 12:30–1:30 PM | Lunch at the open cottage: Wideplate ulam with house-cooked rice, then bonding and photos. Coordinate the seafood allergy. If errands run late, shorten beach bonding to keep the 2:00 PM ATV start. |
@@ -64,7 +64,7 @@ Optional activities, extra food and personal purchases are **KKB**. Any addition
 
 | Time | Sunday, November 8 |
 | --- | --- |
-| 5:30–7:00 AM | Karl and MC prepare breakfast; menu and quantities are pending Karl’s plan. Cook island-lunch rice; Fat Belly Deli early takeout is tentative. |
+| 5:30–7:00 AM | Karl and MC cook sinangag, Spam, eggs and hotdogs. Longganisa is optional instead of hotdogs; serve Milo / Swiss Miss, with optional coffee for Barte's parents. Confirm quantities with Karl. Cook island-lunch rice; Fat Belly Deli early takeout is tentative. |
 | 7:00–7:30 AM | Eat, clean up and pack day bags, food and water. Collect Fat Belly takeout only if early pickup is confirmed; organize overnight bags for the house return. |
 | 7:30–8:00 AM | Travel to the boat meeting point. Allow about 15 minutes from Jollibee San Antonio, plus time from the house and boarding buffer. Meeting point: Purok 2 Ariño Parking. At the tourism checkpoint before Pundaquit, pay the ₱20/head fee from the shared fund, name Jessilyn Racel Gruezo as our contact and show her permit image. Whole-day parking is ₱100 per vehicle. |
 | 8:00–8:30 AM | Meet Jessilyn’s operator, load food and bags, and prepare life jackets. Confirm the stop order and return pickup. |
@@ -82,7 +82,7 @@ Optional activities, extra food and personal purchases are **KKB**. Any addition
 
 | Meal | Plan / assignment |
 | --- | --- |
-| Sunday breakfast | Menu pending Karl’s plan; sinangag, eggs and longganisa are tentative ideas. Karl and MC will cook. |
+| Sunday breakfast | Sinangag, Spam, eggs and hotdogs; optional longganisa instead of hotdogs. Milo / Swiss Miss, and optional coffee for Barte's parents. Karl and MC will cook. No Pancit Canton. |
 | Sunday lunch | Tentative Fat Belly Deli takeout + house-cooked rice. Menu, serving sizes and early pickup pending. |
 | Sunday dinner | KKB fast-food meal in QC. |
 
@@ -157,28 +157,34 @@ Pack overnight belongings before heading out. The itinerary includes a return to
 
 | Anne | Karl | IanCarl |
 | --- | --- | --- |
-| ☐ Camera and phone tripods | ☐ Finalize Sunday breakfast menu / quantities | ☐ Prepare and pack Saturday light breakfast |
-| ☐ Picnic mat | ☐ List / coordinate breakfast ingredients | ☐ Badminton rackets |
+| ☐ Camera and phone tripods | ☐ Confirm Sunday breakfast portions: sinangag, Spam, eggs and hotdogs | ☐ Prepare and pack Saturday light breakfast |
+| ☐ Picnic mat | ☐ Coordinate buying Sunday breakfast ingredients in Zambales | ☐ Badminton rackets |
 | ☐ Confirm volleyball to bring | ☐ Speaker, subject to venue permission | ☐ Dishwashing |
-| ☐ Check longganisa purchase with Mom and Karl | ☐ Tent only if useful and permitted | ☐ Rackets available; shuttlecocks still needed |
+| ☐ Confirm whether optional longganisa is needed; buy in Zambales if chosen | ☐ Tent only if useful and permitted | ☐ Rackets available; shuttlecocks still needed |
 
 ## Shopping checklist
 
-| Buy in QC / bring | Buy in Zambales / pick up |
+**Buy all shared groceries, cooking ingredients and seasonings in Zambales during Saturday's market / grocery stop.** The only shared grocery item to bring from QC is the **30 pre-marinated pork BBQ sticks** (kept iced). IanCarl separately prepares and packs Saturday's light breakfast before departure.
+
+| Bring from QC | Buy in Zambales / pick up |
 | --- | --- |
-| ☐ 30 marinated pork BBQ sticks; keep iced | ☐ Pork for adobo — around 2 kg, cook to confirm |
-| ☐ Cooking oil, soy sauce and vinegar | ☐ Rice — around 4–5 kg for four rice meals |
-| ☐ Salt, peppercorns and a small pack of laurel | ☐ Eggs and longganisa — Karl finalizes; check Anne’s purchase |
-| ☐ Garlic, onions and calamansi | ☐ Bananas and one small watermelon |
-| ☐ Iced-tea sachets, if wanted | ☐ Drinking water — start with 20 L; replenish as needed |
-| ☐ Sharing chips, around four bags; one cracker / biscuit multipack | ☐ Ice and charcoal |
-| ☐ One Mentos pack | ☐ KDB Sweet Shop cake pickup after groceries |
-| ☐ Saturday breakfast supplies — IanCarl | ☐ Wideplate takeout ulam pickup |
-| ☐ Check sauce / seasoning quantities with cooks | ☐ Sunday takeout once confirmed; Fat Belly Deli tentative |
+| ☐ 30 pre-marinated pork BBQ sticks; keep iced | ☐ Pork for adobo — around 2 kg, cook to confirm |
+| — | ☐ Rice — around 4–5 kg for four rice meals |
+| — | ☐ Sunday breakfast: Spam, eggs and hotdogs; optional longganisa instead of hotdogs |
+| — | ☐ Breakfast drinks: Milo / Swiss Miss; coffee if needed |
+| — | ☐ Cooking oil, soy sauce and vinegar |
+| — | ☐ Salt, peppercorns, laurel, garlic, onions and calamansi |
+| — | ☐ Any other sauces, marinades and seasonings needed for BBQ, adobo, rice and breakfast (confirm with cooks) |
+| — | ☐ Bananas and one small watermelon |
+| — | ☐ Drinking water — start with 20 L; replenish as needed |
+| — | ☐ Ice and charcoal |
+| — | ☐ Iced-tea sachets, if wanted |
+| — | ☐ Sharing chips, around four bags; one cracker / biscuit multipack |
+| — | ☐ KDB Sweet Shop cake pickup after groceries |
+| — | ☐ Wideplate takeout ulam pickup |
+| — | ☐ Sunday takeout once confirmed; Fat Belly Deli tentative |
 
-Quantities are suggestions for ten; check with the cooks before shopping. Bring our own ingredients and seasonings.
-
-
+**No Mentos.** Quantities were originally suggested for ten; adjust to final attendance and confirm portions and seasonings with the cooks before buying.
 
 ## Attendance — finalize by November 2
 
