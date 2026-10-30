@@ -82,7 +82,7 @@ Optional activities, extra food and personal purchases are **KKB**. Any addition
 
 | Meal | Plan / assignment |
 | --- | --- |
-| Sunday breakfast | Sinangag, Spam, eggs and hotdogs; optional longganisa instead of hotdogs. Milo / Swiss Miss, and optional coffee for Barte's parents. Karl and MC will cook. No Pancit Canton. |
+| Sunday breakfast | Sinangag, Spam, eggs and hotdogs; optional longganisa instead of hotdogs. Milo / Swiss Miss, and optional coffee for Barte's parents. Karl and MC will cook. |
 | Sunday lunch | Tentative Fat Belly Deli takeout + house-cooked rice. Menu, serving sizes and early pickup pending. |
 | Sunday dinner | KKB fast-food meal in QC. |
 
@@ -164,11 +164,11 @@ Pack overnight belongings before heading out. The itinerary includes a return to
 
 ## Shopping checklist
 
-**Buy all shared groceries, cooking ingredients and seasonings in Zambales during Saturday's market / grocery stop.** The only shared grocery item to bring from QC is the **30 pre-marinated pork BBQ sticks** (kept iced). IanCarl separately prepares and packs Saturday's light breakfast before departure.
+**Buy all shared groceries, cooking ingredients and seasonings in Zambales during Saturday's market / grocery stop.** The only shared grocery item to buy in QC is the **30 pre-marinated pork BBQ sticks** (kept iced during transport). IanCarl separately prepares and packs Saturday's light breakfast before departure.
 
-| Bring from QC | Buy in Zambales / pick up |
+| Buy from QC | Buy in Zambales / pick up |
 | --- | --- |
-| ☐ 30 pre-marinated pork BBQ sticks; keep iced | ☐ Pork for adobo — around 2 kg, cook to confirm |
+| ☐ Buy 30 pre-marinated pork BBQ sticks in QC; keep iced | ☐ Pork for adobo — around 2 kg, cook to confirm |
 | — | ☐ Rice — around 4–5 kg for four rice meals |
 | — | ☐ Sunday breakfast: Spam, eggs and hotdogs; optional longganisa instead of hotdogs |
 | — | ☐ Breakfast drinks: Milo / Swiss Miss; coffee if needed |
