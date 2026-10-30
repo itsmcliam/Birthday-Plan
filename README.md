@@ -164,8 +164,6 @@ Pack overnight belongings before heading out. The itinerary includes a return to
 
 ## Shopping checklist
 
-**Buy all shared groceries, cooking ingredients and seasonings in Zambales during Saturday's market / grocery stop.** The only shared grocery item to buy in QC is the **30 pre-marinated pork BBQ sticks** (kept iced during transport). IanCarl separately prepares and packs Saturday's light breakfast before departure.
-
 | Buy from QC | Buy in Zambales / pick up |
 | --- | --- |
 | ☐ Buy 30 pre-marinated pork BBQ sticks in QC; keep iced | ☐ Pork for adobo — around 2 kg, cook to confirm |
@@ -183,8 +181,6 @@ Pack overnight belongings before heading out. The itinerary includes a return to
 | — | ☐ KDB Sweet Shop cake pickup after groceries |
 | — | ☐ Wideplate takeout ulam pickup |
 | — | ☐ Sunday takeout once confirmed; Fat Belly Deli tentative |
-
-**No Mentos.** Quantities were originally suggested for ten; adjust to final attendance and confirm portions and seasonings with the cooks before buying.
 
 ## Attendance — finalize by November 2
 
@@ -256,10 +252,4 @@ Save these contacts before travel. Source: [Philippine Beach Guide](https://www.
 | Meeting point | **Purok 2 Ariño Parking, Pundaquit** — [operator-supplied map](https://maps.app.goo.gl/vAVGLiaypsbTfios8) |
 | Tourism checkpoint | Before entering Pundaquit: name **Jessilyn Racel Gruezo** as our contact and show the permit image supplied to MC |
 | Confirmed additional fees | **₱20/head environmental fee**, paid at tourism; **₱100/vehicle whole-day parking**. Both included in the shared contribution. |
-
-Permit particulars above are read from the image supplied by Jessilyn to MC; the separate SAMTO list supports the business’s permit status as of its stated date. Boat and return-pickup arrangements still need confirmation. Save the permit image offline before travel.
-
-Source: SAMTO’s published list and caption supplied by MC from the [San Antonio Municipal Tourism Office page](https://www.facebook.com/p/San-Antonio-Municipal-Tourism-Office-61576364490190/). The list establishes permit status as of its stated date; it does not certify the specific boat, weather conditions or booking. Confirm that booking and payment details match the listed business.
-
-San Felipe verification contact: [Turismo ng San Felipe](https://www.facebook.com/turismongsanfelipe/). San Antonio’s coordinator list does not cover businesses in San Felipe.
 
