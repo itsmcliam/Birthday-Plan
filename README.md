@@ -10,14 +10,14 @@
 | --- | --- |
 | Celebration | Anne, MC & Paul • November 7–8, 2026 |
 | Stay | Barte’s grandfather’s house, San Antonio |
-| Headcount | 10 planned: 8 main group + 2 parents |
+| Headcount | **7 total: 5 friends + Barte’s 2 parents** |
 | Meetup | Jollibee Soliven (tentative) • 5:30 AM; leave 6:00 AM |
-| Transport | Barte’s father (tentative); vehicles and seats pending |
+| Transport | Barte’s father driving; confirm vehicle and seating arrangements |
 | Saturday | Beach lunch, ATV and birthday dinner |
 | Sunday | Camara, Capones and Anawangin island hopping |
 | Return | Leave 5:00 PM • Home target 10:00–10:30 PM |
 
-**Trip rule:** Arrive by **5:30 AM**, fully packed. We leave at **6:00 AM sharp**. Latecomers lose their birthday sponsorship, so prepare around **₱4,000 if we’re 10** 😂
+**Trip rule:** Arrive by **5:30 AM**, fully packed. We leave at **6:00 AM sharp**. Latecomers lose their birthday sponsorship, so please be on time 😂
 
 ## Your personal budget
 
@@ -36,6 +36,18 @@
 
 Optional activities, extra food and personal purchases are **KKB**. Any additional venue fees will be confirmed before booking.
 
+### Transportation fuel-sharing plan (7 travelers)
+
+**Estimated round-trip fuel: ₱4,000 total** (planning budget, not a final pump receipt).
+
+| Fuel share | Amount | How it is paid |
+| --- | ---: | --- |
+| Barte’s parents | **₱2,000** | Direct fuel contribution, separate from friends’ pooled money |
+| Five friends | **₱2,000** | ₱400 per friend, **already included** in each friend’s ₱1,500 contribution |
+| **Total** | **₱4,000** | Confirm actual fuel cost after the drive |
+
+Friends’ shared contribution target remains **5 × ₱1,500 = ₱7,500**. The parents’ ₱2,000 fuel contribution is additional to, not part of, the ₱7,500 friends’ pool. Tolls and parking are tracked separately in the shared trip budget.
+
 ## Saturday — November 7
 
 | Time | Saturday, November 7 |
@@ -47,7 +59,7 @@ Optional activities, extra food and personal purchases are **KKB**. Any addition
 | 12:00–12:30 PM | Travel to I Love BayBay. Target arrival 12:30 PM; outside-food permission and the day-use arrangements need a clear reply. |
 | 12:30–1:30 PM | Lunch at the open cottage: Wideplate ulam with house-cooked rice, then bonding and photos. Coordinate the seafood allergy. If errands run late, shorten beach bonding to keep the 2:00 PM ATV start. |
 | 1:30–2:00 PM | Prepare for ATV, meet the guides and attend the safety briefing. Barte’s parents remain at the beach cottage. Pickup point still needs confirmation. |
-| 2:00–5:00 PM | Eight guests ride four ATVs with a separate guide/emergency unit. Package includes waterfalls, coastal and beach trails, carabao ride, **trekking to the falls**, about one hour at the falls and drone shots. Guide must arrange upper-falls access before its 4:00 PM cutoff. |
+| 2:00–5:00 PM | Five friends plan to ride ATVs; reconfirm the revised rider count, required ATV units and price with the operator. Guide/emergency arrangements remain subject to confirmation. Package includes waterfalls, coastal and beach trails, carabao ride, **trekking to the falls**, about one hour at the falls and drone shots. Guide must arrange upper-falls access before its 4:00 PM cutoff. |
 | 5:00–6:00 PM | Reunite with the parents, wash up and collect belongings. Confirm resort showers and allowed day-tour hours. |
 | 6:00–8:00 PM | Return to the house, cook pork BBQ, pork adobo and rice, then eat together. |
 | 8:00 PM onward | Birthday cake for Anne, MC and Paul; games, music, photos and bonding at the house. Prepare Sunday’s bags. The driver needs sufficient rest. |
@@ -182,17 +194,17 @@ Pack overnight belongings before heading out. The itinerary includes a return to
 | — | ☐ Wideplate takeout ulam pickup |
 | — | ☐ Sunday takeout once confirmed; Fat Belly Deli tentative |
 
-## Attendance — finalize by November 2
+## Attendance — updated November 5
 
 | Person | Status | Notes |
 | --- | --- | --- |
-| MC / Anne / Karl / Ian Barte / IanCarl | Confirmed | Five confirmed |
-| Blessy | Pending | Mother approved; father’s permission still pending |
-| Jannelle / Paul / Ian Carreon | Not joining | Confirmed unavailable |
-| Barte’s parents | Planned, not final | Confirm both parents and driver arrangements |
-| Working total | Up to eight | Five confirmed + Blessy pending + two parents if joining |
+| MC / Anne / Karl / Ian Barte / IanCarl | Joining | **5 friends** |
+| Barte’s parents | Joining | **2 parents**; Barte’s father is the driver |
+| Blessy | Not in current headcount | Reconfirm separately if plans change |
+| Jannelle / Paul / Ian Carreon | Not joining | Not included in budget |
+| **Trip total** | **7 people** | **5 friends + 2 parents** |
 
-Please confirm final attendance by **November 2**. Attendance is now up to **eight**; itinerary headcounts remain provisional.
+Budget group activities for **five friends** unless the parents also opt in. For November 8 island hopping, ask Jessilyn to reconfirm the earlier **₱3,500 private-boat quote for five passengers** and the price if seven board. A **₱500 boat deposit** was quoted but is not yet recorded as paid.
 
 ## Routes and venue links
 
@@ -202,7 +214,7 @@ Please confirm final attendance by **November 2**. Attendance is now up to **eig
 | Sunday driving route | [Open map](https://maps.app.goo.gl/XKAea3D4XjEApZs69) | — | — |
 | I Love BayBay | [Open map](https://maps.app.goo.gl/rCENhvGy7jd94VB37) | [Facebook](https://www.facebook.com/profile.php?id=100077308951284) | Deposit paid Oct 28 |
 | Liwliwa ATV Getaways | [Open map](https://maps.app.goo.gl/s4er5kgtLcWiRMV8A) | [Facebook](https://www.facebook.com/profile.php?id=61559843702364) | Deposit paid Oct 28 |
-| Jessilyn Travel and Tours | [Open map](https://maps.app.goo.gl/vAVGLiaypsbTfios8) | [Facebook](https://www.facebook.com/profile.php?id=100083507706578) | Not paid; booking pending |
+| Jessilyn Travel and Tours | [Open map](https://maps.app.goo.gl/vAVGLiaypsbTfios8) | [Facebook](https://www.facebook.com/profile.php?id=100083507706578) | ₱500 deposit quoted; payment/booking pending |
 | KDB Sweet Shop | [Open map](https://maps.app.goo.gl/ZW9u7sivSZY92D2J9) | [Facebook](https://www.facebook.com/KDBSweetShop/) | Deposit paid Oct 28 |
 | Wideplate | [Open map](https://maps.app.goo.gl/J9N4yDfm3ZjHLgPx8) | [Facebook](https://www.facebook.com/wideplaterestaurant/) | — |
 | Fat Belly Deli (tentative) | [Open map](https://maps.app.goo.gl/aYWhckyfEJmvZSQB6) | [Facebook](https://www.facebook.com/fatbellykfarmdeli) | — |
