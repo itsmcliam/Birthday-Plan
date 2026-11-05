@@ -50,7 +50,7 @@ Optional activities, extra food and personal purchases are **KKB**. Any addition
 
 ### Updated estimate for the seven-person trip (Nov 5)
 
-The **overall group estimate is ₱30,300**, down from the earlier eight-person scenario. This includes **₱3,500 for island hopping (five passengers)**, **₱1,400 for seven I Love BayBay admissions**, **₱500 for five Anawangin admissions**, and **₱100 for five tourism fees**. Other planning allocations remain unchanged, including **₱10,000 for ATVs**, which is **not yet a confirmed quote for five riders**. The ₱2,500 already-paid ATV/BayBay/cake deposits are included in the estimate; do not add them twice. Additional food and supplies may cost extra.
+The **overall group estimate is ₱29,800**, reflecting the revised **₱4,000 combined groceries + cake + homemade BBQ allocation** (previously ₱4,500). This includes **₱3,500 for island hopping (five passengers)**, **₱1,400 for seven I Love BayBay admissions**, **₱500 for five Anawangin admissions**, and **₱100 for five tourism fees**. Other planning allocations remain unchanged, including **₱10,000 for ATVs**, which is **not yet a confirmed quote for five riders**. The ₱2,500 already-paid ATV/BayBay/cake deposits are included in the estimate; do not add them twice. **No separate BBQ line item** is budgeted. Assuming parents pay ₱2,000 for gasoline and the four other friends contribute ₱1,500 each (₱6,000), **MC's organizer share is ₱21,800**, with **₱19,300 remaining** after the recorded ₱2,500 paid deposits. Any extras and MC's Sunday QC dinner are excluded.
 
 ## Saturday — November 7
 
@@ -58,14 +58,14 @@ The **overall group estimate is ₱30,300**, down from the earlier eight-person 
 | --- | --- |
 | 5:30–6:00 AM | Meet and load at Jollibee Soliven (tentative). IanCarl prepares and packs the light breakfast. Coordinate MC’s motorcycle parking before departure. |
 | 6:00–10:00 AM | Travel to Zambales. Allow about four hours, with a short rest stop if needed. |
-| 10:00–11:00 AM | One-hour San Marcelino market / grocery stop. Buy all shared groceries in Zambales, including cooking oil, soy sauce, vinegar, other seasonings, Sunday breakfast ingredients, rice, fruit, drinking water, ice and charcoal. The 30 pre-marinated pork BBQ sticks are brought from QC; IanCarl brings Saturday's light breakfast already prepared. |
+| 10:00–11:00 AM | One-hour San Marcelino market / grocery stop. Buy all shared groceries in Zambales, including cooking oil, soy sauce, vinegar, other seasonings, Sunday breakfast ingredients, rice, fruit, drinking water, ice and charcoal. Homemade BBQ ingredients (fresh pork, marinade and sticks/skewers) will be bought in Zambales, within the same ₱4,000 groceries + cake budget; IanCarl brings Saturday's light breakfast already prepared. |
 | 11:00 AM–12:00 NN | KDB Sweet Shop cake pickup and preordered Wideplate ulam pickup. House stop: cook lunch rice, refrigerate meat and cake, unload and prepare beach bags. Divide tasks; this is a tight target. |
 | 12:00–12:30 PM | Travel to I Love BayBay. Target arrival 12:30 PM; outside-food permission and the day-use arrangements need a clear reply. |
 | 12:30–1:30 PM | Lunch at the open cottage: Wideplate ulam with house-cooked rice, then bonding and photos. Coordinate the seafood allergy. If errands run late, shorten beach bonding to keep the 2:00 PM ATV start. |
 | 1:30–2:00 PM | Prepare for ATV, meet the guides and attend the safety briefing. Barte’s parents remain at the beach cottage. Pickup point still needs confirmation. |
 | 2:00–5:00 PM | Five friends plan to ride ATVs; reconfirm the revised rider count, required ATV units and price with the operator. Guide/emergency arrangements remain subject to confirmation. Package includes waterfalls, coastal and beach trails, carabao ride, **trekking to the falls**, about one hour at the falls and drone shots. Guide must arrange upper-falls access before its 4:00 PM cutoff. |
 | 5:00–6:00 PM | Reunite with the parents, wash up and collect belongings. Confirm resort showers and allowed day-tour hours. |
-| 6:00–8:00 PM | Return to the house, cook pork BBQ, pork adobo and rice, then eat together. |
+| 6:00–8:00 PM | Return to the house, prepare and grill homemade pork BBQ, cook rice, and eat together. No separate pork adobo dish is currently planned. |
 | 8:00 PM onward | Birthday cake for Anne, MC and Paul; games, music, photos and bonding at the house. Prepare Sunday’s bags. The driver needs sufficient rest. |
 
 ### Saturday meals and assignments
@@ -74,7 +74,7 @@ The **overall group estimate is ₱30,300**, down from the earlier eight-person 
 | --- | --- |
 | Saturday light breakfast | IanCarl prepares and packs it. |
 | Saturday lunch | Bistek Tagalog, Crispy Pork Sisig, Classic Garlic Bangus, Pinakbet with Lechon Kawali and Pork Lumpia; house rice. Portions and allergy arrangements pending. |
-| Saturday dinner | 30 pork BBQ sticks + pork adobo + rice. Barte’s father for adobo, subject to confirmation; two BBQ grillers and rice cook needed. |
+| Saturday dinner | Homemade pork BBQ + rice (instead of a separate adobo meal). Buy raw pork, BBQ marinade ingredients and skewers in Zambales; assign BBQ prep, grillers and rice cook. Included in ₱4,000 groceries + cake allocation. |
 
 ## Sunday — November 8
 
@@ -182,13 +182,13 @@ Pack overnight belongings before heading out. The itinerary includes a return to
 
 | Buy from QC | Buy in Zambales / pick up |
 | --- | --- |
-| ☐ Buy 30 pre-marinated pork BBQ sticks in QC; keep iced | ☐ Pork for adobo — around 2 kg, cook to confirm |
+| No separate QC BBQ purchase planned | ☐ Fresh pork for homemade BBQ — confirm quantity for 7 people |
 | — | ☐ Rice — around 4–5 kg for four rice meals |
 | — | ☐ Sunday breakfast: Spam, eggs and hotdogs; optional longganisa instead of hotdogs |
 | — | ☐ Breakfast drinks: Milo / Swiss Miss; coffee if needed |
 | — | ☐ Cooking oil, soy sauce and vinegar |
 | — | ☐ Salt, peppercorns, laurel, garlic, onions and calamansi |
-| — | ☐ Any other sauces, marinades and seasonings needed for BBQ, adobo, rice and breakfast (confirm with cooks) |
+| — | ☐ BBQ skewers, marinade ingredients and other sauces/seasonings needed for homemade BBQ, rice and breakfast (confirm with cooks) |
 | — | ☐ Bananas and one small watermelon |
 | — | ☐ Drinking water — start with 20 L; replenish as needed |
 | — | ☐ Ice and charcoal |
