@@ -46,7 +46,11 @@ Optional activities, extra food and personal purchases are **KKB**. Any addition
 | Five friends | **₱2,000** | ₱400 per friend, **already included** in each friend’s ₱1,500 contribution |
 | **Total** | **₱4,000** | Confirm actual fuel cost after the drive |
 
-Friends’ shared contribution target remains **5 × ₱1,500 = ₱7,500**. The parents’ ₱2,000 fuel contribution is additional to, not part of, the ₱7,500 friends’ pool. Tolls and parking are tracked separately in the shared trip budget.
+**Friends’ contribution math:** the group has **five friends including MC**. Collect **4 × ₱1,500 = ₱6,000** from the four other friends; MC covers the organizer difference. Counting MC’s notional ₱1,500 share gives ₱7,500 across all five, but **₱7,500 is not the amount MC collects at meetup**. Barte’s parents contribute ₱2,000 for fuel directly, outside the friends’ pool. Tolls and parking are separate line items.
+
+### Updated estimate for the seven-person trip (Nov 5)
+
+The **overall group estimate is ₱30,300**, down from the earlier eight-person scenario. This includes **₱3,500 for island hopping (five passengers)**, **₱1,400 for seven I Love BayBay admissions**, **₱500 for five Anawangin admissions**, and **₱100 for five tourism fees**. Other planning allocations remain unchanged, including **₱10,000 for ATVs**, which is **not yet a confirmed quote for five riders**. The ₱2,500 already-paid ATV/BayBay/cake deposits are included in the estimate; do not add them twice. Additional food and supplies may cost extra.
 
 ## Saturday — November 7
 
@@ -204,7 +208,7 @@ Pack overnight belongings before heading out. The itinerary includes a return to
 | Jannelle / Paul / Ian Carreon | Not joining | Not included in budget |
 | **Trip total** | **7 people** | **5 friends + 2 parents** |
 
-Budget group activities for **five friends** unless the parents also opt in. For November 8 island hopping, ask Jessilyn to reconfirm the earlier **₱3,500 private-boat quote for five passengers** and the price if seven board. A **₱500 boat deposit** was quoted but is not yet recorded as paid.
+Budget the **ATV and November 8 island hopping for five friends only**; Barte’s parents are **not participating** in either. **Jessilyn confirmed ₱3,500 for the private boat for 5 passengers**. A **₱500 boat deposit** was quoted but is not yet recorded as paid. The revised ATV price for five riders is still pending.
 
 ## Routes and venue links
 
@@ -214,7 +218,7 @@ Budget group activities for **five friends** unless the parents also opt in. For
 | Sunday driving route | [Open map](https://maps.app.goo.gl/XKAea3D4XjEApZs69) | — | — |
 | I Love BayBay | [Open map](https://maps.app.goo.gl/rCENhvGy7jd94VB37) | [Facebook](https://www.facebook.com/profile.php?id=100077308951284) | Deposit paid Oct 28 |
 | Liwliwa ATV Getaways | [Open map](https://maps.app.goo.gl/s4er5kgtLcWiRMV8A) | [Facebook](https://www.facebook.com/profile.php?id=61559843702364) | Deposit paid Oct 28 |
-| Jessilyn Travel and Tours | [Open map](https://maps.app.goo.gl/vAVGLiaypsbTfios8) | [Facebook](https://www.facebook.com/profile.php?id=100083507706578) | ₱500 deposit quoted; payment/booking pending |
+| Jessilyn Travel and Tours | [Open map](https://maps.app.goo.gl/vAVGLiaypsbTfios8) | [Facebook](https://www.facebook.com/profile.php?id=100083507706578) | **₱3,500 confirmed for 5 pax**; ₱500 deposit quoted, payment pending |
 | KDB Sweet Shop | [Open map](https://maps.app.goo.gl/ZW9u7sivSZY92D2J9) | [Facebook](https://www.facebook.com/KDBSweetShop/) | Deposit paid Oct 28 |
 | Wideplate | [Open map](https://maps.app.goo.gl/J9N4yDfm3ZjHLgPx8) | [Facebook](https://www.facebook.com/wideplaterestaurant/) | — |
 | Fat Belly Deli (tentative) | [Open map](https://maps.app.goo.gl/aYWhckyfEJmvZSQB6) | [Facebook](https://www.facebook.com/fatbellykfarmdeli) | — |
