@@ -4,7 +4,7 @@
 
 ## Trip at a glance
 
-[Full printable plan](Birthday-Trip-Plan.pdf) · [Parents’ images](assets/parents/README.md)
+[Trip itinerary below](#saturday--november-7) · [Parents’ images](assets/parents/README.md)
 
 | Detail | Plan |
 | --- | --- |
@@ -19,52 +19,17 @@
 
 **Trip rule:** Arrive by **5:30 AM**, fully packed. We leave at **6:00 AM sharp**. Latecomers lose their birthday sponsorship, so please be on time 😂
 
-## Your personal budget
+## Shared trip arrangements
 
-**Prepare at least ₱2,000. Bring extra cash if possible.**
+All prices, budgets, contribution amounts and payment details are tracked **privately**, not in this public GitHub trip plan.
 
-| Amount | What to do |
-| --- | --- |
-| **₱1,500** | Give to MC at the Saturday meetup |
-| **₱500+** | Keep for Sunday dinner and personal extras |
+- **Headcount:** five friends and Barte's two parents (seven people in total).
+- **November 6:** MC will send the planned transport advance to Barte; Barte will allocate his trip contribution toward gas and toll RFID preparation. **These transfers are planned, not yet marked as paid.**
+- **Parents' transport contribution:** confirmed. Keep the amount and payment details in the private budget.
+- **November 7:** Travel to Zambales as planned, with the Saturday beach and ATV schedule.
+- **November 8:** Five friends will go island hopping; Barte's parents will not join the boat or ATV activities.
 
-**Your ₱1,500 includes:**
-
-- **Activities:** planned ATV and private island hopping.
-- **Food:** shared Saturday lunch and dinner, Sunday breakfast and island lunch.
-- **Transport and fees:** fuel, tolls, entrances, environmental and parking fees.
-
-Optional activities, extra food and personal purchases are **KKB**. Any additional venue fees will be confirmed before booking.
-
-### Transportation fuel-sharing plan (7 travelers)
-
-**Estimated round-trip fuel: ₱4,000 total** (planning budget, not a final pump receipt).
-
-| Fuel share | Amount | How it is paid |
-| --- | ---: | --- |
-| Barte’s parents | **₱2,000** | Direct fuel contribution, separate from friends’ pooled money |
-| Five friends | **₱2,000** | ₱400 per friend, **already included** in each friend’s ₱1,500 contribution |
-| **Total** | **₱4,000** | Confirm actual fuel cost after the drive |
-
-**Friends’ contribution math:** the group has **five friends including MC**. The four other friends owe **4 × ₱1,500 = ₱6,000 in total**, and MC covers the organizer difference. **Barte’s ₱1,500 share is planned to go directly toward the Nov 6 fuel/toll preparation**, rather than being handed separately to MC on Nov 7. Therefore, after that happens, **only 3 other friends × ₱1,500 = ₱4,500 remains to be collected at meetup**. Counting MC’s notional ₱1,500 share gives ₱7,500 across all five, but **₱7,500 is not the amount MC collects at meetup**. Barte’s parents’ previously planned **₱2,000 for fuel** remains a **separate contribution to reconfirm**; it is **not part of Barte’s own ₱1,500 contribution**. Tolls and parking are separate budget line items.
-
-### November 6: planned transport preparation (NOT YET PAID)
-
-Barte’s family plans to buy fuel and load toll RFID on **Friday, November 6, 2026**, ahead of the November 7 departure.
-
-| Planned source | Amount | Status |
-| --- | ---: | --- |
-| MC sends money to Ian Barte | **₱2,500** | **To transfer**, Nov 6 |
-| Ian Barte’s own trip contribution | **₱1,500** | **To allocate**, Nov 6 (counts as his ₱1,500 group share) |
-| **Transport preparation cash** | **₱4,000** | Planned for fuel + toll RFID; allocation between fuel and toll not yet specified |
-| Barte’s parents’ previously planned fuel share | **₱2,000** | Separate/confirm whether still contributing |
-
-**Reconciliation:** The underlying transport **budget remains ₱4,000 fuel + ₱2,000 tolls = ₱6,000**; this planned **₱4,000 transport cash is an advance/way to pay, not an additional expense or a new total budget**. If the separate ₱2,000 parents’ share is still paid, the available transport funding totals ₱6,000. Do **not** deduct MC’s ₱2,500 as *already paid* until the transfer succeeds, or count Barte’s ₱1,500 twice. Keep a receipt or screenshots of MC’s transfer, the fuel purchase and the toll top-up.
-
-
-### Updated estimate for the seven-person trip (Nov 5)
-
-The **overall group estimate is ₱29,800**, reflecting the revised **₱4,000 combined groceries + cake + homemade BBQ allocation** (previously ₱4,500). This includes **₱3,500 for island hopping (five passengers)**, **₱1,400 for seven I Love BayBay admissions**, **₱500 for five Anawangin admissions**, and **₱100 for five tourism fees**. Other planning allocations remain unchanged, including **₱10,000 for ATVs**, which is **not yet a confirmed quote for five riders**. The ₱2,500 already-paid ATV/BayBay/cake deposits are included in the estimate; do not add them twice. **No separate BBQ line item** is budgeted. Assuming parents pay ₱2,000 for gasoline and the four other friends contribute ₱1,500 each (₱6,000), **MC's organizer share is ₱21,800**, with **₱19,300 remaining** after the recorded ₱2,500 paid deposits. Any extras and MC's Sunday QC dinner are excluded.
+For personal preparation, bring your own spending money, ID, medicines, and valuables. Ask MC privately about contribution/payment details.
 
 ## Saturday — November 7
 
@@ -72,12 +37,12 @@ The **overall group estimate is ₱29,800**, reflecting the revised **₱4,000 c
 | --- | --- |
 | 5:30–6:00 AM | Meet and load at Jollibee Soliven (tentative). IanCarl prepares and packs the light breakfast. Coordinate MC’s motorcycle parking before departure. |
 | 6:00–10:00 AM | Travel to Zambales. Allow about four hours, with a short rest stop if needed. |
-| 10:00–11:00 AM | One-hour San Marcelino market / grocery stop. Buy all shared groceries in Zambales, including cooking oil, soy sauce, vinegar, other seasonings, Sunday breakfast ingredients, rice, fruit, drinking water, ice and charcoal. Homemade BBQ ingredients (fresh pork, marinade and sticks/skewers) will be bought in Zambales, within the same ₱4,000 groceries + cake budget; IanCarl brings Saturday's light breakfast already prepared. |
+| 10:00–11:00 AM | One-hour San Marcelino market / grocery stop. Buy all shared groceries in Zambales, including cooking oil, soy sauce, vinegar, other seasonings, Sunday breakfast ingredients, rice, fruit, drinking water, ice and charcoal. Homemade BBQ ingredients (fresh pork, marinade and sticks/skewers) will be bought in Zambales, within the shared grocery-and-cake allocation; IanCarl brings Saturday's light breakfast already prepared. |
 | 11:00 AM–12:00 NN | KDB Sweet Shop cake pickup and preordered Wideplate ulam pickup. House stop: cook lunch rice, refrigerate meat and cake, unload and prepare beach bags. Divide tasks; this is a tight target. |
 | 12:00–12:30 PM | Travel to I Love BayBay. Target arrival 12:30 PM; outside-food permission and the day-use arrangements need a clear reply. |
 | 12:30–1:30 PM | Lunch at the open cottage: Wideplate ulam with house-cooked rice, then bonding and photos. Coordinate the seafood allergy. If errands run late, shorten beach bonding to keep the 2:00 PM ATV start. |
 | 1:30–2:00 PM | Prepare for ATV, meet the guides and attend the safety briefing. Barte’s parents remain at the beach cottage. Pickup point still needs confirmation. |
-| 2:00–5:00 PM | Five friends plan to ride ATVs; reconfirm the revised rider count, required ATV units and price with the operator. Guide/emergency arrangements remain subject to confirmation. Package includes waterfalls, coastal and beach trails, carabao ride, **trekking to the falls**, about one hour at the falls and drone shots. Guide must arrange upper-falls access before its 4:00 PM cutoff. |
+| 2:00–5:00 PM | Five friends plan to ride ATVs; reconfirm the revised rider count, required ATV units and arrangements with the operator. Guide/emergency arrangements remain subject to confirmation. Package includes waterfalls, coastal and beach trails, carabao ride, **trekking to the falls**, about one hour at the falls and drone shots. Guide must arrange upper-falls access before its 4:00 PM cutoff. |
 | 5:00–6:00 PM | Reunite with the parents, wash up and collect belongings. Confirm resort showers and allowed day-tour hours. |
 | 6:00–8:00 PM | Return to the house, prepare and grill homemade pork BBQ, cook rice, and eat together. No separate pork adobo dish is currently planned. |
 | 8:00 PM onward | Birthday cake for Anne, MC and Paul; games, music, photos and bonding at the house. Prepare Sunday’s bags. The driver needs sufficient rest. |
@@ -88,7 +53,7 @@ The **overall group estimate is ₱29,800**, reflecting the revised **₱4,000 c
 | --- | --- |
 | Saturday light breakfast | IanCarl prepares and packs it. |
 | Saturday lunch | Bistek Tagalog, Crispy Pork Sisig, Classic Garlic Bangus, Pinakbet with Lechon Kawali and Pork Lumpia; house rice. Portions and allergy arrangements pending. |
-| Saturday dinner | Homemade pork BBQ + rice (instead of a separate adobo meal). Buy raw pork, BBQ marinade ingredients and skewers in Zambales; assign BBQ prep, grillers and rice cook. Included in ₱4,000 groceries + cake allocation. |
+| Saturday dinner | Homemade pork BBQ + rice (instead of a separate adobo meal). Buy raw pork, BBQ marinade ingredients and skewers in Zambales; assign BBQ prep, grillers and rice cook. Included in the shared grocery-and-cake plan. |
 
 ## Sunday — November 8
 
@@ -96,7 +61,7 @@ The **overall group estimate is ₱29,800**, reflecting the revised **₱4,000 c
 | --- | --- |
 | 5:30–7:00 AM | Karl and MC cook sinangag, Spam, eggs and hotdogs. Longganisa is optional instead of hotdogs; serve Milo / Swiss Miss, with optional coffee for Barte's parents. Confirm quantities with Karl. Cook island-lunch rice; Fat Belly Deli early takeout is tentative. |
 | 7:00–7:30 AM | Eat, clean up and pack day bags, food and water. Collect Fat Belly takeout only if early pickup is confirmed; organize overnight bags for the house return. |
-| 7:30–8:00 AM | Travel to the boat meeting point. Allow about 15 minutes from Jollibee San Antonio, plus time from the house and boarding buffer. Meeting point: Purok 2 Ariño Parking. At the tourism checkpoint before Pundaquit, pay the ₱20/head fee from the shared fund, name Jessilyn Racel Gruezo as our contact and show her permit image. Whole-day parking is ₱100 per vehicle. |
+| 7:30–8:00 AM | Travel to the boat meeting point. Allow about 15 minutes from Jollibee San Antonio, plus time from the house and boarding buffer. Meeting point: Purok 2 Ariño Parking. At the tourism checkpoint before Pundaquit, settle the tourism fee from the shared fund, name Jessilyn Racel Gruezo as our contact and show her permit image. Whole-day parking is subject to the operator's instructions. |
 | 8:00–8:30 AM | Meet Jessilyn’s operator, load food and bags, and prepare life jackets. Confirm the stop order and return pickup. |
 | 8:30–10:30 AM | Boat travel and Camara / Capones sightseeing and photo stops. **Optional Capones lighthouse hike** only if access, landing point and stop duration allow; confirm any fees with Jessilyn. Stop order and timing depend on the operator and sea conditions. |
 | 10:30 AM–12:00 NN | Reach Anawangin, settle at an open table/cottage, swim and relax. Table reservation and CR/shower inclusions still need confirmation. |
@@ -121,7 +86,7 @@ The **overall group estimate is ₱29,800**, reflecting the revised **₱4,000 c
 | Clothes and footwear | Personal essentials |
 | --- | --- |
 | ☐ Saturday travel / ATV outfit | ☐ Wallet, ID and cash |
-| ☐ Two sets of swimwear, if available | ☐ ₱1,500 shared contribution; ₱500 personal money minimum, plus extra |
+| ☐ Two sets of swimwear, if available | ☐ Arrange your shared contribution privately; bring personal spending money |
 | ☐ Dry outfit after Saturday activities | ☐ Phone, charger and charged power bank |
 | ☐ Sleepwear | ☐ Refillable water bottle |
 | ☐ Sunday outfit / cover-up | ☐ Toothbrush, toothpaste, soap, shampoo and deodorant |
@@ -222,7 +187,7 @@ Pack overnight belongings before heading out. The itinerary includes a return to
 | Jannelle / Paul / Ian Carreon | Not joining | Not included in budget |
 | **Trip total** | **7 people** | **5 friends + 2 parents** |
 
-Budget the **ATV and November 8 island hopping for five friends only**; Barte’s parents are **not participating** in either. **Jessilyn confirmed ₱3,500 for the private boat for 5 passengers**. A **₱500 boat deposit** was quoted but is not yet recorded as paid. The revised ATV price for five riders is still pending.
+Plan the **ATV and November 8 island hopping for five friends only**; Barte’s parents are **not participating** in either. Jessilyn confirmed the **medium private boat for 5 passengers**. The booking deposit is not yet recorded as paid. The revised ATV arrangements for five riders are still pending.
 
 ## Routes and venue links
 
@@ -232,21 +197,16 @@ Budget the **ATV and November 8 island hopping for five friends only**; Barte’
 | Sunday driving route | [Open map](https://maps.app.goo.gl/XKAea3D4XjEApZs69) | — | — |
 | I Love BayBay | [Open map](https://maps.app.goo.gl/rCENhvGy7jd94VB37) | [Facebook](https://www.facebook.com/profile.php?id=100077308951284) | Deposit paid Oct 28 |
 | Liwliwa ATV Getaways | [Open map](https://maps.app.goo.gl/s4er5kgtLcWiRMV8A) | [Facebook](https://www.facebook.com/profile.php?id=61559843702364) | Deposit paid Oct 28 |
-| Jessilyn Travel and Tours | [Open map](https://maps.app.goo.gl/vAVGLiaypsbTfios8) | [Facebook](https://www.facebook.com/profile.php?id=100083507706578) | **₱3,500 confirmed for 5 pax**; ₱500 deposit quoted, payment pending |
+| Jessilyn Travel and Tours | [Open map](https://maps.app.goo.gl/vAVGLiaypsbTfios8) | [Facebook](https://www.facebook.com/profile.php?id=100083507706578) | Medium private boat for 5 passengers confirmed; deposit payment pending |
 | KDB Sweet Shop | [Open map](https://maps.app.goo.gl/ZW9u7sivSZY92D2J9) | [Facebook](https://www.facebook.com/KDBSweetShop/) | Deposit paid Oct 28 |
 | Wideplate | [Open map](https://maps.app.goo.gl/J9N4yDfm3ZjHLgPx8) | [Facebook](https://www.facebook.com/wideplaterestaurant/) | — |
 | Fat Belly Deli (tentative) | [Open map](https://maps.app.goo.gl/aYWhckyfEJmvZSQB6) | [Facebook](https://www.facebook.com/fatbellykfarmdeli) | — |
 
-<details>
-<summary>View redacted deposit receipts</summary>
+<!-- Deposit receipts and payment amounts are intentionally not displayed in the public itinerary. -->
 
-![Redacted receipts: ATV deposit ₱1,000; I Love BayBay deposit ₱500; KDB cake deposit ₱1,000, paid October 28, 2026](assets/payments/deposit-receipts-redacted.png)
 
-Personal details and transaction references are hidden. Original receipts are kept privately by MC. Payment status does not replace the providers’ booking acknowledgments.
 
-</details>
-
-Routes cover the main stops; grocery, cake and takeout pickups need additional time. Jessilyn confirmed Purok 2 Ariño Parking as the meeting point. Tourism fee: ₱20/head at the checkpoint; whole-day parking: ₱100/vehicle, both included in the shared fund.
+Routes cover the main stops; grocery, cake and takeout pickups need additional time. Jessilyn confirmed Purok 2 Ariño Parking as the meeting point. Tourism and parking fees are covered privately in the shared planning budget.
 
 ## Emergency contacts — San Antonio, Zambales
 
@@ -281,5 +241,5 @@ Save these contacts before travel. Source: [Philippine Beach Guide](https://www.
 | Registered business address | **Purok 7, Pundaquit, San Antonio, Zambales** |
 | Meeting point | **Purok 2 Ariño Parking, Pundaquit** — [operator-supplied map](https://maps.app.goo.gl/vAVGLiaypsbTfios8) |
 | Tourism checkpoint | Before entering Pundaquit: name **Jessilyn Racel Gruezo** as our contact and show the permit image supplied to MC |
-| Confirmed additional fees | **₱20/head environmental fee**, paid at tourism; **₱100/vehicle whole-day parking**. Both included in the shared contribution. |
+| Checkpoint and parking | Environmental/tourism fee at the checkpoint and whole-day vehicle parking apply; amounts are tracked privately. |
 
