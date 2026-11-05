@@ -46,7 +46,21 @@ Optional activities, extra food and personal purchases are **KKB**. Any addition
 | Five friends | **₱2,000** | ₱400 per friend, **already included** in each friend’s ₱1,500 contribution |
 | **Total** | **₱4,000** | Confirm actual fuel cost after the drive |
 
-**Friends’ contribution math:** the group has **five friends including MC**. Collect **4 × ₱1,500 = ₱6,000** from the four other friends; MC covers the organizer difference. Counting MC’s notional ₱1,500 share gives ₱7,500 across all five, but **₱7,500 is not the amount MC collects at meetup**. Barte’s parents contribute ₱2,000 for fuel directly, outside the friends’ pool. Tolls and parking are separate line items.
+**Friends’ contribution math:** the group has **five friends including MC**. The four other friends owe **4 × ₱1,500 = ₱6,000 in total**, and MC covers the organizer difference. **Barte’s ₱1,500 share is planned to go directly toward the Nov 6 fuel/toll preparation**, rather than being handed separately to MC on Nov 7. Therefore, after that happens, **only 3 other friends × ₱1,500 = ₱4,500 remains to be collected at meetup**. Counting MC’s notional ₱1,500 share gives ₱7,500 across all five, but **₱7,500 is not the amount MC collects at meetup**. Barte’s parents’ previously planned **₱2,000 for fuel** remains a **separate contribution to reconfirm**; it is **not part of Barte’s own ₱1,500 contribution**. Tolls and parking are separate budget line items.
+
+### November 6: planned transport preparation (NOT YET PAID)
+
+Barte’s family plans to buy fuel and load toll RFID on **Friday, November 6, 2026**, ahead of the November 7 departure.
+
+| Planned source | Amount | Status |
+| --- | ---: | --- |
+| MC sends money to Ian Barte | **₱2,500** | **To transfer**, Nov 6 |
+| Ian Barte’s own trip contribution | **₱1,500** | **To allocate**, Nov 6 (counts as his ₱1,500 group share) |
+| **Transport preparation cash** | **₱4,000** | Planned for fuel + toll RFID; allocation between fuel and toll not yet specified |
+| Barte’s parents’ previously planned fuel share | **₱2,000** | Separate/confirm whether still contributing |
+
+**Reconciliation:** The underlying transport **budget remains ₱4,000 fuel + ₱2,000 tolls = ₱6,000**; this planned **₱4,000 transport cash is an advance/way to pay, not an additional expense or a new total budget**. If the separate ₱2,000 parents’ share is still paid, the available transport funding totals ₱6,000. Do **not** deduct MC’s ₱2,500 as *already paid* until the transfer succeeds, or count Barte’s ₱1,500 twice. Keep a receipt or screenshots of MC’s transfer, the fuel purchase and the toll top-up.
+
 
 ### Updated estimate for the seven-person trip (Nov 5)
 
