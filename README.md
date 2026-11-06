@@ -4,27 +4,23 @@
 
 ## Trip at a glance
 
-[Trip itinerary below](#saturday--november-7) · [Parents’ images](assets/parents/README.md)
-
 | Detail | Plan |
 | --- | --- |
 | Celebration | Anne & MC • November 7–8, 2026 |
 | Stay | Barte’s grandfather’s house, San Antonio |
 | Headcount | **7 total: 5 friends + Barte’s 2 parents** |
-| Meetup | Jollibee Soliven (tentative) • 5:30 AM; leave 6:00 AM |
+| Meetup | Jollibee Soliven (tentative) • meet 6:30 AM; depart **7:00 AM** |
 | Transport | Barte’s father driving; confirm vehicle and seating arrangements |
 | Saturday | Beach lunch, ATV and birthday dinner |
 | Sunday | Camara, Capones and Anawangin island hopping |
 | Return | Leave 5:00 PM • Home target 10:00–10:30 PM |
-
-**Trip rule:** Arrive by **5:30 AM**, fully packed. We leave at **6:00 AM sharp**. Latecomers lose their birthday sponsorship, so please be on time 😂
 
 ## Shared trip arrangements
 
 All prices, budgets, contribution amounts and payment details are tracked **privately**, not in this public GitHub trip plan.
 
 - **Headcount:** five friends and Barte's two parents (seven people in total).
-- **November 6:** MC will send the planned transport advance to Barte; Barte will allocate his trip contribution toward gas and toll RFID preparation. **These transfers are planned, not yet marked as paid.**
+- **November 6:** MC has sent Barte the transport advance; Barte plans to allocate his trip contribution and prepare gas and toll RFID before departure. Confirm fuel and toll loading when done.
 - **Parents' transport contribution:** confirmed. Keep the amount and payment details in the private budget.
 - **November 7:** Travel to Zambales as planned, with the Saturday beach and ATV schedule.
 - **November 8:** Five friends will go island hopping; Barte's parents will not join the boat or ATV activities.
@@ -35,13 +31,13 @@ For personal preparation, bring your own spending money, ID, medicines, and valu
 
 | Time | Saturday, November 7 |
 | --- | --- |
-| 5:30–6:00 AM | Meet and load at Jollibee Soliven (tentative). IanCarl prepares and packs the light breakfast. Coordinate MC’s motorcycle parking before departure. |
-| 6:00–10:00 AM | Travel to Zambales. Allow about four hours, with a short rest stop if needed. |
-| 10:00–11:00 AM | One-hour San Marcelino market / grocery stop. Buy all shared groceries in Zambales, including cooking oil, soy sauce, vinegar, other seasonings, Sunday breakfast ingredients, rice, fruit, drinking water, ice and charcoal. Homemade BBQ and pork adobo ingredients will be bought in Zambales, within the shared grocery-and-cake plan; IanCarl brings Saturday's light breakfast already prepared. |
-| 11:00 AM–12:00 NN | KDB Sweet Shop cake pickup and preordered Wideplate ulam pickup. House stop: cook lunch rice, refrigerate meat and cake, unload and prepare beach bags. Divide tasks; this is a tight target. |
-| 12:00–12:30 PM | Travel to I Love BayBay. Target arrival 12:30 PM; outside-food permission and the day-use arrangements need a clear reply. |
-| 12:30–1:30 PM | Lunch at the open cottage: Wideplate ulam with house-cooked rice, then bonding and photos. Coordinate the seafood allergy. If errands run late, shorten beach bonding to keep the 2:00 PM ATV start. |
-| 1:30–2:00 PM | Prepare for ATV, meet the guides and attend the safety briefing. Barte’s parents remain at the beach cottage. Pickup point still needs confirmation. |
+| 6:30–7:00 AM | Meet and load at Jollibee Soliven (tentative). IanCarl prepares and packs the light breakfast. Coordinate MC’s motorcycle parking before departure. |
+| 7:00–11:00 AM | Travel to Zambales. Allow about four hours, with a short rest stop if needed; arrival time depends on traffic. |
+| 11:00–11:45 AM | San Marcelino market / grocery stop (shortened to about 45 minutes). Buy all shared groceries in Zambales, including cooking oil, soy sauce, vinegar, other seasonings, Sunday breakfast ingredients, rice, fruit, drinking water, ice and charcoal. Homemade BBQ and pork adobo ingredients will be bought in Zambales, within the shared grocery-and-cake plan; IanCarl brings Saturday's light breakfast already prepared. |
+| 11:45 AM–12:45 PM | KDB Sweet Shop cake pickup and preordered Wideplate ulam pickup. House stop: cook lunch rice, refrigerate meat and cake, unload and prepare beach bags. Divide tasks; this is a tight target. |
+| 12:45–1:15 PM | Travel to I Love BayBay. Target arrival around 1:15 PM; outside-food permission and the day-use arrangements need a clear reply. |
+| 1:15–1:45 PM | Quick lunch at the open cottage: Wideplate ulam with house-cooked rice. Coordinate the seafood allergy. With the 7:00 AM departure, beach bonding/photos before ATV will be limited. |
+| 1:45–2:00 PM | Prepare for ATV, meet the guides and attend the safety briefing. Barte’s parents remain at the beach cottage. Pickup point still needs confirmation. **Timing is tight:** confirm with the ATV operator whether a delayed arrival can be accommodated. |
 | 2:00–5:00 PM | Five friends plan to ride ATVs; reconfirm the revised rider count, required ATV units and arrangements with the operator. Guide/emergency arrangements remain subject to confirmation. Package includes waterfalls, coastal and beach trails, carabao ride, **trekking to the falls**, about one hour at the falls and drone shots. Guide must arrange upper-falls access before its 4:00 PM cutoff. |
 | 5:00–6:00 PM | Reunite with the parents, wash up and collect belongings. Confirm resort showers and allowed day-tour hours. |
 | 6:00–8:00 PM | Return to the house, prepare and grill homemade pork BBQ, cook pork adobo and rice, and eat together. |
