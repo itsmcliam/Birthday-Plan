@@ -9,7 +9,7 @@
 | Celebration | Anne & MC • November 7–8, 2026 |
 | Stay | Barte’s grandfather’s house, San Antonio |
 | Headcount | **7 total: 5 friends + Barte’s 2 parents** |
-| Meetup | Jollibee Soliven (tentative) • meet 6:30 AM; depart **7:00 AM** |
+| Meetup / departure | Jollibee Soliven (tentative) • meet **6:30 AM**; **7:00 AM leave for Zambales** |
 | Transport | Barte’s father driving; confirm vehicle and seating arrangements |
 | Saturday | Beach lunch, ATV and birthday dinner |
 | Sunday | Camara, Capones and Anawangin island hopping |
@@ -20,9 +20,9 @@
 All prices, budgets, contribution amounts and payment details are tracked **privately**, not in this public GitHub trip plan.
 
 - **Headcount:** five friends and Barte's two parents (seven people in total).
-- **November 6:** MC has sent Barte the transport advance; Barte plans to allocate his trip contribution and prepare gas and toll RFID before departure. Confirm fuel and toll loading when done.
+- **November 6 — Done:** MC sent the transport advance to Barte, and Barte’s trip contribution is allocated toward the gas and toll RFID fund. Transport funding arrangement completed.
 - **Parents' transport contribution:** confirmed. Keep the amount and payment details in the private budget.
-- **November 7:** Travel to Zambales as planned, with the Saturday beach and ATV schedule.
+- **November 7:** **7:00 AM departure from QC to Zambales** (not the meetup time), followed by the Saturday beach and ATV schedule.
 - **November 8:** Five friends will go island hopping; Barte's parents will not join the boat or ATV activities.
 
 For personal preparation, bring your own spending money, ID, medicines, and valuables. Ask MC privately about contribution/payment details.
