@@ -34,14 +34,14 @@ For personal preparation, bring your own spending money, ID, medicines, and valu
 | 4:00–4:45 AM | Personal preparations, final checks, breakfast/snacks and luggage. IanCarl prepares and packs Saturday's light breakfast. |
 | 4:45–5:00 AM | Meetup and load at Jollibee Soliven (tentative). Coordinate MC’s motorcycle parking before departure. |
 | **5:00–9:00/10:00 AM** | **Target departure at 5:00 AM; drive to Zambales.** Estimated arrival around **9:00–10:00 AM** after roughly 4–5 hours. Allow extra time for traffic and rest stops. |
-| 9:00–11:00 AM (flexible) | After arrival, San Marcelino groceries and stop at Barte's grandfather's house: unload, prepare lunch rice, refrigerate meat and get beach supplies ready. Buy all groceries in Zambales, including BBQ, pork adobo and Sunday breakfast ingredients. This window shortens if the drive takes longer. |
+| 9:00–11:00 AM (flexible) | After arrival, San Marcelino groceries and stop at Barte's grandfather's house: unload, prepare lunch rice, refrigerate meat and get beach supplies ready. Buy all groceries in Zambales, including pork liempo for grilling (inihaw na liempo), pork for adobo and Sunday breakfast ingredients. This window shortens if the drive takes longer. |
 | 11:00 AM–12:15 PM | **KDB Sweet Shop cake pickup around 11:00–11:30 AM** (confirm); **Wideplate takeout around 12:00 NN** (if advance order confirmed). Keep cake chilled and coordinate the house stop or safe cold storage. |
 | 12:15–12:45 PM | Travel to I Love BayBay; outside-food permission and day-use arrangements still need confirmation. |
 | 12:45–1:30 PM | Wideplate takeout lunch with cooked rice at the beach cottage; brief bonding and photos if time allows. |
 | 1:30–2:00 PM | Prepare for ATV and attend the safety briefing. Barte’s parents remain at the beach cottage. Confirm pickup point with the operator. |
 | 2:00–5:00 PM | Five friends plan to ride **4 ATVs**; reconfirm vehicle/guide arrangements and the rate. Package includes waterfalls, coastal and beach trails, carabao ride, **trekking to the falls**, about one hour at the falls and drone shots. Guide must arrange upper-falls access before its 4:00 PM cutoff. |
 | 5:00–6:00 PM | Reunite with the parents, wash up and collect belongings. Confirm resort showers and allowed day-tour hours. |
-| 6:00–8:00 PM | Return to the house, prepare and grill homemade pork BBQ, cook pork adobo and rice, and eat together. |
+| 6:00–8:00 PM | Return to the house, prepare inihaw na liempo, cook pork adobo and rice, and eat together. |
 | 8:00 PM onward | Birthday cake for Anne and MC; games, music, photos and bonding at the house. Prepare Sunday’s bags. The driver needs sufficient rest. |
 
 ### Saturday meals and assignments
@@ -50,7 +50,7 @@ For personal preparation, bring your own spending money, ID, medicines, and valu
 | --- | --- |
 | Saturday light breakfast | IanCarl prepares and packs it. |
 | Saturday lunch | One each: Bistek Tagalog, Crispy Pork Sisig, Garlic Bangus and Pinakbet with Lechon Kawali; house-cooked rice. Confirm advance order, portions and pickup time. |
-| Saturday dinner | Homemade pork BBQ, pork adobo + rice. Buy the meat and cooking ingredients in Zambales; assign BBQ prep, adobo cook, grillers and rice cook. Included in the shared grocery-and-cake plan. |
+| Saturday dinner | Inihaw na liempo + pork adobo + rice. Buy the liempo, pork for adobo and seasonings in Zambales; assign grillers, adobo cook and rice cook. Included in the shared grocery-and-cake plan. |
 
 ## Sunday — November 8
 
@@ -137,14 +137,14 @@ Pack overnight belongings before heading out. The itinerary includes a return to
 
 | Already available — MC | Still to arrange / pack |
 | --- | --- |
-| ☑ Two soft-drink bottles | ☐ Main cooler — MC to borrow |
+| ☑ Soft drinks — ready to bring | ☑ Main cooler — ready |
 | ☑ Picnic mat; first-aid kit | — |
 | ☑ Paper plates; spoons and forks; cups | ☐ Shared sunscreen — volunteer |
 | ☑ Trash bags; tissue / paper towels | ☐ Lighter — volunteer |
 | ☑ Aluminum foil; food-safe lidded containers | ☐ Check for dish soap and sponges at the house; buy in Zambales only if needed |
 | ☑ Clean kitchen / microfiber cloths | ☐ UNO, playing cards or mini Jenga — volunteers |
 | ☑ Separate wiping and dish-drying cloths | ☐ Shuttlecocks — volunteer |
-| ☑ Three food trays | ☐ Suitable hot/cold storage for island lunch |
+| ☑ Three food trays; camera batteries fully charged | ☐ Suitable hot/cold storage for island lunch |
 
 
 | Anne | Karl | IanCarl |
@@ -160,9 +160,9 @@ All groceries, including Sunday breakfast ingredients, will be bought in Zambale
 
 | Category | Items to buy |
 | --- | --- |
-| ☐ Meat | Pork liempo (homemade BBQ), pork for adobo |
+| ☐ Meat | Pork liempo (for inihaw na liempo), pork for adobo |
 | ☐ Cooking / seasoning | Soy sauce & vinegar; cooking oil |
-| ☐ BBQ marinade | Banana ketchup & brown sugar |
+| ☐ Liempo marinade | Banana ketchup & brown sugar (if using this marinade) |
 | ☐ Aromatics | Garlic, onions & calamansi |
 | ☐ Spices | Salt & black pepper; whole peppercorns & bay leaves |
 | ☐ Grilling supplies | Charcoal & lighter |
