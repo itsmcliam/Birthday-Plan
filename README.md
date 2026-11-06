@@ -9,7 +9,7 @@
 | Celebration | Anne & MC • November 7–8, 2026 |
 | Stay | Barte’s grandfather’s house, San Antonio |
 | Headcount | **7 total: 5 friends + Barte’s 2 parents** |
-| Meetup / departure | Jollibee Soliven (tentative) • meet **6:30 AM**; **7:00 AM leave for Zambales** |
+| Saturday departure | **4:00 AM preparations**; Jollibee Soliven meetup (tentative) **4:45 AM**; target **5:00 AM departure** |
 | Transport | Barte’s father driving; confirm vehicle and seating arrangements |
 | Saturday | Beach lunch, ATV and birthday dinner |
 | Sunday | Camara, Capones and Anawangin island hopping |
@@ -22,7 +22,7 @@ All prices, budgets, contribution amounts and payment details are tracked **priv
 - **Headcount:** five friends and Barte's two parents (seven people in total).
 - **November 6 — Done:** MC sent the transport advance to Barte, and Barte’s trip contribution is allocated toward the gas and toll RFID fund. Transport funding arrangement completed.
 - **Parents' transport contribution:** confirmed. Keep the amount and payment details in the private budget.
-- **November 7:** **7:00 AM departure from QC to Zambales** (not the meetup time), followed by the Saturday beach and ATV schedule.
+- **November 7:** Start personal preparations at **4:00 AM**, meet/load around **4:45 AM**, and target **5:00 AM departure from QC to Zambales**. Estimated arrival in the San Marcelino / San Antonio area: **9:00–10:00 AM** (roughly 4–5 hours; traffic and stops may change this). Saturday beach and **2:00 PM ATV** remain planned.
 - **November 8:** Five friends will go island hopping; Barte's parents will not join the boat or ATV activities.
 
 For personal preparation, bring your own spending money, ID, medicines, and valuables. Ask MC privately about contribution/payment details.
@@ -31,14 +31,15 @@ For personal preparation, bring your own spending money, ID, medicines, and valu
 
 | Time | Saturday, November 7 |
 | --- | --- |
-| 6:30–7:00 AM | Meet and load at Jollibee Soliven (tentative). IanCarl prepares and packs the light breakfast. Coordinate MC’s motorcycle parking before departure. |
-| 7:00–11:00 AM | Travel to Zambales. Allow about four hours, with a short rest stop if needed; arrival time depends on traffic. |
-| 11:00–11:45 AM | San Marcelino market / grocery stop (shortened to about 45 minutes). Buy all shared groceries in Zambales, including cooking oil, soy sauce, vinegar, other seasonings, Sunday breakfast ingredients, rice, fruit, drinking water, ice and charcoal. Homemade BBQ and pork adobo ingredients will be bought in Zambales, within the shared grocery-and-cake plan; IanCarl brings Saturday's light breakfast already prepared. |
-| 11:45 AM–12:45 PM | KDB Sweet Shop cake pickup and preordered Wideplate ulam pickup. House stop: cook lunch rice, refrigerate meat and cake, unload and prepare beach bags. Divide tasks; this is a tight target. |
-| 12:45–1:15 PM | Travel to I Love BayBay. Target arrival around 1:15 PM; outside-food permission and the day-use arrangements need a clear reply. |
-| 1:15–1:45 PM | Quick lunch at the open cottage: Wideplate ulam with house-cooked rice. Coordinate the seafood allergy. With the 7:00 AM departure, beach bonding/photos before ATV will be limited. |
-| 1:45–2:00 PM | Prepare for ATV, meet the guides and attend the safety briefing. Barte’s parents remain at the beach cottage. Pickup point still needs confirmation. **Timing is tight:** confirm with the ATV operator whether a delayed arrival can be accommodated. |
-| 2:00–5:00 PM | Five friends plan to ride ATVs; reconfirm the revised rider count, required ATV units and arrangements with the operator. Guide/emergency arrangements remain subject to confirmation. Package includes waterfalls, coastal and beach trails, carabao ride, **trekking to the falls**, about one hour at the falls and drone shots. Guide must arrange upper-falls access before its 4:00 PM cutoff. |
+| 4:00–4:45 AM | Personal preparations, final checks, breakfast/snacks and luggage. IanCarl prepares and packs Saturday's light breakfast. |
+| 4:45–5:00 AM | Meetup and load at Jollibee Soliven (tentative). Coordinate MC’s motorcycle parking before departure. |
+| **5:00–9:00/10:00 AM** | **Target departure at 5:00 AM; drive to Zambales.** Estimated arrival around **9:00–10:00 AM** after roughly 4–5 hours. Allow extra time for traffic and rest stops. |
+| 9:00–11:00 AM (flexible) | After arrival, San Marcelino groceries and stop at Barte's grandfather's house: unload, prepare lunch rice, refrigerate meat and get beach supplies ready. Buy all groceries in Zambales, including BBQ, pork adobo and Sunday breakfast ingredients. This window shortens if the drive takes longer. |
+| 11:00 AM–12:15 PM | **KDB Sweet Shop cake pickup around 11:00–11:30 AM** (confirm); **Wideplate takeout around 12:00 NN** (if advance order confirmed). Keep cake chilled and coordinate the house stop or safe cold storage. |
+| 12:15–12:45 PM | Travel to I Love BayBay; outside-food permission and day-use arrangements still need confirmation. |
+| 12:45–1:30 PM | Wideplate takeout lunch with cooked rice at the beach cottage; brief bonding and photos if time allows. |
+| 1:30–2:00 PM | Prepare for ATV and attend the safety briefing. Barte’s parents remain at the beach cottage. Confirm pickup point with the operator. |
+| 2:00–5:00 PM | Five friends plan to ride **4 ATVs**; reconfirm vehicle/guide arrangements and the rate. Package includes waterfalls, coastal and beach trails, carabao ride, **trekking to the falls**, about one hour at the falls and drone shots. Guide must arrange upper-falls access before its 4:00 PM cutoff. |
 | 5:00–6:00 PM | Reunite with the parents, wash up and collect belongings. Confirm resort showers and allowed day-tour hours. |
 | 6:00–8:00 PM | Return to the house, prepare and grill homemade pork BBQ, cook pork adobo and rice, and eat together. |
 | 8:00 PM onward | Birthday cake for Anne and MC; games, music, photos and bonding at the house. Prepare Sunday’s bags. The driver needs sufficient rest. |
@@ -48,14 +49,14 @@ For personal preparation, bring your own spending money, ID, medicines, and valu
 | Meal | Plan / assignment |
 | --- | --- |
 | Saturday light breakfast | IanCarl prepares and packs it. |
-| Saturday lunch | Bistek Tagalog, Crispy Pork Sisig, Classic Garlic Bangus, Pinakbet with Lechon Kawali and Pork Lumpia; house rice. Portions and allergy arrangements pending. |
+| Saturday lunch | One each: Bistek Tagalog, Crispy Pork Sisig, Garlic Bangus and Pinakbet with Lechon Kawali; house-cooked rice. Confirm advance order, portions and pickup time. |
 | Saturday dinner | Homemade pork BBQ, pork adobo + rice. Buy the meat and cooking ingredients in Zambales; assign BBQ prep, adobo cook, grillers and rice cook. Included in the shared grocery-and-cake plan. |
 
 ## Sunday — November 8
 
 | Time | Sunday, November 8 |
 | --- | --- |
-| 5:30–7:00 AM | Karl and MC prepare Spam, eggs, hotdogs and Milo for breakfast, with optional coffee for Barte's parents. Confirm portions with Karl. Cook island-lunch rice; Fat Belly Deli early takeout is tentative. |
+| 5:30–7:00 AM | Karl and MC prepare **sinangag**, Spam, eggs, hotdogs and Milo for breakfast, with optional coffee for Barte's parents. Use properly refrigerated leftover rice for sinangag if available; cook island-lunch rice separately. Fat Belly Deli early takeout is tentative. |
 | 7:00–7:30 AM | Eat, clean up and pack day bags, food and water. Collect Fat Belly takeout only if early pickup is confirmed; organize overnight bags for the house return. |
 | 7:30–8:00 AM | Travel to the boat meeting point. Allow about 15 minutes from Jollibee San Antonio, plus time from the house and boarding buffer. Meeting point: Purok 2 Ariño Parking. At the tourism checkpoint before Pundaquit, settle the tourism fee from the shared fund, name Jessilyn Racel Gruezo as our contact and show her permit image. Whole-day parking is subject to the operator's instructions. |
 | 8:00–8:30 AM | Meet Jessilyn’s operator, load food and bags, and prepare life jackets. Confirm the stop order and return pickup. |
@@ -73,7 +74,7 @@ For personal preparation, bring your own spending money, ID, medicines, and valu
 
 | Meal | Plan / assignment |
 | --- | --- |
-| Sunday breakfast | Spam, eggs, hotdogs and Milo; optional coffee for Barte's parents. Karl and MC will prepare. |
+| Sunday breakfast | **Sinangag**, Spam, eggs, hotdogs and Milo; optional coffee for Barte's parents. Karl and MC will prepare. |
 | Sunday lunch | Tentative Fat Belly Deli takeout + house-cooked rice. Menu, serving sizes and early pickup pending. |
 | Sunday dinner | KKB fast-food meal in QC. |
 
@@ -165,7 +166,7 @@ All groceries, including Sunday breakfast ingredients, will be bought in Zambale
 | ☐ Aromatics | Garlic, onions & calamansi |
 | ☐ Spices | Salt & black pepper; whole peppercorns & bay leaves |
 | ☐ Grilling supplies | Charcoal & lighter |
-| ☐ Rice | For Saturday lunch, Saturday dinner and Sunday island lunch only |
+| ☐ Rice | Saturday lunch, Saturday dinner and Sunday island lunch; reserve properly refrigerated Saturday rice for Sunday sinangag, if available |
 | ☐ Sunday breakfast | Eggs, Spam & hotdogs; Milo; coffee (optional) |
 | ☐ Water & ice | Drinking water for both days; fresh ice for Saturday and Sunday |
 | ☐ Fruits | Bananas & watermelon |
