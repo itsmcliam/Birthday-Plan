@@ -140,7 +140,7 @@ Pack overnight belongings before heading out. The itinerary includes a return to
 | ☑ Picnic mat; first-aid kit | — |
 | ☑ Paper plates; spoons and forks; cups | ☐ Shared sunscreen — volunteer |
 | ☑ Trash bags; tissue / paper towels | ☐ Lighter — volunteer |
-| ☑ Aluminum foil; food-safe lidded containers | ☐ Dishwashing liquid, 200–250 mL; 1–2 sponges — volunteer |
+| ☑ Aluminum foil; food-safe lidded containers | ☐ Check for dish soap and sponges at the house; buy in Zambales only if needed |
 | ☑ Clean kitchen / microfiber cloths | ☐ UNO, playing cards or mini Jenga — volunteers |
 | ☑ Separate wiping and dish-drying cloths | ☐ Shuttlecocks — volunteer |
 | ☑ Three food trays | ☐ Suitable hot/cold storage for island lunch |
@@ -150,8 +150,8 @@ Pack overnight belongings before heading out. The itinerary includes a return to
 | --- | --- | --- |
 | ☐ Camera and phone tripods | ☐ Confirm Sunday breakfast portions: Spam, eggs, hotdogs and Milo | ☐ Prepare and pack Saturday light breakfast |
 | ☐ Picnic mat | ☐ Coordinate buying Sunday breakfast ingredients in Zambales | ☐ Badminton rackets |
-| ☐ Confirm volleyball to bring | ☐ Speaker, subject to venue permission | ☐ Dishwashing |
-| ☐ Confirm whether optional longganisa is needed; buy in Zambales if chosen | ☐ Tent only if useful and permitted | ☐ Rackets available; shuttlecocks still needed |
+| ☐ Confirm volleyball to bring | ☐ Bring small speaker, subject to venue permission | — |
+| — | — | ☐ Rackets available; shuttlecocks still needed |
 
 ## Shopping checklist — buy in Zambales
 
