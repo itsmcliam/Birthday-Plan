@@ -1,6 +1,6 @@
 # San Antonio, Zambales — Birthday Trip
 
-**November 7–8, 2026 · Birthdays of Anne, MC and Paul**
+**November 7–8, 2026 · Birthdays of Anne and MC**
 
 ## Trip at a glance
 
@@ -8,7 +8,7 @@
 
 | Detail | Plan |
 | --- | --- |
-| Celebration | Anne, MC & Paul • November 7–8, 2026 |
+| Celebration | Anne & MC • November 7–8, 2026 |
 | Stay | Barte’s grandfather’s house, San Antonio |
 | Headcount | **7 total: 5 friends + Barte’s 2 parents** |
 | Meetup | Jollibee Soliven (tentative) • 5:30 AM; leave 6:00 AM |
@@ -37,15 +37,15 @@ For personal preparation, bring your own spending money, ID, medicines, and valu
 | --- | --- |
 | 5:30–6:00 AM | Meet and load at Jollibee Soliven (tentative). IanCarl prepares and packs the light breakfast. Coordinate MC’s motorcycle parking before departure. |
 | 6:00–10:00 AM | Travel to Zambales. Allow about four hours, with a short rest stop if needed. |
-| 10:00–11:00 AM | One-hour San Marcelino market / grocery stop. Buy all shared groceries in Zambales, including cooking oil, soy sauce, vinegar, other seasonings, Sunday breakfast ingredients, rice, fruit, drinking water, ice and charcoal. Homemade BBQ ingredients (fresh pork, marinade and sticks/skewers) will be bought in Zambales, within the shared grocery-and-cake allocation; IanCarl brings Saturday's light breakfast already prepared. |
+| 10:00–11:00 AM | One-hour San Marcelino market / grocery stop. Buy all shared groceries in Zambales, including cooking oil, soy sauce, vinegar, other seasonings, Sunday breakfast ingredients, rice, fruit, drinking water, ice and charcoal. Homemade BBQ and pork adobo ingredients will be bought in Zambales, within the shared grocery-and-cake plan; IanCarl brings Saturday's light breakfast already prepared. |
 | 11:00 AM–12:00 NN | KDB Sweet Shop cake pickup and preordered Wideplate ulam pickup. House stop: cook lunch rice, refrigerate meat and cake, unload and prepare beach bags. Divide tasks; this is a tight target. |
 | 12:00–12:30 PM | Travel to I Love BayBay. Target arrival 12:30 PM; outside-food permission and the day-use arrangements need a clear reply. |
 | 12:30–1:30 PM | Lunch at the open cottage: Wideplate ulam with house-cooked rice, then bonding and photos. Coordinate the seafood allergy. If errands run late, shorten beach bonding to keep the 2:00 PM ATV start. |
 | 1:30–2:00 PM | Prepare for ATV, meet the guides and attend the safety briefing. Barte’s parents remain at the beach cottage. Pickup point still needs confirmation. |
 | 2:00–5:00 PM | Five friends plan to ride ATVs; reconfirm the revised rider count, required ATV units and arrangements with the operator. Guide/emergency arrangements remain subject to confirmation. Package includes waterfalls, coastal and beach trails, carabao ride, **trekking to the falls**, about one hour at the falls and drone shots. Guide must arrange upper-falls access before its 4:00 PM cutoff. |
 | 5:00–6:00 PM | Reunite with the parents, wash up and collect belongings. Confirm resort showers and allowed day-tour hours. |
-| 6:00–8:00 PM | Return to the house, prepare and grill homemade pork BBQ, cook rice, and eat together. No separate pork adobo dish is currently planned. |
-| 8:00 PM onward | Birthday cake for Anne, MC and Paul; games, music, photos and bonding at the house. Prepare Sunday’s bags. The driver needs sufficient rest. |
+| 6:00–8:00 PM | Return to the house, prepare and grill homemade pork BBQ, cook pork adobo and rice, and eat together. |
+| 8:00 PM onward | Birthday cake for Anne and MC; games, music, photos and bonding at the house. Prepare Sunday’s bags. The driver needs sufficient rest. |
 
 ### Saturday meals and assignments
 
@@ -53,13 +53,13 @@ For personal preparation, bring your own spending money, ID, medicines, and valu
 | --- | --- |
 | Saturday light breakfast | IanCarl prepares and packs it. |
 | Saturday lunch | Bistek Tagalog, Crispy Pork Sisig, Classic Garlic Bangus, Pinakbet with Lechon Kawali and Pork Lumpia; house rice. Portions and allergy arrangements pending. |
-| Saturday dinner | Homemade pork BBQ + rice (instead of a separate adobo meal). Buy raw pork, BBQ marinade ingredients and skewers in Zambales; assign BBQ prep, grillers and rice cook. Included in the shared grocery-and-cake plan. |
+| Saturday dinner | Homemade pork BBQ, pork adobo + rice. Buy the meat and cooking ingredients in Zambales; assign BBQ prep, adobo cook, grillers and rice cook. Included in the shared grocery-and-cake plan. |
 
 ## Sunday — November 8
 
 | Time | Sunday, November 8 |
 | --- | --- |
-| 5:30–7:00 AM | Karl and MC cook sinangag, Spam, eggs and hotdogs. Longganisa is optional instead of hotdogs; serve Milo / Swiss Miss, with optional coffee for Barte's parents. Confirm quantities with Karl. Cook island-lunch rice; Fat Belly Deli early takeout is tentative. |
+| 5:30–7:00 AM | Karl and MC prepare Spam, eggs, hotdogs and Milo for breakfast, with optional coffee for Barte's parents. Confirm portions with Karl. Cook island-lunch rice; Fat Belly Deli early takeout is tentative. |
 | 7:00–7:30 AM | Eat, clean up and pack day bags, food and water. Collect Fat Belly takeout only if early pickup is confirmed; organize overnight bags for the house return. |
 | 7:30–8:00 AM | Travel to the boat meeting point. Allow about 15 minutes from Jollibee San Antonio, plus time from the house and boarding buffer. Meeting point: Purok 2 Ariño Parking. At the tourism checkpoint before Pundaquit, settle the tourism fee from the shared fund, name Jessilyn Racel Gruezo as our contact and show her permit image. Whole-day parking is subject to the operator's instructions. |
 | 8:00–8:30 AM | Meet Jessilyn’s operator, load food and bags, and prepare life jackets. Confirm the stop order and return pickup. |
@@ -77,7 +77,7 @@ For personal preparation, bring your own spending money, ID, medicines, and valu
 
 | Meal | Plan / assignment |
 | --- | --- |
-| Sunday breakfast | Sinangag, Spam, eggs and hotdogs; optional longganisa instead of hotdogs. Milo / Swiss Miss, and optional coffee for Barte's parents. Karl and MC will cook. |
+| Sunday breakfast | Spam, eggs, hotdogs and Milo; optional coffee for Barte's parents. Karl and MC will prepare. |
 | Sunday lunch | Tentative Fat Belly Deli takeout + house-cooked rice. Menu, serving sizes and early pickup pending. |
 | Sunday dinner | KKB fast-food meal in QC. |
 
@@ -152,40 +152,38 @@ Pack overnight belongings before heading out. The itinerary includes a return to
 
 | Anne | Karl | IanCarl |
 | --- | --- | --- |
-| ☐ Camera and phone tripods | ☐ Confirm Sunday breakfast portions: sinangag, Spam, eggs and hotdogs | ☐ Prepare and pack Saturday light breakfast |
+| ☐ Camera and phone tripods | ☐ Confirm Sunday breakfast portions: Spam, eggs, hotdogs and Milo | ☐ Prepare and pack Saturday light breakfast |
 | ☐ Picnic mat | ☐ Coordinate buying Sunday breakfast ingredients in Zambales | ☐ Badminton rackets |
 | ☐ Confirm volleyball to bring | ☐ Speaker, subject to venue permission | ☐ Dishwashing |
 | ☐ Confirm whether optional longganisa is needed; buy in Zambales if chosen | ☐ Tent only if useful and permitted | ☐ Rackets available; shuttlecocks still needed |
 
-## Shopping checklist
+## Shopping checklist — buy in Zambales
 
-| Buy from QC | Buy in Zambales / pick up |
+All groceries, including Sunday breakfast ingredients, will be bought in Zambales. The birthday cake and preordered meals are separate pickups.
+
+| Category | Items to buy |
 | --- | --- |
-| No separate QC BBQ purchase planned | ☐ Fresh pork for homemade BBQ — confirm quantity for 7 people |
-| — | ☐ Rice — around 4–5 kg for four rice meals |
-| — | ☐ Sunday breakfast: Spam, eggs and hotdogs; optional longganisa instead of hotdogs |
-| — | ☐ Breakfast drinks: Milo / Swiss Miss; coffee if needed |
-| — | ☐ Cooking oil, soy sauce and vinegar |
-| — | ☐ Salt, peppercorns, laurel, garlic, onions and calamansi |
-| — | ☐ BBQ skewers, marinade ingredients and other sauces/seasonings needed for homemade BBQ, rice and breakfast (confirm with cooks) |
-| — | ☐ Bananas and one small watermelon |
-| — | ☐ Drinking water — start with 20 L; replenish as needed |
-| — | ☐ Ice and charcoal |
-| — | ☐ Iced-tea sachets, if wanted |
-| — | ☐ Sharing chips, around four bags; one cracker / biscuit multipack |
-| — | ☐ KDB Sweet Shop cake pickup after groceries |
-| — | ☐ Wideplate takeout ulam pickup |
-| — | ☐ Sunday takeout once confirmed; Fat Belly Deli tentative |
+| ☐ Meat | Pork liempo (homemade BBQ), pork for adobo |
+| ☐ Cooking / seasoning | Soy sauce & vinegar; cooking oil |
+| ☐ BBQ marinade | Banana ketchup & brown sugar |
+| ☐ Aromatics | Garlic, onions & calamansi |
+| ☐ Spices | Salt & black pepper; whole peppercorns & bay leaves |
+| ☐ Grilling supplies | Charcoal & lighter |
+| ☐ Rice | For Saturday lunch, Saturday dinner and Sunday island lunch only |
+| ☐ Sunday breakfast | Eggs, Spam & hotdogs; Milo; coffee (optional) |
+| ☐ Water & ice | Drinking water for both days; fresh ice for Saturday and Sunday |
+| ☐ Fruits | Bananas & watermelon |
+| ☐ Snacks | Chips & crackers/biscuits |
 
-## Attendance — updated November 5
+**Separate pickups:** KDB Sweet Shop birthday cake; Wideplate Saturday lunch order; Sunday lunch takeout if confirmed (Fat Belly Deli tentative).
 
-| Person | Status | Notes |
-| --- | --- | --- |
-| MC / Anne / Karl / Ian Barte / IanCarl | Joining | **5 friends** |
-| Barte’s parents | Joining | **2 parents**; Barte’s father is the driver |
-| Blessy | Not in current headcount | Reconfirm separately if plans change |
-| Jannelle / Paul / Ian Carreon | Not joining | Not included in budget |
-| **Trip total** | **7 people** | **5 friends + 2 parents** |
+## Confirmed attendees — November 6
+
+| Who | Details |
+| --- | --- |
+| MC, Anne, Karl, Ian Barte, IanCarl | **5 friends** |
+| Barte’s parents | **2 parents**; Barte’s father is the driver |
+| **Total** | **7 people** |
 
 Plan the **ATV and November 8 island hopping for five friends only**; Barte’s parents are **not participating** in either. Jessilyn confirmed the **medium private boat for 5 passengers**. The booking deposit is not yet recorded as paid. The revised ATV arrangements for five riders are still pending.
 
